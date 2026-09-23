@@ -19,7 +19,7 @@ from pathlib import Path
 import requests
 
 FEED_URL = "https://www.sportschau.de/fussball/bundesliga/index~rss2.xml"
-OUTPUT_PATH = Path(__file__).resolve().parents[2] / "data" / "news.json"
+OUTPUT_PATH = Path(__file__).resolve().parents[2] / "data" / "sources" / "sportschau.json"
 USER_AGENT = "KaderKiosk/0.1 (+https://github.com/dav1dsb/kaderkiosk)"
 
 # Bundesliga-Saison 2026/27. Aliase als Regex, \b-begrenzt; mehrdeutige Namen wie "Borussia" bewusst nicht.
@@ -184,12 +184,12 @@ def scrape() -> list[dict]:
     return sorted(entries, key=lambda e: datetime.fromisoformat(e["erfasst_am"]), reverse=True)
 
 
-def write_news(entries: list[dict], path: Path = OUTPUT_PATH) -> None:
+def write_entries(entries: list[dict], path: Path = OUTPUT_PATH) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
     path.write_text(json.dumps(entries, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
 
 
 if __name__ == "__main__":
     entries = scrape()
-    write_news(entries)
+    write_entries(entries)
     print(f"{len(entries)} Einträge nach {OUTPUT_PATH} geschrieben")
