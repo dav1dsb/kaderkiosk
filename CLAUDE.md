@@ -65,6 +65,9 @@ Außerdem bewusst ausgeschlossen: 18 einzelne Vereinsseiten, Goal.de-Einzelartik
 
 `erfasst_am` ist das Veröffentlichungsdatum des Artikels bzw. Feed-Eintrags – alle Quellen sind Artikel/Feeds (siehe Prinzip oben).
 
+### Zusammenführen und Duplikate
+`python -m scraper.main` liest alle `data/sources/*.json`, entfernt Duplikate (`scraper/dedupe.py`) und schreibt `data/news.json`, sortiert nach `erfasst_am`, neueste zuerst. Duplikat-Schlüssel: `quelle` (URL, normalisiert: Schema/Host klein, ohne Fragment und abschließenden Schrägstrich) + `verein`; pro Schlüssel bleibt der früheste Eintrag. Dieselbe Nachricht aus verschiedenen Quellen (andere URL) gilt nicht als Duplikat. Unlesbare Quelldateien und ungültige Einträge werden mit Warnung übersprungen.
+
 ## Tech-Stack & Repo-Setup
 - Sprache: Python (requests/BeautifulSoup, läuft problemlos in GitHub Actions)
 - GitHub Actions: Workflow in `.github/workflows/scrape.yml`, Cron alle 30 Minuten
