@@ -1,0 +1,56 @@
+# Holt alle 15 Minuten die Feeds, führt sie zu data/news.json zusammen und committet nur bei Änderungen.
+name: Scrape
+
+on:
+  schedule:
+    - cron: "*/15 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+# Keine überlappenden Läufe, die gleichzeitig pushen wollen; ein laufender Lauf wird nicht abgebrochen.
+concurrency:
+  group: scrape
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.13"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      # Ein ausgefallener Feed bricht den Lauf nicht ab: Die Scraper schreiben ihre Datei erst nach
+      # erfolgreichem Abruf, main.py nimmt dann den letzten Stand dieser Quelle aus dem Repo.
+      - name: sportschau.de
+        continue-on-error: true
+        run: python -m scraper.sources.sportschau_rss
+
+      - name: getfootballnewsgermany.com
+        continue-on-error: true
+        run: python -m scraper.sources.ggfn_rss
+
+      - name: Zusammenführen
+        run: python -m scraper.main
+
+      - name: Committen, falls sich Daten geändert haben
+        run: |
+          git add data/news.json data/sources/
+          if git diff --cached --quiet; then
+            echo "Keine Änderungen an den Daten – kein Commit."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Daten aktualisiert ($(date -u '+%Y-%m-%d %H:%M UTC'))"
+          # Falls zwischenzeitlich jemand Code gepusht hat: Datencommit obendrauf setzen statt abzulehnen.
+          git pull --rebase origin "${GITHUB_REF_NAME}"
+          git push origin "HEAD:${GITHUB_REF_NAME}"

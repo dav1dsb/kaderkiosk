@@ -30,7 +30,7 @@ Datenfluss: öffentliche Quellen → Scraping-Script → JSON im Repo → Dashbo
 | Komponente | Rolle |
 | --- | --- |
 | Datenquellen | öffentliche, login-lose Webseiten/Feeds |
-| Taktgeber | GitHub Actions, Cron alle 30 Min |
+| Taktgeber | GitHub Actions, Cron alle 15 Min, Commit nur bei geänderten Daten |
 | Speicherung | pro Quelle `data/sources/<quelle>.json`; `main.py` führt sie zu `data/news.json` zusammen, von der Action aktualisiert |
 | Dashboard | statische Website über GitHub Pages (`docs/`) |
 | Benachrichtigungen | nicht Teil von V1 |
@@ -70,7 +70,8 @@ Außerdem bewusst ausgeschlossen: 18 einzelne Vereinsseiten, Goal.de-Einzelartik
 
 ## Tech-Stack & Repo-Setup
 - Sprache: Python (requests/BeautifulSoup, läuft problemlos in GitHub Actions)
-- GitHub Actions: Workflow in `.github/workflows/scrape.yml`, Cron alle 30 Minuten
+- GitHub Actions: Workflow in `.github/workflows/scrape.yml`, Cron alle 15 Minuten plus `workflow_dispatch` zum manuellen Auslösen. Begründung für 15 Minuten: Das Repo ist public, Actions-Minuten kosten also nichts – kürzer lohnt trotzdem nicht, weil die Artikel-Feeds nicht minütlich aktualisieren; 15 Minuten halten die Daten aktuell, ohne die Quellen unnötig oft abzufragen
+- Ablauf: beide Scraper nacheinander, jeweils mit `continue-on-error` – fällt ein Feed aus, führt `main.py` trotzdem mit dem letzten Stand dieser Quelle aus dem Repo zusammen. Committet und gepusht wird als `github-actions[bot]` nur, wenn sich `data/news.json` oder `data/sources/` tatsächlich geändert haben
 - Repo: **public** – GitHub Pages läuft auf dem kostenlosen Plan nur bei public Repos, zusätzlich unbegrenzte, kostenlose Actions-Minuten
 - Secrets: aktuell keine nötig (nur öffentliches Scraping); relevant erst ab einem Push-Kanal in V2, dann über Repo → Settings → Secrets and variables → Actions
 
