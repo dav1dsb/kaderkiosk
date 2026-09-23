@@ -1,0 +1,318 @@
+:root {
+  --paper: #F6F3EC;
+  --ink: #1C1A17;
+  --ink-muted: #5E584D;
+  --rule: #D9D3C6;
+  --rule-strong: #1C1A17;
+
+  --verletzung: #B34A3C;
+  --sperre: #B8863B;
+  --aufstellung: #3B6E8F;
+  --pressekonferenz: #8A8474;
+  --ergebnis: #5C8259;
+  --transfer: #7A5D74;
+
+  --display: "League Gothic", "Arial Narrow", "Roboto Condensed", sans-serif-condensed, sans-serif;
+  --serif: "Source Serif 4", "Source Serif Pro", Georgia, serif;
+
+  --gutter: 16px;
+  --spine: 9px;
+  --measure: 42rem;
+}
+
+*, *::before, *::after { box-sizing: border-box; }
+
+html { -webkit-text-size-adjust: 100%; }
+
+body {
+  margin: 0;
+  background: var(--paper);
+  color: var(--ink);
+  font-family: var(--serif);
+  font-size: 1.0625rem;
+  line-height: 1.5;
+  font-optical-sizing: auto;
+}
+
+a { color: inherit; }
+
+[hidden] { display: none !important; }
+
+:focus-visible {
+  outline: 2px solid var(--ink);
+  outline-offset: 2px;
+}
+
+/* ---------- Kopf ---------- */
+
+.masthead,
+.filter__chips,
+.clubnav,
+main,
+.colophon {
+  max-width: var(--measure);
+  margin-inline: auto;
+  padding-inline: max(var(--gutter), env(safe-area-inset-left)) max(var(--gutter), env(safe-area-inset-right));
+}
+
+.masthead {
+  padding-top: max(20px, env(safe-area-inset-top));
+  padding-bottom: 10px;
+}
+
+.masthead__title {
+  margin: 0;
+  font-family: var(--display);
+  font-weight: 400;
+  font-size: 3rem;
+  line-height: 0.95;
+  letter-spacing: 0.01em;
+}
+
+.masthead__stand {
+  margin: 4px 0 0;
+  font-size: 0.875rem;
+  color: var(--ink-muted);
+}
+
+/* ---------- Kategorie-Filter ---------- */
+
+.filter {
+  position: sticky;
+  top: 0;
+  z-index: 2;
+  background: var(--paper);
+  border-bottom: 1px solid var(--rule);
+}
+
+.filter__chips {
+  display: flex;
+  gap: 6px;
+  overflow-x: auto;
+  scrollbar-width: none;
+  padding-block: 10px;
+}
+.filter__chips::-webkit-scrollbar { display: none; }
+
+.chip {
+  --cat: var(--ink);
+  flex: none;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  min-height: 34px;
+  padding: 0 10px;
+  border: 1px solid var(--rule);
+  border-radius: 3px;
+  background: transparent;
+  color: var(--ink);
+  font: inherit;
+  font-size: 0.875rem;
+  line-height: 1;
+  cursor: pointer;
+}
+.chip__swatch {
+  width: 9px;
+  height: 9px;
+  background: var(--cat);
+}
+.chip__count {
+  color: var(--ink-muted);
+  font-variant-numeric: tabular-nums;
+}
+.chip[aria-pressed="true"] {
+  background: var(--cat);
+  border-color: var(--cat);
+  color: var(--chip-on, #fff);
+}
+.chip[aria-pressed="true"] .chip__count { color: inherit; opacity: 0.8; }
+.chip[aria-pressed="true"] .chip__swatch { background: currentColor; }
+.chip:disabled {
+  cursor: default;
+  color: var(--ink-muted);
+  border-style: dashed;
+}
+.chip:disabled .chip__swatch { opacity: 0.45; }
+
+/* ---------- Sprungleiste Vereine ---------- */
+
+.clubnav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px 12px;
+  padding-top: 12px;
+  padding-bottom: 4px;
+  font-size: 0.875rem;
+}
+.clubnav a {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  min-height: 28px;
+  text-decoration: none;
+  font-variant-numeric: tabular-nums;
+}
+.clubnav a:hover .clubnav__code { text-decoration: underline; }
+.clubnav__kit {
+  width: 10px;
+  height: 14px;
+  background: linear-gradient(90deg, var(--c1) 0 60%, var(--c2) 60% 100%);
+  box-shadow: inset 0 0 0 1px rgb(28 26 23 / 0.18);
+}
+.clubnav__code { font-weight: 600; }
+.clubnav__count { color: var(--ink-muted); }
+
+/* ---------- Vereinsabschnitte ---------- */
+
+main { padding-bottom: 8px; }
+
+.club {
+  position: relative;
+  margin-top: 28px;
+  padding-left: calc(var(--spine) + 12px);
+  scroll-margin-top: 64px;
+}
+/* Trikotstreifen: Haupt- und Nebenfarbe des Vereins über die ganze Höhe des Abschnitts. */
+.club::before {
+  content: "";
+  position: absolute;
+  inset: 0 auto 0 0;
+  width: var(--spine);
+  background: linear-gradient(90deg, var(--c1) 0 6px, var(--c2) 6px 100%);
+  box-shadow: inset 0 0 0 1px rgb(28 26 23 / 0.14);
+}
+
+.club__head {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 12px;
+  padding-bottom: 4px;
+  border-bottom: 2px solid var(--rule-strong);
+}
+.club__name {
+  margin: 0;
+  font-family: var(--display);
+  font-weight: 400;
+  font-size: 2.125rem;
+  line-height: 1;
+  letter-spacing: 0.01em;
+}
+.club__count {
+  flex: none;
+  font-size: 0.875rem;
+  color: var(--ink-muted);
+  font-variant-numeric: tabular-nums;
+}
+
+.items { margin: 0; padding: 0; list-style: none; }
+
+.item {
+  padding: 12px 0 13px;
+  border-bottom: 1px solid var(--rule);
+}
+.item:last-child { border-bottom: 0; }
+
+/* Kategorie | Status (darf umbrechen) | Zeit rechts */
+.item__meta {
+  display: grid;
+  grid-template-columns: auto minmax(0, 1fr) auto;
+  align-items: baseline;
+  column-gap: 10px;
+  font-size: 0.875rem;
+  line-height: 1.3;
+}
+.item__cat {
+  display: inline-flex;
+  align-items: baseline;
+  gap: 6px;
+  font-weight: 600;
+}
+.item__cat::before {
+  content: "";
+  flex: none;
+  width: 9px;
+  height: 9px;
+  background: var(--cat, var(--pressekonferenz));
+  transform: translateY(-1px);
+}
+.item__status { color: var(--ink-muted); }
+.item__time {
+  grid-column: 3;
+  color: var(--ink-muted);
+  font-variant-numeric: tabular-nums;
+  white-space: nowrap;
+}
+
+.item__title {
+  margin: 5px 0 0;
+  font-size: 1.0625rem;
+  font-weight: 600;
+  line-height: 1.35;
+}
+.item__teaser {
+  margin: 3px 0 0;
+  font-size: 0.9375rem;
+  line-height: 1.5;
+  color: var(--ink-muted);
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 3;
+  line-clamp: 3;
+  overflow: hidden;
+}
+.item__source {
+  display: inline-block;
+  margin-top: 6px;
+  font-size: 0.875rem;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 3px;
+  padding-block: 4px;
+}
+.item__source:hover { text-decoration-thickness: 2px; }
+
+/* ---------- Leere Zustände, Fehler ---------- */
+
+.notice {
+  margin: 28px 0 0;
+  padding: 14px 0 0;
+  border-top: 2px solid var(--rule-strong);
+}
+.notice button {
+  margin-left: 4px;
+  padding: 6px 10px;
+  border: 1px solid var(--ink);
+  border-radius: 3px;
+  background: transparent;
+  color: var(--ink);
+  font: inherit;
+  font-size: 0.9375rem;
+  cursor: pointer;
+}
+
+.idle {
+  margin: 32px 0 0;
+  padding-top: 10px;
+  border-top: 1px solid var(--rule);
+  font-size: 0.875rem;
+  color: var(--ink-muted);
+}
+.idle strong { color: var(--ink); font-weight: 600; }
+
+.colophon {
+  margin-top: 40px;
+  padding-bottom: max(28px, env(safe-area-inset-bottom));
+  font-size: 0.8125rem;
+  color: var(--ink-muted);
+}
+.colophon p { margin: 0; padding-top: 12px; border-top: 1px solid var(--rule); max-width: 36rem; }
+
+@media (min-width: 720px) {
+  .filter__chips { flex-wrap: wrap; overflow-x: visible; }
+  .masthead__title { font-size: 3.5rem; }
+  .club__name { font-size: 2.5rem; }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  html { scroll-behavior: smooth; }
+}

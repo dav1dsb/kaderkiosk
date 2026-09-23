@@ -18,8 +18,11 @@ kaderkiosk/
 │   │   ├── sportschau.json
 │   │   └── ggfn.json
 │   └── news.json          # von main.py zusammengeführt
-├── docs/                  # GitHub Pages Quelle
-│   └── index.html
+├── docs/                  # GitHub Pages Quelle (Branch main, Ordner /docs)
+│   ├── index.html
+│   ├── style.css
+│   ├── app.js
+│   └── manifest.webmanifest, icon-*.png
 └── .github/workflows/
     └── scrape.yml
 ```
@@ -75,10 +78,12 @@ Außerdem bewusst ausgeschlossen: 18 einzelne Vereinsseiten, Goal.de-Einzelartik
 - Repo: **public** – GitHub Pages läuft auf dem kostenlosen Plan nur bei public Repos, zusätzlich unbegrenzte, kostenlose Actions-Minuten
 - Secrets: aktuell keine nötig (nur öffentliches Scraping); relevant erst ab einem Push-Kanal in V2, dann über Repo → Settings → Secrets and variables → Actions
 
-## Frontend-Konzept (Umsetzung erst nach der Datengrundlage)
-- **Farbe**: kein einzelner App-Akzent – jeder Verein trägt seine reale Vereinsfarbe als Kennzeichnung seines Abschnitts. Kategorien in gedeckten, funktionalen Statusfarben statt eines grellen Akzents: Verletzung Ziegelrot `#B34A3C`, Sperre Ocker `#B8863B`, Aufstellung Blaugrau `#3B6E8F`, Pressekonferenz Neutralgrau `#8A8474`. Grundton warmes Papierweiß `#F6F3EC`, Text Dunkelanthrazit `#1C1A17`.
+## Frontend-Konzept
+- **Farbe**: kein einzelner App-Akzent – jeder Verein trägt seine reale Vereinsfarbe als Kennzeichnung seines Abschnitts. Kategorien in gedeckten, funktionalen Statusfarben statt eines grellen Akzents: Verletzung Ziegelrot `#B34A3C`, Sperre Ocker `#B8863B`, Aufstellung Blaugrau `#3B6E8F`, Pressekonferenz Neutralgrau `#8A8474`, Ergebnis Moosgrün `#5C8259`, Transfer Pflaumenlila `#7A5D74`. Grundton warmes Papierweiß `#F6F3EC`, Text Dunkelanthrazit `#1C1A17`.
 - **Typografie**: League Gothic (condensed, Scoreboard-Herkunft) für Vereinsnamen/Überschriften, Source Serif 4 für Fließtext. Kategorie-Labels normal groß-/kleingeschrieben, keine ALL-CAPS.
 - **Layout**: primär nach Verein gruppiert statt als flacher chronologischer Feed. Flache Zeilen statt einheitlicher abgerundeter Karten, getrennt durch dünne Linien – eher Ergebnisliste als Dashboard-Kacheln.
+- **Umsetzung** (`docs/`, reines HTML/CSS/JS ohne Build): Vereinsabschnitte mit zweifarbigem Trikotstreifen (Haupt-/Nebenfarbe, Tabelle `VEREINE` in `app.js`), neueste Meldung zuerst; Kategorie als Farbquadrat vor dem Label; Filter-Chips mit Anzahl (leere Kategorien deaktiviert, Auswahl in `#kategorie=…`); Vereine ohne Meldungen als kompakte Zeile am Ende; jede Meldung mit sichtbarem Quellenlink, Teaser auf drei Zeilen gekürzt.
+- **Daten zur Laufzeit**: Pages veröffentlicht nur `docs/`, deshalb lädt `app.js` auf `*.github.io` direkt `https://raw.githubusercontent.com/dav1dsb/kaderkiosk/main/data/news.json` (CORS offen, bis zu 5 Minuten gecacht) – neue Daten brauchen kein Redeploy. Lokal (Server im Repo-Root, Seite unter `/docs/`) wird zuerst `../data/news.json` versucht; `?data=<url>` überschreibt beides zum Testen. Feed-Texte kommen nur per `textContent` ins DOM, Quellenlinks nur mit `http(s)`.
 - **Prinzipien**: Farbe erzählt (Verein, Status), dekoriert nicht. Dichte vor Weißraum – schnelles Scannen zählt mehr als ein "freundlicher" App-Eindruck. Keine Mittelpunkt-Meta-Strings, keine ALL-CAPS-Labels, keine einheitlichen Card-Schatten.
 
 ## Empfohlene Baureihenfolge

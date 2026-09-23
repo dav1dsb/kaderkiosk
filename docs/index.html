@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>KaderKiosk</title>
+  <meta name="description" content="Bundesliga-Meldungen zu Verletzungen, Sperren, Aufstellungen, Pressekonferenzen, Ergebnissen und Transfers, nach Verein sortiert, mit Link zur Quelle.">
+  <meta name="theme-color" content="#F6F3EC">
+  <meta name="apple-mobile-web-app-title" content="KaderKiosk">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" type="image/png" sizes="192x192" href="icon-192.png">
+  <link rel="apple-touch-icon" href="icon-180.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=League+Gothic&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&display=swap">
+  <link rel="stylesheet" href="style.css">
+  <script src="app.js" defer></script>
+</head>
+<body>
+  <header class="masthead">
+    <h1 class="masthead__title">KaderKiosk</h1>
+    <p class="masthead__stand" id="stand" aria-live="polite">Meldungen werden geladen …</p>
+  </header>
+
+  <nav class="filter" aria-label="Nach Kategorie filtern">
+    <div class="filter__chips" id="chips"></div>
+  </nav>
+
+  <nav class="clubnav" id="clubnav" aria-label="Zu Verein springen" hidden></nav>
+
+  <main id="main">
+    <p class="notice" id="notice" hidden></p>
+    <div id="sections"></div>
+    <p class="idle" id="idle" hidden></p>
+  </main>
+
+  <footer class="colophon">
+    <p>Meldungen aus den öffentlichen Feeds von sportschau.de und getfootballnewsgermany.com, alle 15 Minuten aktualisiert. Jede Meldung verlinkt auf den Originalartikel; der vollständige Text steht nur dort.</p>
+  </footer>
+</body>
+</html>
