@@ -49,11 +49,33 @@ VEREIN_PATTERNS = {name: re.compile(rf"\b(?:{alias})\b") for name, alias in VERE
 # Trainer-/PK-/Aufstellungs-Wörter tauchen in Spielberichten beiläufig auf ("Entlassung von Trainer X",
 # "sieben Neue in der Startelf") und zählen daher nur in der Überschrift. Verletzungen und Sperren
 # sind auch im Teaser ein starkes Signal.
+# Neben klaren Fällen auch weiche Formulierungen, wie sie vor allem in Länderspielpausen vorkommen
+# ("muss passen", "vorzeitig abgereist", "Einsatz offen", "droht auszufallen", "Blessur"). Bewusst nicht:
+# "Sorgen um"/"bangt um" (meist Klassenerhalt oder Form), "abwarten", "geschont" (Rotation statt Verletzung).
 REGELN = [
-    ("verletzung", "fällt aus", r"Kreuzband\w*|Saisonaus|fällt\s+(?:\w+\s+)?aus|Ausfall", True),
-    ("verletzung", "fraglich", r"fraglich|angeschlagen|Einsatz\s+wackelt", True),
-    ("verletzung", "zurück", r"Comeback|zurück im (?:Mannschafts)?[Tt]raining|wieder fit", True),
-    ("verletzung", "verletzt", r"verletz\w*|Verletzung\w*|Muskelfaserriss|Bänderriss|Zerrung|Knöchel|Oberschenkel", True),
+    ("verletzung", "fällt aus",
+     r"Kreuzband\w*|Saisonaus|fällt\s+(?:\w+\s+)?aus|Ausfall"
+     r"|muss\s+(?:[\w-]+\s+){0,3}passen|verletzt\s+(?:absagen|abreisen|passen)"
+     r"|(?:reist|reiste)\s+(?:[\w-]+\s+)?vorzeitig\s+(?:[\w-]+\s+){0,4}ab\b|vorzeitig\s+abgereist"
+     r"|fehlt\s+(?:\w+\s+)?(?:verletzt|angeschlagen|krank)|nicht\s+(?:mehr\s+)?rechtzeitig\s+fit|operiert|\bOP\b", True),
+    ("verletzung", "fraglich",
+     r"fraglich|angeschlagen|Einsatz\s+wackelt"
+     r"|Fragezeichen\s+(?:hinter|beim?)\s+(?:dem\s+|seinem\s+|ihrem\s+)?Einsatz"
+     r"|Einsatz\w*\s+(?:(?:von|des|der)\s+[\w-]+\s+)?(?:ist\s+|bleibt\s+|steht\s+)?(?:offen|ungewiss|unklar|in Gefahr|auf der Kippe)"
+     r"|droht\s+(?:\w+\s+){0,2}(?:auszufallen|zu fehlen|zu verpassen|Ausfall)|Wettlauf gegen die Zeit"
+     r"|individuell\w*\s+Training|kürzertreten|Belastungssteuerung|\bMRT\b"
+     r"|(?:weitere|genauere|eingehende)\w*\s+Untersuchung\w*|wird\s+(?:\w+\s+)?untersucht", True),
+    ("verletzung", "zurück",
+     r"Comeback|zurück im (?:Mannschafts)?[Tt]raining|wieder fit"
+     r"|Rückkehr\s+ins\s+(?:Mannschafts)?[Tt]raining|wieder\s+(?:im|ins)\s+(?:Mannschafts)?[Tt]raining"
+     r"|steigt\s+(?:wieder\s+)?ins\s+(?:Mannschafts)?[Tt]raining\s+ein|Lauftraining|\bReha\b|wieder\s+einsatzbereit"
+     r"|nach\s+(?:[\w-]+\s+)?(?:Verletzung\w*|Blessur|Zwangspause)\s+zurück", True),
+    ("verletzung", "verletzt",
+     r"verletz\w*|Verletzung\w*|Muskelfaserriss|Bänderriss|Zerrung|Knöchel|Oberschenkel"
+     r"|Blessur|muskuläre\w*\s+Probleme|Muskelprobleme|Muskelverhärtung|Beschwerden|Schmerzen|Prellung|Stauchung"
+     r"|Bänderdehnung|Faserriss|Pferdekuss|Gehirnerschütterung|Wade|Sprunggelenk|Adduktoren|Leiste\b"
+     r"|Knie(?:verletzung|probleme|beschwerden|operation)?\b|humpelt\w*|musste\s+(?:\w+\s+){0,2}ausgewechselt\s+werden"
+     r"|zurück\s+zu\s+(?:seinem|ihrem)\s+(?:Klub|Verein)", True),
     ("sperre", "gesperrt", r"gesperrt|Sperre", True),
     ("sperre", "Platzverweis", r"Platzverweis|Rote[n]? Karte|Gelb-Rot\w*", True),
     ("pressekonferenz", "Pressekonferenz", r"Pressekonferenz|\bPK\b", False),

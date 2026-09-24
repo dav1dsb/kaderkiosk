@@ -17,7 +17,11 @@ const KATEGORIEN = [
 ];
 const KATEGORIE_BY_ID = Object.fromEntries(KATEGORIEN.map((k) => [k.id, k]));
 
-// Namen wie in den Scrapern; Kürzel und Vereinsfarben (Haupt-, Nebenfarbe) für Streifen und Sprungleiste.
+// Logos in docs/logos/<kürzel>.svg, von Wikimedia Commons (Lizenzen: docs/logos/QUELLEN.md). Vereine ohne
+// frei lizenziertes aktuelles Logo bekommen das Kürzel in Vereinsfarben als Ersatz.
+const LOGOS = new Set(["FCB", "BVB", "VFB", "TSG", "M05", "FCU", "BMG", "HSV", "KOE", "SVW", "S04", "SVE", "SCP"]);
+
+// Namen wie in den Scrapern; Kürzel und Vereinsfarben (Haupt-, Nebenfarbe) für Streifen, Wappen und Sprungleiste.
 const VEREINE = {
   "FC Bayern München": ["FCB", "#DC052D", "#0066B2"],
   "Borussia Dortmund": ["BVB", "#FDE100", "#000000"],
@@ -151,14 +155,10 @@ function renderChips() {
     el("span", { class: "chip__count" }, String(count)),
   );
 
-  const chips = $("chips");
-  chips.replaceChildren(
+  $("chips").replaceChildren(
     chip("alle", "Alle", state.entries.length, null),
     ...KATEGORIEN.map((k) => chip(k.id, k.label, counts[k.id] || 0, { color: `var(--${k.id})`, on: k.on })),
   );
-  // Aktiven Chip in der seitlich scrollenden Leiste sichtbar halten, ohne die Seite zu bewegen.
-  const active = chips.querySelector('[aria-pressed="true"]');
-  if (active) chips.scrollLeft = Math.max(0, active.offsetLeft - chips.offsetLeft - 16);
 }
 
 function groupByVerein(entries) {
@@ -182,6 +182,23 @@ function vereinStyle(name) {
   return { code, "--c1": c1, "--c2": c2 };
 }
 
+// Helle Vereinsfarben (BVB-Gelb, Weiß) brauchen dunkle Schrift auf dem Kürzel-Ersatz.
+function textOn(hex) {
+  const [r, g, b] = [1, 3, 5].map((i) => parseInt(hex.slice(i, i + 2), 16) / 255)
+    .map((c) => (c <= 0.03928 ? c / 12.92 : ((c + 0.055) / 1.055) ** 2.4));
+  return 0.2126 * r + 0.7152 * g + 0.0722 * b > 0.4 ? "#1C1A17" : "#FFFFFF";
+}
+
+function crest(name) {
+  const { code, ...colors } = vereinStyle(name);
+  if (LOGOS.has(code)) {
+    return el("span", { class: "crest" },
+      el("img", { src: `logos/${code.toLowerCase()}.svg`, alt: "", width: "32", height: "32", loading: "lazy", decoding: "async" }));
+  }
+  if (!code) return null;
+  return el("span", { class: "crest crest--mono", "aria-hidden": "true", ...colors, "--crest-on": textOn(colors["--c1"]) }, code);
+}
+
 function slug(name) {
   return "v-" + name.toLowerCase().normalize("NFKD").replace(/[^\w]+/g, "-").replace(/^-|-$/g, "");
 }
@@ -195,11 +212,13 @@ function renderItem(e) {
     el("div", { class: "item__meta" },
       el("span", { class: "item__cat", "--cat": cat ? `var(--${cat.id})` : undefined }, kategorieLabel(e.kategorie)),
       e.status ? el("span", { class: "item__status" }, e.status) : null,
-      el("time", { class: "item__time", datetime: date.toISOString(), title: date.toLocaleString("de-DE") }, when(date)),
     ),
     el("p", { class: "item__title" }, e.spieler ? `${e.spieler}: ${titel}` : titel),
     teaser ? el("p", { class: "item__teaser" }, teaser) : null,
-    el("a", { class: "item__source", href: url.href, target: "_blank", rel: "noopener noreferrer" }, sourceLabel(url)),
+    el("p", { class: "item__foot" },
+      el("a", { class: "item__source", href: url.href, target: "_blank", rel: "noopener noreferrer" }, sourceLabel(url)),
+      el("time", { class: "item__time", datetime: date.toISOString(), title: date.toLocaleString("de-DE") }, when(date)),
+    ),
   );
 }
 
@@ -215,6 +234,7 @@ function renderSections() {
     const { code, ...colors } = vereinStyle(name);
     return el("section", { class: "club", id: slug(name), "aria-labelledby": slug(name) + "-h", ...colors },
       el("header", { class: "club__head" },
+        crest(name),
         el("h2", { class: "club__name", id: slug(name) + "-h" }, name),
         el("span", { class: "club__count" }, list.length === 1 ? "1 Meldung" : `${list.length} Meldungen`),
       ),
@@ -226,9 +246,9 @@ function renderSections() {
   // Sprungleiste nur mit mehreren Abschnitten sinnvoll.
   const nav = $("clubnav");
   const navLinks = groups.filter(([name]) => name !== OHNE_VEREIN).map(([name, list]) => {
-    const { code, ...colors } = vereinStyle(name);
+    const { code } = vereinStyle(name);
     return el("a", { href: "#" + slug(name), title: name },
-      el("span", { class: "clubnav__kit", "aria-hidden": "true", ...colors }),
+      crest(name),
       el("span", { class: "clubnav__code" }, code || name),
       el("span", { class: "clubnav__count" }, String(list.length)),
     );
@@ -327,5 +347,6 @@ document.addEventListener("visibilitychange", () => {
 });
 
 state.filter = filterFromHash();
+$("heute").textContent = new Intl.DateTimeFormat("de-DE", { weekday: "long", day: "numeric", month: "long" }).format(new Date());
 renderChips();
 load();

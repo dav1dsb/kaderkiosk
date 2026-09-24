@@ -54,13 +54,34 @@ VEREIN_PATTERNS = {name: re.compile(rf"\b(?:{alias})\b") for name, alias in VERE
 # Wie bei sportschau_rss: Trainer-, Aufstellungs- und Transferwörter tauchen in Teasern beiläufig auf und
 # zählen nur in der Überschrift; Verletzungen und Sperren sind auch im Teaser ein starkes Signal.
 # Sperren stehen vor Verletzungen, damit "will miss ... through suspension" nicht als Verletzung zählt.
+# Neben klaren Fällen auch weiche Formulierungen, wie sie vor allem in Länderspielpausen vorkommen
+# ("picked up a knock", "assessed ahead of", "withdrawn from the squad"). Bewusst nicht: bloßes "doubt"
+# ("no doubt"), bloßes "knock" ("knocked out of the cup"), "suffered/sustained" ohne Verletzungswort
+# ("suffered a defeat", "sustained pressure"), bloßes "setback".
 REGELN = [
     ("sperre", "gesperrt", r"suspen(?:ded|sion)|banned for|(?:match|game)[- ]ban", True),
     ("sperre", "Platzverweis", r"red card|sent off|sending[- ]off", True),
-    ("verletzung", "fällt aus", r"ruled out|sidelined|season-ending|out for (?:the )?(?:season|\w+ (?:weeks|months))|cruciate|\bACL\b|surgery", True),
-    ("verletzung", "fraglich", r"(?:in )?doubt for|\bdoubtful\b|fitness (?:concern|worry|doubt|race)|race against time|touch and go", True),
-    ("verletzung", "zurück", r"return(?:s|ed)? to (?:full )?training|back in (?:full )?training|return from injury|injury return|fit again", True),
-    ("verletzung", "verletzt", r"injur\w*|hamstring|\bcalf\b|\bankle\b|(?:muscle|thigh|knee) (?:problem|issue|tear|strain)|fracture|concussion", True),
+    ("verletzung", "fällt aus",
+     r"ruled out|sidelined|season-ending|out for (?:the )?(?:season|\w+ (?:weeks|months))|cruciate|\bACL\b|surgery"
+     r"|withdrawn from (?:the )?(?:\w+ )*?squad|withdraws? from|pull(?:s|ed)? out of"
+     r"|(?:leaves?|left|departs?|departed) (?:the )?(?:\w+ ){0,2}(?:camp|squad)|sent (?:back )?home"
+     r"|(?:will|set to|expected to) miss", True),
+    ("verletzung", "fraglich",
+     r"(?:in |a )?doubt for|doubt over|\bdoubtful\b|fitness (?:concern|worry|doubt|race|issue)s?|race against time|touch and go"
+     r"|(?:picked up|picks up|pick up|sustained|suffered|nursing|carrying|shakes? off|shook off) (?:a |an )?(?:\w+ )?knock"
+     r"|\ba (?:minor |slight |small )?knock\b|(?:will be |to be |being |was )?assessed (?:ahead of|before|after|by)"
+     r"|fitness test|injury (?:concern|scare|doubt|worry|cloud)s?|precaution\w*|discomfort"
+     r"|managing (?:his )?(?:workload|minutes)", True),
+    ("verletzung", "zurück",
+     r"return(?:s|ed)? to (?:full )?training|back in (?:full )?training|return from injury|injury return|fit again"
+     r"|back to (?:full )?training|(?:nearing|nears|closing in on) (?:a |his )?return|available again"
+     r"|comeback from injury|fit to (?:play|feature|start)", True),
+    ("verletzung", "verletzt",
+     r"injur\w*|hamstring|\bcalf\b|\bankle\b|(?:muscle|thigh|knee) (?:problem|issue|tear|strain)|fracture|concussion"
+     r"|limp(?:ed|s)? off|forced off|came off (?:injured|with)|substituted (?:off )?(?:injured|with|due to)"
+     r"|(?:suffered|sustained) (?:a |an )?(?:\w+ )?(?:strain|sprain|tear|fracture|problem)"
+     r"|\bgroin\b|adductor|achilles|sprain\w*|\btorn\b|(?:muscle|ligament|meniscus) tear|bruis\w*"
+     r"|illness|\bsick(?:ness)?\b|f[ae]lls? ill", True),
     ("transfer", "Vertrag", r"contract (?:extension|renewal|talks)|extends? (?:his )?(?:contract|deal)|renews? (?:his )?(?:contract|deal)|signs? (?:a )?new (?:deal|contract)", False),
     ("transfer", "Wechsel", r"completes? (?:his )?(?:move|transfer|switch)|seals? (?:a |his )?(?:move|transfer|switch)|\bsigns? for\b|\bsigned\b|joins? (?:on loan|on a (?:free|permanent))|loan (?:move|deal|spell)", False),
     ("transfer", "Gerücht", r"linked with|interest(?:ed)? in|\btargets?\b|\beye(?:s|ing)\b|monitor(?:s|ing)\b|\bbid\b|transfer|\bmove to\b|release clause", False),
