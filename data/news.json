@@ -1,5 +1,14 @@
 [
   {
+    "verein": "Hamburger SV",
+    "spieler": "",
+    "kategorie": "verletzung",
+    "status": "verletzt",
+    "beschreibung": "Verletzung! Fußball-Bundesligist HSV muss länger auf Albert Grönbaek verzichten – Der Däne zog sich die Verletzung im Länderspiel gegen Norwegen zu. Beim holprigen Saisonstart der Hamburger war er bislang einer der verlässlichsten Spieler.",
+    "quelle": "https://www.sportschau.de/regional/ndr/Bundesliga-Hamburg-HSV-Albert-Groenbaek-Verletzung,hsv-2172.html",
+    "erfasst_am": "2026-09-26T12:44:27+02:00"
+  },
+  {
     "verein": "",
     "spieler": "",
     "kategorie": "verletzung",
