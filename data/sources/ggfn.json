@@ -2,6 +2,15 @@
   {
     "verein": "Borussia Dortmund",
     "spieler": "",
+    "kategorie": "verletzung",
+    "status": "verletzt",
+    "beschreibung": "Nico Schlotterbeck suffers fresh injury during Germany training – Ahead of Germany’s UEFA Nations League game against Serbia, Borussia Dortmund’s Nico Schlotterbeck went down with an injury during training, according to Sky Germany. The central defender was seen covering…",
+    "quelle": "https://www.getfootballnewsgermany.com/2026/nico-schlotterbeck-suffers-fresh-injury-during-germany-training/",
+    "erfasst_am": "2026-09-30T12:04:27+00:00"
+  },
+  {
+    "verein": "Borussia Dortmund",
+    "spieler": "",
     "kategorie": "transfer",
     "status": "Vertrag",
     "beschreibung": "Borussia Dortmund administrative trio receives contract extensions – Borussia Dortmund have confirmed contract extensions for the administrative trio of Carsten Cramer, Lars Ricken, and Thomas Treß.",
