@@ -2,37 +2,19 @@
   {
     "verein": "Borussia Dortmund",
     "spieler": "",
-    "kategorie": "transfer",
-    "status": "Vertrag",
-    "beschreibung": "Niko Kovac close to agreeing to contract extension at Borussia Dortmund – Germany's main sporting tabloid reports that Borussia Dortmund Niko Kovac is set to receive a contract extension.",
-    "quelle": "https://www.getfootballnewsgermany.com/2026/dortmund-kovac-extension/",
-    "erfasst_am": "2026-10-01T12:54:25+00:00"
-  },
-  {
-    "verein": "Borussia Dortmund",
-    "spieler": "",
     "kategorie": "verletzung",
     "status": "verletzt",
-    "beschreibung": "Nico Schlotterbeck suffers fresh injury during Germany training – Ahead of Germany’s UEFA Nations League game against Serbia, Borussia Dortmund’s Nico Schlotterbeck went down with an injury during training, according to Sky Germany. The central defender was seen covering…",
-    "quelle": "https://www.getfootballnewsgermany.com/2026/nico-schlotterbeck-suffers-fresh-injury-during-germany-training/",
-    "erfasst_am": "2026-09-30T12:04:27+00:00"
+    "beschreibung": "Borussia Dortmund’s Julian Ryerson suffers fresh injury blow – Julian Ryerson has started every game for Borussia Dortmund in 2026/27, but was replaced in the 66th minute of Norway’s UEFA Nations League defeat against Portugal after going down unchallenged.…",
+    "quelle": "https://www.getfootballnewsgermany.com/2026/borussia-dortmunds-julian-ryerson-suffers-fresh-injury-blow/",
+    "erfasst_am": "2026-10-02T08:54:43+00:00"
   },
   {
     "verein": "Borussia Dortmund",
     "spieler": "",
     "kategorie": "transfer",
     "status": "Vertrag",
-    "beschreibung": "Borussia Dortmund administrative trio receives contract extensions – Borussia Dortmund have confirmed contract extensions for the administrative trio of Carsten Cramer, Lars Ricken, and Thomas Treß.",
-    "quelle": "https://www.getfootballnewsgermany.com/2026/borussia-dortmund-admin-extend/",
-    "erfasst_am": "2026-09-30T06:16:44+00:00"
-  },
-  {
-    "verein": "Borussia Dortmund",
-    "spieler": "",
-    "kategorie": "verletzung",
-    "status": "verletzt",
-    "beschreibung": "Borussia Dortmund sweating over Julian Ryerson’s injury – Borussia Dortmund are sweating over the fitness of Norwegian wide man Julian Ryerson after the 28-year-old sustained an injury on international duty.",
-    "quelle": "https://www.getfootballnewsgermany.com/2026/julian-ryersons-norway-injury/",
-    "erfasst_am": "2026-09-30T06:08:48+00:00"
+    "beschreibung": "Niko Kovac close to agreeing to contract extension at Borussia Dortmund – Germany's main sporting tabloid reports that Borussia Dortmund Niko Kovac is set to receive a contract extension.",
+    "quelle": "https://www.getfootballnewsgermany.com/2026/dortmund-kovac-extension/",
+    "erfasst_am": "2026-10-01T12:54:25+00:00"
   }
 ]
