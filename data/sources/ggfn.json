@@ -1,5 +1,14 @@
 [
   {
+    "verein": "FC Bayern München",
+    "spieler": "",
+    "kategorie": "verletzung",
+    "status": "fällt aus",
+    "beschreibung": "Official | Serge Gnabry departs DFB camp after successfully completing Germany comeback – The German FA has officially confirmed that Bayern Munich attacker Serge Gnabry's tour of duty with the national team has come to a slightly premature end.",
+    "quelle": "https://www.getfootballnewsgermany.com/2026/serge-gnabry-dfb-depart/",
+    "erfasst_am": "2026-10-02T17:00:29+00:00"
+  },
+  {
     "verein": "Borussia Dortmund",
     "spieler": "",
     "kategorie": "verletzung",
@@ -7,14 +16,5 @@
     "beschreibung": "Borussia Dortmund’s Julian Ryerson suffers fresh injury blow – Julian Ryerson has started every game for Borussia Dortmund in 2026/27, but was replaced in the 66th minute of Norway’s UEFA Nations League defeat against Portugal after going down unchallenged.…",
     "quelle": "https://www.getfootballnewsgermany.com/2026/borussia-dortmunds-julian-ryerson-suffers-fresh-injury-blow/",
     "erfasst_am": "2026-10-02T08:54:43+00:00"
-  },
-  {
-    "verein": "Borussia Dortmund",
-    "spieler": "",
-    "kategorie": "transfer",
-    "status": "Vertrag",
-    "beschreibung": "Niko Kovac close to agreeing to contract extension at Borussia Dortmund – Germany's main sporting tabloid reports that Borussia Dortmund Niko Kovac is set to receive a contract extension.",
-    "quelle": "https://www.getfootballnewsgermany.com/2026/dortmund-kovac-extension/",
-    "erfasst_am": "2026-10-01T12:54:25+00:00"
   }
 ]
