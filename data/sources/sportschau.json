@@ -1,5 +1,14 @@
 [
   {
+    "verein": "Eintracht Frankfurt",
+    "spieler": "",
+    "kategorie": "pressekonferenz",
+    "status": "Trainer-News",
+    "beschreibung": "Frankfurts Trainer Hütter grübelt über Personal und System – Eintracht-Trainer Adi Hütter zeigt sich mit dem Testsieg gegen Braunschweig zufrieden, sieht Fortschritte bei zwei Startelf-Kandidaten und verteilt ein Sonderlob an einen Teenager. Auf eine wesentliche Frage hat er jedoch (noch) keine Antwort.",
+    "quelle": "https://www.sportschau.de/regional/hr/hr-eintracht-frankfurt-adi-huetter-gruebelt-ueber-personal-und-system-100.html",
+    "erfasst_am": "2026-10-03T09:14:23+02:00"
+  },
+  {
     "verein": "1. FC Union Berlin",
     "spieler": "",
     "kategorie": "pressekonferenz",
@@ -7,15 +16,6 @@
     "beschreibung": "Linus Güther - Wann bringt Union-Coach Lustrinelli das Wunderkind? – Linus Güther vom 1. FC Union gilt als eines der größten Talente in Deutschland. In der U19 und DFB-Nachwuchsauswahl liefert er wöchentlich Argumente für Profi-Einsätze. Cheftrainer Mauro Lustrinelli zögert noch - aber der Druck wird immer größer, den 16-Jährigen einzusetzen.",
     "quelle": "https://www.sportschau.de/regional/rbb/rbb-linus-guether-wann-bringt-union-coach-lustrinelli-das-wunderkind-100.html",
     "erfasst_am": "2026-10-02T12:02:46+02:00"
-  },
-  {
-    "verein": "Hamburger SV",
-    "spieler": "",
-    "kategorie": "verletzung",
-    "status": "verletzt",
-    "beschreibung": "Verletzung! Fußball-Bundesligist HSV muss länger auf Albert Grönbaek verzichten – Der Däne zog sich die Verletzung im Länderspiel gegen Norwegen zu. Beim holprigen Saisonstart der Hamburger war er bislang einer der verlässlichsten Spieler.",
-    "quelle": "https://www.sportschau.de/regional/ndr/Bundesliga-Hamburg-HSV-Albert-Groenbaek-Verletzung,hsv-2172.html",
-    "erfasst_am": "2026-09-26T12:44:27+02:00"
   },
   {
     "verein": "SV Werder Bremen",
