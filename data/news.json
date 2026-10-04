@@ -1,5 +1,23 @@
 [
   {
+    "verein": "Borussia Dortmund",
+    "spieler": "",
+    "kategorie": "pressekonferenz",
+    "status": "Trainer-News",
+    "beschreibung": "Greece head coach denies reports of Borussia Dortmund request to manage Konstantinos Karetsas’ workload – Greece national team head coach Ivan Jovanovic has denied a report that Borussia Dortmund issued a playing time request for club professional Konstantinos Karetsas.",
+    "quelle": "https://www.getfootballnewsgermany.com/2026/karetsas-dortmund-request-deny/",
+    "erfasst_am": "2026-10-04T10:39:04+00:00"
+  },
+  {
+    "verein": "1. FC Köln",
+    "spieler": "",
+    "kategorie": "verletzung",
+    "status": "verletzt",
+    "beschreibung": "Cologne suffer double striker injury blow ahead of crucial Bundesliga derby – FC Cologne have lost their two leading goal scorers ahead of a crucial Bundesliga derby against Borussia Mönchengladbach.",
+    "quelle": "https://www.getfootballnewsgermany.com/2026/cologne-dallinga-ache/",
+    "erfasst_am": "2026-10-04T07:56:28+00:00"
+  },
+  {
     "verein": "Borussia Mönchengladbach",
     "spieler": "",
     "kategorie": "pressekonferenz",
@@ -16,15 +34,6 @@
     "beschreibung": "Frankfurts Trainer Hütter grübelt über Personal und System – Eintracht-Trainer Adi Hütter zeigt sich mit dem Testsieg gegen Braunschweig zufrieden, sieht Fortschritte bei zwei Startelf-Kandidaten und verteilt ein Sonderlob an einen Teenager. Auf eine wesentliche Frage hat er jedoch (noch) keine Antwort.",
     "quelle": "https://www.sportschau.de/regional/hr/hr-eintracht-frankfurt-adi-huetter-gruebelt-ueber-personal-und-system-100.html",
     "erfasst_am": "2026-10-03T09:14:23+02:00"
-  },
-  {
-    "verein": "FC Bayern München",
-    "spieler": "",
-    "kategorie": "verletzung",
-    "status": "fällt aus",
-    "beschreibung": "Official | Serge Gnabry departs DFB camp after successfully completing Germany comeback – The German FA has officially confirmed that Bayern Munich attacker Serge Gnabry's tour of duty with the national team has come to a slightly premature end.",
-    "quelle": "https://www.getfootballnewsgermany.com/2026/serge-gnabry-dfb-depart/",
-    "erfasst_am": "2026-10-02T17:00:29+00:00"
   },
   {
     "verein": "1. FC Union Berlin",
