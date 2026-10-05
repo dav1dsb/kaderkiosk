@@ -1,5 +1,14 @@
 [
   {
+    "verein": "Hamburger SV",
+    "spieler": "",
+    "kategorie": "verletzung",
+    "status": "verletzt",
+    "beschreibung": "Verletzungssorgen beim HSV - Viele Lädierte nach der Länderspielpause – Merlin Polzin hat seit der Länderspielpause gleich drei Verletzte zu beklagen - und in Yussuf Poulsen ein weiteres Sorgenkind. Gegen Hoffenheim wird der Trainer erneut puzzlen müssen.",
+    "quelle": "https://www.sportschau.de/regional/ndr/Bundesliga-Hamburg-HSV-Verletzungen,hsv-2182.html",
+    "erfasst_am": "2026-10-05T12:46:26+02:00"
+  },
+  {
     "verein": "Borussia Mönchengladbach",
     "spieler": "",
     "kategorie": "pressekonferenz",
@@ -14,7 +23,7 @@
     "kategorie": "pressekonferenz",
     "status": "Trainer-News",
     "beschreibung": "Frankfurts Trainer Hütter grübelt über Personal und System – Eintracht-Trainer Adi Hütter zeigt sich mit dem Testsieg gegen Braunschweig zufrieden, sieht Fortschritte bei zwei Startelf-Kandidaten und verteilt ein Sonderlob an einen Teenager. Auf eine wesentliche Frage hat er jedoch (noch) keine Antwort.",
-    "quelle": "https://www.sportschau.de/regional/hr/hr-eintracht-frankfurt-adi-huetter-gruebelt-ueber-personal-und-system-100.html",
+    "quelle": "https://www.sportschau.de/regional/hr/hr-eintracht-frankfurt-besiegt-braunschweig-adi-huetter-gruebelt-uebers-personal-100.html",
     "erfasst_am": "2026-10-03T09:14:23+02:00"
   },
   {
