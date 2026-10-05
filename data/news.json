@@ -1,5 +1,14 @@
 [
   {
+    "verein": "Borussia Dortmund",
+    "spieler": "",
+    "kategorie": "verletzung",
+    "status": "verletzt",
+    "beschreibung": "Neustart mit Abwehrsorgen - BVB vor heißem Herbst – Fast alle Profis unterwegs, neue Verletzungssorgen in der Abwehr: Für Borussia Dortmund hatte die Länderspielpause ihren Preis.",
+    "quelle": "https://www.sportschau.de/regional/wdr/wdr-neustart-mit-abwehrsorgen-bvb-vor-heissem-herbst-100.html",
+    "erfasst_am": "2026-10-05T13:48:00+02:00"
+  },
+  {
     "verein": "Hamburger SV",
     "spieler": "",
     "kategorie": "verletzung",
@@ -16,15 +25,6 @@
     "beschreibung": "Greece head coach denies reports of Borussia Dortmund request to manage Konstantinos Karetsas’ workload – Greece national team head coach Ivan Jovanovic has denied a report that Borussia Dortmund issued a playing time request for club professional Konstantinos Karetsas.",
     "quelle": "https://www.getfootballnewsgermany.com/2026/karetsas-dortmund-request-deny/",
     "erfasst_am": "2026-10-04T10:39:04+00:00"
-  },
-  {
-    "verein": "1. FC Köln",
-    "spieler": "",
-    "kategorie": "verletzung",
-    "status": "verletzt",
-    "beschreibung": "Cologne suffer double striker injury blow ahead of crucial Bundesliga derby – FC Cologne have lost their two leading goal scorers ahead of a crucial Bundesliga derby against Borussia Mönchengladbach.",
-    "quelle": "https://www.getfootballnewsgermany.com/2026/cologne-dallinga-ache/",
-    "erfasst_am": "2026-10-04T07:56:28+00:00"
   },
   {
     "verein": "Borussia Mönchengladbach",

@@ -1,5 +1,14 @@
 [
   {
+    "verein": "Borussia Dortmund",
+    "spieler": "",
+    "kategorie": "verletzung",
+    "status": "verletzt",
+    "beschreibung": "Neustart mit Abwehrsorgen - BVB vor heißem Herbst – Fast alle Profis unterwegs, neue Verletzungssorgen in der Abwehr: Für Borussia Dortmund hatte die Länderspielpause ihren Preis.",
+    "quelle": "https://www.sportschau.de/regional/wdr/wdr-neustart-mit-abwehrsorgen-bvb-vor-heissem-herbst-100.html",
+    "erfasst_am": "2026-10-05T13:48:00+02:00"
+  },
+  {
     "verein": "Hamburger SV",
     "spieler": "",
     "kategorie": "verletzung",
