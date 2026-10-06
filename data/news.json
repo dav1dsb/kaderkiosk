@@ -1,5 +1,14 @@
 [
   {
+    "verein": "SC Freiburg",
+    "spieler": "",
+    "kategorie": "transfer",
+    "status": "Vertrag",
+    "beschreibung": "Official | Freiburg reward club veteran Matthias Ginter’s strong form with contract extension – Freiburg have officially signed club veteran Matthias Ginter to a late-career contract extension.",
+    "quelle": "https://www.getfootballnewsgermany.com/2026/matthias-ginter-extension/",
+    "erfasst_am": "2026-10-06T13:16:09+00:00"
+  },
+  {
     "verein": "Borussia Dortmund",
     "spieler": "",
     "kategorie": "verletzung",
@@ -16,15 +25,6 @@
     "beschreibung": "Verletzungssorgen beim HSV - Viele Lädierte nach der Länderspielpause – Merlin Polzin hat seit der Länderspielpause gleich drei Verletzte zu beklagen - und in Yussuf Poulsen ein weiteres Sorgenkind. Gegen Hoffenheim wird der Trainer erneut puzzlen müssen.",
     "quelle": "https://www.sportschau.de/regional/ndr/Bundesliga-Hamburg-HSV-Verletzungen,hsv-2182.html",
     "erfasst_am": "2026-10-05T12:46:26+02:00"
-  },
-  {
-    "verein": "Borussia Dortmund",
-    "spieler": "",
-    "kategorie": "pressekonferenz",
-    "status": "Trainer-News",
-    "beschreibung": "Greece head coach denies reports of Borussia Dortmund request to manage Konstantinos Karetsas’ workload – Greece national team head coach Ivan Jovanovic has denied a report that Borussia Dortmund issued a playing time request for club professional Konstantinos Karetsas.",
-    "quelle": "https://www.getfootballnewsgermany.com/2026/karetsas-dortmund-request-deny/",
-    "erfasst_am": "2026-10-04T10:39:04+00:00"
   },
   {
     "verein": "Borussia Mönchengladbach",
