@@ -1,5 +1,23 @@
 [
   {
+    "verein": "FC Schalke 04",
+    "spieler": "",
+    "kategorie": "transfer",
+    "status": "Gerücht",
+    "beschreibung": "Schalke 04 hoping to strike release clause in head coach Miron Muslic’s contract – Germany's main sporting tabloid reports that a previously negotiated release clause is complicating Schalke 04's attempts to sign head coach Miron Muslic to another contract extension.",
+    "quelle": "https://www.getfootballnewsgermany.com/2026/miron-muslic-release-clause/",
+    "erfasst_am": "2026-10-07T09:53:41+00:00"
+  },
+  {
+    "verein": "SV Werder Bremen",
+    "spieler": "",
+    "kategorie": "verletzung",
+    "status": "verletzt",
+    "beschreibung": "Consummate Werder Bremen teammate Mitchell Weiser opens up on his own mental health struggles during injury ordeal – Werder Bremen's Mitchell Weiser - always quick to support his fellow teammates during difficult times - has opened up on some of his own issues stemming from a 14-month injury absence in a recent interview.",
+    "quelle": "https://www.getfootballnewsgermany.com/2026/mitchell-weiser-schmidt-bremen/",
+    "erfasst_am": "2026-10-07T09:33:38+00:00"
+  },
+  {
     "verein": "Bayer 04 Leverkusen",
     "spieler": "",
     "kategorie": "verletzung",
@@ -34,14 +52,5 @@
     "beschreibung": "RB Leipzig’s Christoph Baumgartner works towards comeback – After sustaining a thigh injury which required surgery just weeks before the 2026 FIFA World Cup, RB Leipzig’s Christoph Baumgartner is working on his comeback. On Tuesday, the Bundesliga side…",
     "quelle": "https://www.getfootballnewsgermany.com/2026/rb-leipzigs-christoph-baumgartner-works-towards-comeback/",
     "erfasst_am": "2026-10-07T08:26:36+00:00"
-  },
-  {
-    "verein": "SC Freiburg",
-    "spieler": "",
-    "kategorie": "transfer",
-    "status": "Vertrag",
-    "beschreibung": "Official | Freiburg reward club veteran Matthias Ginter’s strong form with contract extension – Freiburg have officially signed club veteran Matthias Ginter to a late-career contract extension.",
-    "quelle": "https://www.getfootballnewsgermany.com/2026/matthias-ginter-extension/",
-    "erfasst_am": "2026-10-06T13:16:09+00:00"
   }
 ]
