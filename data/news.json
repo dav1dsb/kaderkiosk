@@ -63,24 +63,6 @@
     "erfasst_am": "2026-10-05T13:48:00+02:00"
   },
   {
-    "verein": "Hamburger SV",
-    "spieler": "",
-    "kategorie": "verletzung",
-    "status": "verletzt",
-    "beschreibung": "Verletzungssorgen beim HSV - Viele Lädierte nach der Länderspielpause – Merlin Polzin hat seit der Länderspielpause gleich drei Verletzte zu beklagen - und in Yussuf Poulsen ein weiteres Sorgenkind. Gegen Hoffenheim wird der Trainer erneut puzzlen müssen.",
-    "quelle": "https://www.sportschau.de/regional/ndr/Bundesliga-Hamburg-HSV-Verletzungen,hsv-2182.html",
-    "erfasst_am": "2026-10-05T12:46:26+02:00"
-  },
-  {
-    "verein": "Borussia Mönchengladbach",
-    "spieler": "",
-    "kategorie": "pressekonferenz",
-    "status": "Trainer-News",
-    "beschreibung": "FC St. Pauli gegen Borussia Mönchengladbach - Viel Applaus für Ex-Coach Blessin – Alexander Blessin, neuer Trainer von Bundesliga-Schlusslicht Borussia Mönchengladbach, wurde beim Testspiel im Millerntorstadion herzlich empfangen.",
-    "quelle": "https://www.sportschau.de/regional/ndr/fc-st-pauli-viel-applaus-fuer-ex-coach-blessin,pauli-668.html",
-    "erfasst_am": "2026-10-03T22:08:02+02:00"
-  },
-  {
     "verein": "Eintracht Frankfurt",
     "spieler": "",
     "kategorie": "pressekonferenz",
@@ -88,15 +70,6 @@
     "beschreibung": "Frankfurts Trainer Hütter grübelt über Personal und System – Eintracht-Trainer Adi Hütter zeigt sich mit dem Testsieg gegen Braunschweig zufrieden, sieht Fortschritte bei zwei Startelf-Kandidaten und verteilt ein Sonderlob an einen Teenager. Auf eine wesentliche Frage hat er jedoch (noch) keine Antwort.",
     "quelle": "https://www.sportschau.de/regional/hr/hr-eintracht-frankfurt-besiegt-braunschweig-adi-huetter-gruebelt-uebers-personal-100.html",
     "erfasst_am": "2026-10-03T09:14:23+02:00"
-  },
-  {
-    "verein": "1. FC Union Berlin",
-    "spieler": "",
-    "kategorie": "pressekonferenz",
-    "status": "Trainer-News",
-    "beschreibung": "Linus Güther - Wann bringt Union-Coach Lustrinelli das Wunderkind? – Linus Güther vom 1. FC Union gilt als eines der größten Talente in Deutschland. In der U19 und DFB-Nachwuchsauswahl liefert er wöchentlich Argumente für Profi-Einsätze. Cheftrainer Mauro Lustrinelli zögert noch - aber der Druck wird immer größer, den 16-Jährigen einzusetzen.",
-    "quelle": "https://www.sportschau.de/regional/rbb/rbb-linus-guether-wann-bringt-union-coach-lustrinelli-das-wunderkind-100.html",
-    "erfasst_am": "2026-10-02T12:02:46+02:00"
   },
   {
     "verein": "SV Werder Bremen",
@@ -259,104 +232,5 @@
     "beschreibung": "Kane-Rekord und noch mehr: Bayern-Sause gegen Union Berlin – Bayern-Angreifer Harry Kane hat gegen Union Berlin einen Torrekord pulverisiert, wurde in Sachen Spektakel aber noch von seinen Teamkollegen getoppt.",
     "quelle": "https://www.sportschau.de/fussball/bundesliga/ein-grandioser-kane-rekord-und-noch-so-viel-mehr,spielbericht-bayern-muenchen-union-berlin-102.html",
     "erfasst_am": "2026-09-21T00:00:09+02:00"
-  },
-  {
-    "verein": "1. FC Union Berlin",
-    "spieler": "",
-    "kategorie": "ergebnis",
-    "status": "Spielbericht",
-    "beschreibung": "Großer Kampf: Schalke holt bei Union Berlin ersten Sieg – Der FC Schalke 04 ist in der Bundesliga angekommen. Der Aufsteiger setzte sich nach einem denkwürdigen Abend im Stadion \"An der alten Försterei\" verdient gegen Union Berlin durch.",
-    "quelle": "https://www.sportschau.de/fussball/bundesliga/schalke-04-erkaempft-sich-ersten-saisonsieg-bei-union-berlin,spielbericht-union-berlin-schalke-04-100.html",
-    "erfasst_am": "2026-09-14T00:02:14+02:00"
-  },
-  {
-    "verein": "FC Schalke 04",
-    "spieler": "",
-    "kategorie": "ergebnis",
-    "status": "Spielbericht",
-    "beschreibung": "Großer Kampf: Schalke holt bei Union Berlin ersten Sieg – Der FC Schalke 04 ist in der Bundesliga angekommen. Der Aufsteiger setzte sich nach einem denkwürdigen Abend im Stadion \"An der alten Försterei\" verdient gegen Union Berlin durch.",
-    "quelle": "https://www.sportschau.de/fussball/bundesliga/schalke-04-erkaempft-sich-ersten-saisonsieg-bei-union-berlin,spielbericht-union-berlin-schalke-04-100.html",
-    "erfasst_am": "2026-09-14T00:02:14+02:00"
-  },
-  {
-    "verein": "FC Augsburg",
-    "spieler": "",
-    "kategorie": "ergebnis",
-    "status": "Spielbericht",
-    "beschreibung": "Bundesliga: Schick rettet Leverkusen spätes Remis gegen Augsburg – Beinahe hätte der FC Augsburg auch sein drittes Bundesliga-Spiel gewonnen. Doch kurz vor Schluss traf Patrik Schick für Leverkusen zum Ausgleich.",
-    "quelle": "https://www.sportschau.de/fussball/bundesliga/schick-rettet-leverkusen-remis-in-augsburg,spielbericht-fc-augsburg-bayer-leverkusen-118.html",
-    "erfasst_am": "2026-09-14T00:02:13+02:00"
-  },
-  {
-    "verein": "Bayer 04 Leverkusen",
-    "spieler": "",
-    "kategorie": "ergebnis",
-    "status": "Spielbericht",
-    "beschreibung": "Bundesliga: Schick rettet Leverkusen spätes Remis gegen Augsburg – Beinahe hätte der FC Augsburg auch sein drittes Bundesliga-Spiel gewonnen. Doch kurz vor Schluss traf Patrik Schick für Leverkusen zum Ausgleich.",
-    "quelle": "https://www.sportschau.de/fussball/bundesliga/schick-rettet-leverkusen-remis-in-augsburg,spielbericht-fc-augsburg-bayer-leverkusen-118.html",
-    "erfasst_am": "2026-09-14T00:02:13+02:00"
-  },
-  {
-    "verein": "1. FSV Mainz 05",
-    "spieler": "",
-    "kategorie": "ergebnis",
-    "status": "Spielbericht",
-    "beschreibung": "Burkardt und Atubolu holen Frankfurt in Mainz aus dem Stimmungstief – Die Welt bei Eintracht Frankfurt sieht nach einem klaren Auswärtssieg bei Mainz 05 wieder deutlich freundlicher aus. Das lag vor allem an Jonathan Burkardt und Noah Atubolu.",
-    "quelle": "https://www.sportschau.de/fussball/bundesliga/burkardt-und-atubolu-holen-frankfurt-aus-dem-stimmungstief,spielbericht-mainz-05-eintracht-frankfurt-102.html",
-    "erfasst_am": "2026-09-14T00:02:11+02:00"
-  },
-  {
-    "verein": "Eintracht Frankfurt",
-    "spieler": "",
-    "kategorie": "ergebnis",
-    "status": "Spielbericht",
-    "beschreibung": "Burkardt und Atubolu holen Frankfurt in Mainz aus dem Stimmungstief – Die Welt bei Eintracht Frankfurt sieht nach einem klaren Auswärtssieg bei Mainz 05 wieder deutlich freundlicher aus. Das lag vor allem an Jonathan Burkardt und Noah Atubolu.",
-    "quelle": "https://www.sportschau.de/fussball/bundesliga/burkardt-und-atubolu-holen-frankfurt-aus-dem-stimmungstief,spielbericht-mainz-05-eintracht-frankfurt-102.html",
-    "erfasst_am": "2026-09-14T00:02:11+02:00"
-  },
-  {
-    "verein": "1. FC Köln",
-    "spieler": "",
-    "kategorie": "ergebnis",
-    "status": "Spielbericht",
-    "beschreibung": "Passive Kölner verspielen Führung gegen Bremen – Der 1. FC Köln hat es im Bundesliga-Heimspiel gegen Werder Bremen nicht geschafft, eine Führung über die Zeit zu bringen. Die Hanseaten nutzten die zu lange Passivität der Rheinländer aus.",
-    "quelle": "https://www.sportschau.de/fussball/bundesliga/passive-koelner-verspielen-fuehrung-gegen-bremen,spielbericht-koeln-werder-bremen-102.html",
-    "erfasst_am": "2026-09-14T00:02:08+02:00"
-  },
-  {
-    "verein": "SV Werder Bremen",
-    "spieler": "",
-    "kategorie": "ergebnis",
-    "status": "Spielbericht",
-    "beschreibung": "Passive Kölner verspielen Führung gegen Bremen – Der 1. FC Köln hat es im Bundesliga-Heimspiel gegen Werder Bremen nicht geschafft, eine Führung über die Zeit zu bringen. Die Hanseaten nutzten die zu lange Passivität der Rheinländer aus.",
-    "quelle": "https://www.sportschau.de/fussball/bundesliga/passive-koelner-verspielen-fuehrung-gegen-bremen,spielbericht-koeln-werder-bremen-102.html",
-    "erfasst_am": "2026-09-14T00:02:08+02:00"
-  },
-  {
-    "verein": "SV 07 Elversberg",
-    "spieler": "",
-    "kategorie": "ergebnis",
-    "status": "Spielbericht",
-    "beschreibung": "Kane erlöst behäbige Bayern in Elversberg – Der FC Bayern München hat in der Fußball-Bundesliga einen knappen Sieg bei der SV Elversberg eingefahren - mit sieben Neuen in der Startelf und einer gewissen Behäbigkeit.",
-    "quelle": "https://www.sportschau.de/fussball/bundesliga/behaebige-bayern-muehen-sich-zum-sieg-in-elversberg,spielbericht-sv-elversberg-bayern-muenchen-100.html",
-    "erfasst_am": "2026-09-14T00:02:06+02:00"
-  },
-  {
-    "verein": "FC Bayern München",
-    "spieler": "",
-    "kategorie": "ergebnis",
-    "status": "Spielbericht",
-    "beschreibung": "Kane erlöst behäbige Bayern in Elversberg – Der FC Bayern München hat in der Fußball-Bundesliga einen knappen Sieg bei der SV Elversberg eingefahren - mit sieben Neuen in der Startelf und einer gewissen Behäbigkeit.",
-    "quelle": "https://www.sportschau.de/fussball/bundesliga/behaebige-bayern-muehen-sich-zum-sieg-in-elversberg,spielbericht-sv-elversberg-bayern-muenchen-100.html",
-    "erfasst_am": "2026-09-14T00:02:06+02:00"
-  },
-  {
-    "verein": "",
-    "spieler": "",
-    "kategorie": "sperre",
-    "status": "Platzverweis",
-    "beschreibung": "Bundesliga: Freiburg sorgt für Gladbacher Debakel – Freiburg bleibt weiter makellos und verschärft die Gladbacher Krise durch einen hochverdienten 5:0-Heimsieg. Nach dem Platzverweis für Tim Kleindienst schießt der SC eine völlig überforderte Borussia ab.",
-    "quelle": "https://www.sportschau.de/fussball/bundesliga/gladbachs-totalausfall-bei-furiosen-freiburgern,video-bundesliga-sc-freiburg-borussia-moenchengladbach-highlights-100.html",
-    "erfasst_am": "2026-09-14T00:00:22+02:00"
   }
 ]
