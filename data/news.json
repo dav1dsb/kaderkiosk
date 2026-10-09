@@ -2,11 +2,20 @@
   {
     "verein": "Borussia Dortmund",
     "spieler": "",
-    "kategorie": "verletzung",
-    "status": "verletzt",
-    "beschreibung": "Neustart mit Abwehrsorgen - BVB vor heißem Herbst – Fast alle Profis unterwegs, neue Verletzungssorgen in der Abwehr: Für Borussia Dortmund hatte die Länderspielpause ihren Preis.",
-    "quelle": "https://www.sportschau.de/regional/wdr/wdr-neustart-mit-abwehrsorgen-bvb-vor-heissem-herbst-100.html",
-    "erfasst_am": "2026-10-05T13:48:00+02:00"
+    "kategorie": "ergebnis",
+    "status": "Spielbericht",
+    "beschreibung": "Fußball-Bundesliga: Werder Bremen punktet dank Füllkrug bei Borussia Dortmund – Borussia Dortmund führt gegen Werder Bremen bis zur 88. Minute mit 2:0 - und lässt dann seinen Ex-Angreifer aus den Augen.",
+    "quelle": "https://www.sportschau.de/fussball/bundesliga/fuellkrug-schockiert-seinen-ex-verein-in-der-nachspielzeit,spielbericht-borussia-dortmund-werder-bremen-104.html",
+    "erfasst_am": "2026-10-09T23:17:49+02:00"
+  },
+  {
+    "verein": "SV Werder Bremen",
+    "spieler": "",
+    "kategorie": "ergebnis",
+    "status": "Spielbericht",
+    "beschreibung": "Fußball-Bundesliga: Werder Bremen punktet dank Füllkrug bei Borussia Dortmund – Borussia Dortmund führt gegen Werder Bremen bis zur 88. Minute mit 2:0 - und lässt dann seinen Ex-Angreifer aus den Augen.",
+    "quelle": "https://www.sportschau.de/fussball/bundesliga/fuellkrug-schockiert-seinen-ex-verein-in-der-nachspielzeit,spielbericht-borussia-dortmund-werder-bremen-104.html",
+    "erfasst_am": "2026-10-09T23:17:49+02:00"
   },
   {
     "verein": "SV Werder Bremen",
