@@ -1,5 +1,59 @@
 [
   {
+    "verein": "SC Paderborn 07",
+    "spieler": "",
+    "kategorie": "ergebnis",
+    "status": "Spielbericht",
+    "beschreibung": "Bundesliga: Stuttgart schlägt Paderborn – Der VfB Stuttgart hat am 5. Bundesliga-Spieltag den zweiten Saisonsieg gefeiert, musste beim SC Paderborn aber hart arbeiten.",
+    "quelle": "https://www.sportschau.de/fussball/bundesliga/fuehrich-erloest-vfb-in-paderborn-spaet,spielbericht-sc-paderborn-vfb-stuttgart-102.html",
+    "erfasst_am": "2026-10-10T17:26:37+02:00"
+  },
+  {
+    "verein": "VfB Stuttgart",
+    "spieler": "",
+    "kategorie": "ergebnis",
+    "status": "Spielbericht",
+    "beschreibung": "Bundesliga: Stuttgart schlägt Paderborn – Der VfB Stuttgart hat am 5. Bundesliga-Spieltag den zweiten Saisonsieg gefeiert, musste beim SC Paderborn aber hart arbeiten.",
+    "quelle": "https://www.sportschau.de/fussball/bundesliga/fuehrich-erloest-vfb-in-paderborn-spaet,spielbericht-sc-paderborn-vfb-stuttgart-102.html",
+    "erfasst_am": "2026-10-10T17:26:37+02:00"
+  },
+  {
+    "verein": "1. FSV Mainz 05",
+    "spieler": "",
+    "kategorie": "ergebnis",
+    "status": "Spielbericht",
+    "beschreibung": "Drei Tore reichen Mainz nicht zum ersten Heimsieg – Bayer Leverkusen hat in der Bundesliga einen Sieg in Mainz eingefahren. Dabei wehrten sich die Rheinhessen nach Kräften, doch auch drei Tore reichten nicht zum Punktgewinn,",
+    "quelle": "https://www.sportschau.de/fussball/bundesliga/drei-tore-reichen-mainz-nicht-zum-ersten-heimsieg,spielbericht-mainz-05-bayer-leverkusen-100.html",
+    "erfasst_am": "2026-10-10T17:26:33+02:00"
+  },
+  {
+    "verein": "Bayer 04 Leverkusen",
+    "spieler": "",
+    "kategorie": "ergebnis",
+    "status": "Spielbericht",
+    "beschreibung": "Drei Tore reichen Mainz nicht zum ersten Heimsieg – Bayer Leverkusen hat in der Bundesliga einen Sieg in Mainz eingefahren. Dabei wehrten sich die Rheinhessen nach Kräften, doch auch drei Tore reichten nicht zum Punktgewinn,",
+    "quelle": "https://www.sportschau.de/fussball/bundesliga/drei-tore-reichen-mainz-nicht-zum-ersten-heimsieg,spielbericht-mainz-05-bayer-leverkusen-100.html",
+    "erfasst_am": "2026-10-10T17:26:33+02:00"
+  },
+  {
+    "verein": "1. FC Union Berlin",
+    "spieler": "",
+    "kategorie": "ergebnis",
+    "status": "Spielbericht",
+    "beschreibung": "Fußball-Bundesliga: Union Berlin besiegt die SV Elversberg – Joker Livan Burcu bricht gegen Elversberg den Bann und Union Berlin belohnt sich für eine reife Leistung.",
+    "quelle": "https://www.sportschau.de/fussball/bundesliga/union-feiert-gegen-elversberg-ersten-saisonsieg,spielbericht-union-berlin-sv-elversberg-100.html",
+    "erfasst_am": "2026-10-10T17:22:48+02:00"
+  },
+  {
+    "verein": "SV 07 Elversberg",
+    "spieler": "",
+    "kategorie": "ergebnis",
+    "status": "Spielbericht",
+    "beschreibung": "Fußball-Bundesliga: Union Berlin besiegt die SV Elversberg – Joker Livan Burcu bricht gegen Elversberg den Bann und Union Berlin belohnt sich für eine reife Leistung.",
+    "quelle": "https://www.sportschau.de/fussball/bundesliga/union-feiert-gegen-elversberg-ersten-saisonsieg,spielbericht-union-berlin-sv-elversberg-100.html",
+    "erfasst_am": "2026-10-10T17:22:48+02:00"
+  },
+  {
     "verein": "Borussia Dortmund",
     "spieler": "",
     "kategorie": "ergebnis",
