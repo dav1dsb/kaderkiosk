@@ -1,66 +1,93 @@
 [
   {
+    "verein": "RB Leipzig",
+    "spieler": "",
+    "kategorie": "ergebnis",
+    "status": "Spielbericht",
+    "beschreibung": "Nkunkus Hattrick düpiert eine ganz schwache Eintracht – RB Leipzig feiert einen Kantersieg gegen eine ganz schwache Frankfurter Eintracht. Christopher Nkunku sorgte mit einem Hattrick schon vor der Pause für klare Verhältnisse.",
+    "quelle": "https://www.sportschau.de/fussball/bundesliga/nkunkus-hattrick-duepiert-eine-ganz-schwache-eintracht,spielbericht-rb-leipzig-eintracht-frankfurt-106.html",
+    "erfasst_am": "2026-10-10T20:35:05+02:00"
+  },
+  {
+    "verein": "Eintracht Frankfurt",
+    "spieler": "",
+    "kategorie": "ergebnis",
+    "status": "Spielbericht",
+    "beschreibung": "Nkunkus Hattrick düpiert eine ganz schwache Eintracht – RB Leipzig feiert einen Kantersieg gegen eine ganz schwache Frankfurter Eintracht. Christopher Nkunku sorgte mit einem Hattrick schon vor der Pause für klare Verhältnisse.",
+    "quelle": "https://www.sportschau.de/fussball/bundesliga/nkunkus-hattrick-duepiert-eine-ganz-schwache-eintracht,spielbericht-rb-leipzig-eintracht-frankfurt-106.html",
+    "erfasst_am": "2026-10-10T20:35:05+02:00"
+  },
+  {
+    "verein": "Hamburger SV",
+    "spieler": "",
+    "kategorie": "verletzung",
+    "status": "fällt aus",
+    "beschreibung": "Hamburg fear captain Nicolai Remberg has suffered a serious ACL injury – Celebrations over Hamburg's second victory of the Bundesliga campaign have been tempered by news that captain Nicolai Remberg may have suffered a serious injury.",
+    "quelle": "https://www.getfootballnewsgermany.com/2026/hamburg-remberg-injury/",
+    "erfasst_am": "2026-10-10T17:36:48+00:00"
+  },
+  {
     "verein": "SC Paderborn 07",
     "spieler": "",
     "kategorie": "ergebnis",
     "status": "Spielbericht",
-    "beschreibung": "Bundesliga: Stuttgart schlägt Paderborn – Der VfB Stuttgart hat am 5. Bundesliga-Spieltag den zweiten Saisonsieg gefeiert, musste beim SC Paderborn aber hart arbeiten.",
+    "beschreibung": "Stuttgart reicht gegen Paderborn eine starke Halbzeit – Der VfB Stuttgart dominierte beim SC Paderborn die erste Halbzeit, musste dann aber noch um den Sieg zittern.",
     "quelle": "https://www.sportschau.de/fussball/bundesliga/fuehrich-erloest-vfb-in-paderborn-spaet,spielbericht-sc-paderborn-vfb-stuttgart-102.html",
-    "erfasst_am": "2026-10-10T17:26:37+02:00"
+    "erfasst_am": "2026-10-10T18:55:14+02:00"
   },
   {
     "verein": "VfB Stuttgart",
     "spieler": "",
     "kategorie": "ergebnis",
     "status": "Spielbericht",
-    "beschreibung": "Bundesliga: Stuttgart schlägt Paderborn – Der VfB Stuttgart hat am 5. Bundesliga-Spieltag den zweiten Saisonsieg gefeiert, musste beim SC Paderborn aber hart arbeiten.",
+    "beschreibung": "Stuttgart reicht gegen Paderborn eine starke Halbzeit – Der VfB Stuttgart dominierte beim SC Paderborn die erste Halbzeit, musste dann aber noch um den Sieg zittern.",
     "quelle": "https://www.sportschau.de/fussball/bundesliga/fuehrich-erloest-vfb-in-paderborn-spaet,spielbericht-sc-paderborn-vfb-stuttgart-102.html",
-    "erfasst_am": "2026-10-10T17:26:37+02:00"
-  },
-  {
-    "verein": "1. FSV Mainz 05",
-    "spieler": "",
-    "kategorie": "ergebnis",
-    "status": "Spielbericht",
-    "beschreibung": "Drei Tore reichen Mainz nicht zum ersten Heimsieg – Bayer Leverkusen hat in der Bundesliga einen Sieg in Mainz eingefahren. Dabei wehrten sich die Rheinhessen nach Kräften, doch auch drei Tore reichten nicht zum Punktgewinn,",
-    "quelle": "https://www.sportschau.de/fussball/bundesliga/drei-tore-reichen-mainz-nicht-zum-ersten-heimsieg,spielbericht-mainz-05-bayer-leverkusen-100.html",
-    "erfasst_am": "2026-10-10T17:26:33+02:00"
-  },
-  {
-    "verein": "Bayer 04 Leverkusen",
-    "spieler": "",
-    "kategorie": "ergebnis",
-    "status": "Spielbericht",
-    "beschreibung": "Drei Tore reichen Mainz nicht zum ersten Heimsieg – Bayer Leverkusen hat in der Bundesliga einen Sieg in Mainz eingefahren. Dabei wehrten sich die Rheinhessen nach Kräften, doch auch drei Tore reichten nicht zum Punktgewinn,",
-    "quelle": "https://www.sportschau.de/fussball/bundesliga/drei-tore-reichen-mainz-nicht-zum-ersten-heimsieg,spielbericht-mainz-05-bayer-leverkusen-100.html",
-    "erfasst_am": "2026-10-10T17:26:33+02:00"
+    "erfasst_am": "2026-10-10T18:55:14+02:00"
   },
   {
     "verein": "1. FC Union Berlin",
     "spieler": "",
     "kategorie": "ergebnis",
     "status": "Spielbericht",
-    "beschreibung": "Fußball-Bundesliga: Union Berlin besiegt die SV Elversberg – Joker Livan Burcu bricht gegen Elversberg den Bann und Union Berlin belohnt sich für eine reife Leistung.",
+    "beschreibung": "Union feiert erlösenden Sieg gegen Elversberg – Joker Livan Burcu bricht gegen die SV Elversberg den Bann und ermöglicht Union Berlin in der Fußball-Bundesliga den lang ersehnten ersten Saisonsieg.",
     "quelle": "https://www.sportschau.de/fussball/bundesliga/union-feiert-gegen-elversberg-ersten-saisonsieg,spielbericht-union-berlin-sv-elversberg-100.html",
-    "erfasst_am": "2026-10-10T17:22:48+02:00"
+    "erfasst_am": "2026-10-10T18:18:23+02:00"
   },
   {
     "verein": "SV 07 Elversberg",
     "spieler": "",
     "kategorie": "ergebnis",
     "status": "Spielbericht",
-    "beschreibung": "Fußball-Bundesliga: Union Berlin besiegt die SV Elversberg – Joker Livan Burcu bricht gegen Elversberg den Bann und Union Berlin belohnt sich für eine reife Leistung.",
+    "beschreibung": "Union feiert erlösenden Sieg gegen Elversberg – Joker Livan Burcu bricht gegen die SV Elversberg den Bann und ermöglicht Union Berlin in der Fußball-Bundesliga den lang ersehnten ersten Saisonsieg.",
     "quelle": "https://www.sportschau.de/fussball/bundesliga/union-feiert-gegen-elversberg-ersten-saisonsieg,spielbericht-union-berlin-sv-elversberg-100.html",
-    "erfasst_am": "2026-10-10T17:22:48+02:00"
+    "erfasst_am": "2026-10-10T18:18:23+02:00"
+  },
+  {
+    "verein": "1. FSV Mainz 05",
+    "spieler": "",
+    "kategorie": "ergebnis",
+    "status": "Spielbericht",
+    "beschreibung": "Drei Tore reichen Mainz gegen Leverkusen nicht zum ersten Heimsieg – Bayer Leverkusen hat in der Fußball-Bundesliga einen Sieg beim 1. FSV Mainz 05 eingefahren. Dabei wehrten sich die Rheinhessen nach Kräften, doch auch drei Tore reichten nicht zum Punktgewinn.",
+    "quelle": "https://www.sportschau.de/fussball/bundesliga/drei-tore-reichen-mainz-nicht-zum-ersten-heimsieg,spielbericht-mainz-05-bayer-leverkusen-100.html",
+    "erfasst_am": "2026-10-10T17:54:00+02:00"
   },
   {
     "verein": "Bayer 04 Leverkusen",
     "spieler": "",
-    "kategorie": "transfer",
-    "status": "Vertrag",
-    "beschreibung": "Bayer Leverkusen in talks with Ibrahim Maza over contract extension – Bayer Leverkusen have started negotiating with Algerian attacking midfielder Ibrahim Maza to extend his contract beyond 2030, according to Sky Germany, with the Algerian’s new deal including a salary adjustment. …",
-    "quelle": "https://www.getfootballnewsgermany.com/2026/bayer-leverkusen-in-talks-with-ibrahim-maza-over-contract-extension/",
-    "erfasst_am": "2026-10-10T09:21:24+00:00"
+    "kategorie": "ergebnis",
+    "status": "Spielbericht",
+    "beschreibung": "Drei Tore reichen Mainz gegen Leverkusen nicht zum ersten Heimsieg – Bayer Leverkusen hat in der Fußball-Bundesliga einen Sieg beim 1. FSV Mainz 05 eingefahren. Dabei wehrten sich die Rheinhessen nach Kräften, doch auch drei Tore reichten nicht zum Punktgewinn.",
+    "quelle": "https://www.sportschau.de/fussball/bundesliga/drei-tore-reichen-mainz-nicht-zum-ersten-heimsieg,spielbericht-mainz-05-bayer-leverkusen-100.html",
+    "erfasst_am": "2026-10-10T17:54:00+02:00"
+  },
+  {
+    "verein": "TSG Hoffenheim",
+    "spieler": "",
+    "kategorie": "verletzung",
+    "status": "verletzt",
+    "beschreibung": "Muheims Traumtor gegen Hoffenheim lässt Hamburg eskalieren – Mehrere zurückgenommene Treffer, ein Platzverweis, eine Verletzung und ein spätes Traumtor zum Sieg - die Partie zwischen Hoffenheim und Hamburg hatte wirklich alles.",
+    "quelle": "https://www.sportschau.de/fussball/bundesliga/903-traumtor-laesst-hamburg-eskalieren,spielbericht-tsg-hoffenheim-hamburger-sv-102.html",
+    "erfasst_am": "2026-10-10T17:49:44+02:00"
   },
   {
     "verein": "Borussia Dortmund",
