@@ -1,5 +1,14 @@
 [
   {
+    "verein": "TSG Hoffenheim",
+    "spieler": "",
+    "kategorie": "verletzung",
+    "status": "verletzt",
+    "beschreibung": "Muheims Traumtor gegen Hoffenheim lässt Hamburg eskalieren – Mehrere zurückgenommene Treffer, ein Platzverweis, eine Verletzung und ein spätes Traumtor zum Sieg - die Partie zwischen Hoffenheim und Hamburg hatte wirklich alles.",
+    "quelle": "https://www.sportschau.de/fussball/bundesliga/903-traumtor-laesst-hamburg-eskalieren,spielbericht-tsg-hoffenheim-hamburger-sv-102.html",
+    "erfasst_am": "2026-10-11T14:04:34+02:00"
+  },
+  {
     "verein": "RB Leipzig",
     "spieler": "",
     "kategorie": "ergebnis",
@@ -79,15 +88,6 @@
     "beschreibung": "Drei Tore reichen Mainz gegen Leverkusen nicht zum ersten Heimsieg – Bayer Leverkusen hat in der Fußball-Bundesliga einen Sieg beim 1. FSV Mainz 05 eingefahren. Dabei wehrten sich die Rheinhessen nach Kräften, doch auch drei Tore reichten nicht zum Punktgewinn.",
     "quelle": "https://www.sportschau.de/fussball/bundesliga/drei-tore-reichen-mainz-nicht-zum-ersten-heimsieg,spielbericht-mainz-05-bayer-leverkusen-100.html",
     "erfasst_am": "2026-10-10T17:54:00+02:00"
-  },
-  {
-    "verein": "TSG Hoffenheim",
-    "spieler": "",
-    "kategorie": "verletzung",
-    "status": "verletzt",
-    "beschreibung": "Muheims Traumtor gegen Hoffenheim lässt Hamburg eskalieren – Mehrere zurückgenommene Treffer, ein Platzverweis, eine Verletzung und ein spätes Traumtor zum Sieg - die Partie zwischen Hoffenheim und Hamburg hatte wirklich alles.",
-    "quelle": "https://www.sportschau.de/fussball/bundesliga/903-traumtor-laesst-hamburg-eskalieren,spielbericht-tsg-hoffenheim-hamburger-sv-102.html",
-    "erfasst_am": "2026-10-10T17:49:44+02:00"
   },
   {
     "verein": "Borussia Dortmund",
