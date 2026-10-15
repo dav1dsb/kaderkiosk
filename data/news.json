@@ -1,5 +1,14 @@
 [
   {
+    "verein": "",
+    "spieler": "",
+    "kategorie": "verletzung",
+    "status": "fällt aus",
+    "beschreibung": "HSV ohne \"Rambo\" Remberg - wer rückt auf seine Position? – Der langwierige Ausfall des Kapitäns wiegt schwer. Kofi Amoako könnte gegen den VfB Stuttgart der Ersatz für Nicolai Remberg sein.",
+    "quelle": "https://www.sportschau.de/regional/ndr/hsv-ohne-rambo-remberg-wer-rueckt-auf-seine-position,hsv-2222.html",
+    "erfasst_am": "2026-10-15T16:11:27+02:00"
+  },
+  {
     "verein": "SV Werder Bremen",
     "spieler": "",
     "kategorie": "transfer",
@@ -43,15 +52,6 @@
     "beschreibung": "Muheims Traumtor gegen Hoffenheim lässt Hamburg eskalieren – Mehrere zurückgenommene Treffer, ein Platzverweis, eine Verletzung und ein spätes Traumtor zum Sieg - die Partie zwischen Hoffenheim und Hamburg hatte wirklich alles.",
     "quelle": "https://www.sportschau.de/fussball/bundesliga/903-traumtor-laesst-hamburg-eskalieren,spielbericht-tsg-hoffenheim-hamburger-sv-102.html",
     "erfasst_am": "2026-10-11T14:04:34+02:00"
-  },
-  {
-    "verein": "Hamburger SV",
-    "spieler": "",
-    "kategorie": "verletzung",
-    "status": "fällt aus",
-    "beschreibung": "Schock für den HSV: Kreuzbandriss bei Kapitän Remberg – Einen Tag nach dem Spiel bei der TSG Hoffenheim bestätigten sich die schlimmen Befürchtungen der Hamburger. Der Mittelfeldspieler fällt monatelang aus.",
-    "quelle": "https://www.sportschau.de/regional/ndr/Bundesliga-Hamburg-HSV,hsv-2216.html",
-    "erfasst_am": "2026-10-11T13:42:25+02:00"
   },
   {
     "verein": "RB Leipzig",
