@@ -1,5 +1,23 @@
 [
   {
+    "verein": "Eintracht Frankfurt",
+    "spieler": "",
+    "kategorie": "ergebnis",
+    "status": "Spielbericht",
+    "beschreibung": "Ebnoutalib sichert Eintracht Frankfurt den Sieg gegen Köln – Lange mühte sich Eintracht Frankfurt gegen einen harmlosen 1. FC Köln, doch dann griff Noel Aseko ganz tief in seine Trick-Kiste und Younes Ebnoutalib schlug eiskalt zu.",
+    "quelle": "https://www.sportschau.de/fussball/bundesliga/viele-flanken-und-ein-geistesblitz-frankfurt-besiegt-koeln,spielbericht-eintracht-frankfurt-koeln-102.html",
+    "erfasst_am": "2026-10-16T23:16:05+02:00"
+  },
+  {
+    "verein": "1. FC Köln",
+    "spieler": "",
+    "kategorie": "ergebnis",
+    "status": "Spielbericht",
+    "beschreibung": "Ebnoutalib sichert Eintracht Frankfurt den Sieg gegen Köln – Lange mühte sich Eintracht Frankfurt gegen einen harmlosen 1. FC Köln, doch dann griff Noel Aseko ganz tief in seine Trick-Kiste und Younes Ebnoutalib schlug eiskalt zu.",
+    "quelle": "https://www.sportschau.de/fussball/bundesliga/viele-flanken-und-ein-geistesblitz-frankfurt-besiegt-koeln,spielbericht-eintracht-frankfurt-koeln-102.html",
+    "erfasst_am": "2026-10-16T23:16:05+02:00"
+  },
+  {
     "verein": "",
     "spieler": "",
     "kategorie": "verletzung",
