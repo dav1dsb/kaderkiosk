@@ -1,5 +1,95 @@
 [
   {
+    "verein": "SV Werder Bremen",
+    "spieler": "",
+    "kategorie": "ergebnis",
+    "status": "Spielbericht",
+    "beschreibung": "Bundesliga: Bremen nur Remis gegen Paderborn – Drei Mal in Folge lag Werder Bremen in der Bundesliga mit 0:2 zurück, drei Mal hat Bremen nicht verloren. Gegen den SC Paderborn war sogar ein Sieg drin.",
+    "quelle": "https://www.sportschau.de/fussball/bundesliga/werder-schafft-naechste-zwei-tore-comeback,spielbericht-werder-bremen-sc-paderborn-100.html",
+    "erfasst_am": "2026-10-17T18:44:44+02:00"
+  },
+  {
+    "verein": "SC Paderborn 07",
+    "spieler": "",
+    "kategorie": "ergebnis",
+    "status": "Spielbericht",
+    "beschreibung": "Bundesliga: Bremen nur Remis gegen Paderborn – Drei Mal in Folge lag Werder Bremen in der Bundesliga mit 0:2 zurück, drei Mal hat Bremen nicht verloren. Gegen den SC Paderborn war sogar ein Sieg drin.",
+    "quelle": "https://www.sportschau.de/fussball/bundesliga/werder-schafft-naechste-zwei-tore-comeback,spielbericht-werder-bremen-sc-paderborn-100.html",
+    "erfasst_am": "2026-10-17T18:44:44+02:00"
+  },
+  {
+    "verein": "Hamburger SV",
+    "spieler": "",
+    "kategorie": "ergebnis",
+    "status": "Spielbericht",
+    "beschreibung": "Muheim als Matchwinner: Der Hamburger SV bezwingt den VfB Stuttgart in der Fußball-Bundesliga – Der HSV und der VfB liefern sich ein ausgeglichenes Duell mit Chancen auf beiden Seiten - bis Muheim den Hammer rausholt. Der Schweizer erfindet sich gerade neu.",
+    "quelle": "https://www.sportschau.de/fussball/bundesliga/muheims-knaller-bringt-dem-hsv-dritten-sieg,spielbericht-hamburger-sv-vfb-stuttgart-102.html",
+    "erfasst_am": "2026-10-17T18:33:42+02:00"
+  },
+  {
+    "verein": "VfB Stuttgart",
+    "spieler": "",
+    "kategorie": "ergebnis",
+    "status": "Spielbericht",
+    "beschreibung": "Muheim als Matchwinner: Der Hamburger SV bezwingt den VfB Stuttgart in der Fußball-Bundesliga – Der HSV und der VfB liefern sich ein ausgeglichenes Duell mit Chancen auf beiden Seiten - bis Muheim den Hammer rausholt. Der Schweizer erfindet sich gerade neu.",
+    "quelle": "https://www.sportschau.de/fussball/bundesliga/muheims-knaller-bringt-dem-hsv-dritten-sieg,spielbericht-hamburger-sv-vfb-stuttgart-102.html",
+    "erfasst_am": "2026-10-17T18:33:42+02:00"
+  },
+  {
+    "verein": "1. FC Union Berlin",
+    "spieler": "",
+    "kategorie": "ergebnis",
+    "status": "Spielbericht",
+    "beschreibung": "Kampf und Krampf in Berlin - BVB enttäuscht bei Union wieder – Borussia Dortmund ist hat zum dritten Mal in Folge nicht gewonnen - und schoss in einem unansehnlichen Spiel bei Union Berlin erneut kein Tor.",
+    "quelle": "https://www.sportschau.de/fussball/bundesliga/kampf-und-krampf-in-berlin-bvb-enttaeuscht-wieder,spielbericht-union-berlin-borussia-dortmund-104.html",
+    "erfasst_am": "2026-10-17T18:28:04+02:00"
+  },
+  {
+    "verein": "Borussia Dortmund",
+    "spieler": "",
+    "kategorie": "ergebnis",
+    "status": "Spielbericht",
+    "beschreibung": "Kampf und Krampf in Berlin - BVB enttäuscht bei Union wieder – Borussia Dortmund ist hat zum dritten Mal in Folge nicht gewonnen - und schoss in einem unansehnlichen Spiel bei Union Berlin erneut kein Tor.",
+    "quelle": "https://www.sportschau.de/fussball/bundesliga/kampf-und-krampf-in-berlin-bvb-enttaeuscht-wieder,spielbericht-union-berlin-borussia-dortmund-104.html",
+    "erfasst_am": "2026-10-17T18:28:04+02:00"
+  },
+  {
+    "verein": "FC Schalke 04",
+    "spieler": "",
+    "kategorie": "ergebnis",
+    "status": "Spielbericht",
+    "beschreibung": "Bundesliga: Schalke enttäuscht bei nächstem Auswärtscoup von Mainz 05 – Schalke 04 bleibt ohne Heimtor, Mainz 05 gewinnt nur auswärts: Beim Mainzer Sieg auf Schalke setzten sich zwei Serien fort.",
+    "quelle": "https://www.sportschau.de/fussball/bundesliga/schalke-enttaeuscht-gegen-mainzer-auswaerts-koenige,spielbericht-schalke-04-mainz-05-100.html",
+    "erfasst_am": "2026-10-17T18:00:52+02:00"
+  },
+  {
+    "verein": "1. FSV Mainz 05",
+    "spieler": "",
+    "kategorie": "ergebnis",
+    "status": "Spielbericht",
+    "beschreibung": "Bundesliga: Schalke enttäuscht bei nächstem Auswärtscoup von Mainz 05 – Schalke 04 bleibt ohne Heimtor, Mainz 05 gewinnt nur auswärts: Beim Mainzer Sieg auf Schalke setzten sich zwei Serien fort.",
+    "quelle": "https://www.sportschau.de/fussball/bundesliga/schalke-enttaeuscht-gegen-mainzer-auswaerts-koenige,spielbericht-schalke-04-mainz-05-100.html",
+    "erfasst_am": "2026-10-17T18:00:52+02:00"
+  },
+  {
+    "verein": "SV 07 Elversberg",
+    "spieler": "",
+    "kategorie": "ergebnis",
+    "status": "Spielbericht",
+    "beschreibung": "Happy End für SV Elversberg im Spektakel gegen FC Augsburg – Dieses Spiel hatte alles, was sich Fußballfans wünschen: Viele Tore, strittige Entscheidungen, zwei stürmende Teams - am Ende jubelte die SV Elversberg und nicht der FC Augsburg.",
+    "quelle": "https://www.sportschau.de/fussball/bundesliga/elversberger-happy-end-im-spektakel-gegen-augsburg,spielbericht-sv-elversberg-fc-augsburg-100.html",
+    "erfasst_am": "2026-10-17T17:45:41+02:00"
+  },
+  {
+    "verein": "FC Augsburg",
+    "spieler": "",
+    "kategorie": "ergebnis",
+    "status": "Spielbericht",
+    "beschreibung": "Happy End für SV Elversberg im Spektakel gegen FC Augsburg – Dieses Spiel hatte alles, was sich Fußballfans wünschen: Viele Tore, strittige Entscheidungen, zwei stürmende Teams - am Ende jubelte die SV Elversberg und nicht der FC Augsburg.",
+    "quelle": "https://www.sportschau.de/fussball/bundesliga/elversberger-happy-end-im-spektakel-gegen-augsburg,spielbericht-sv-elversberg-fc-augsburg-100.html",
+    "erfasst_am": "2026-10-17T17:45:41+02:00"
+  },
+  {
     "verein": "Eintracht Frankfurt",
     "spieler": "",
     "kategorie": "ergebnis",
