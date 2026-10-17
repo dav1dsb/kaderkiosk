@@ -1,19 +1,28 @@
 [
   {
-    "verein": "SV Werder Bremen",
+    "verein": "FC Bayern München",
     "spieler": "",
     "kategorie": "ergebnis",
     "status": "Spielbericht",
-    "beschreibung": "Bundesliga: Bremen nur Remis gegen Paderborn – Drei Mal in Folge lag Werder Bremen in der Bundesliga mit 0:2 zurück, drei Mal hat Bremen nicht verloren. Gegen den SC Paderborn war sogar ein Sieg drin.",
-    "quelle": "https://www.sportschau.de/fussball/bundesliga/werder-schafft-naechste-zwei-tore-comeback,spielbericht-werder-bremen-sc-paderborn-100.html",
-    "erfasst_am": "2026-10-17T18:44:44+02:00"
+    "beschreibung": "FC Bayern schießt sich gegen RB Leipzig den Frust von der Seele – RB Leipzig hat darunter leiden müssen, dass der FC Bayern München zuvor zwei Enttäuschungen erlebt hatte. Luis Diaz war beim Schützenfest des Rekordmeisters der Hauptakteur.",
+    "quelle": "https://www.sportschau.de/fussball/bundesliga/bayern-schiesst-sich-gegen-leipzig-frust-von-der-seele,spielbericht-bayern-muenchen-rb-leipzig-110.html",
+    "erfasst_am": "2026-10-17T20:33:17+02:00"
   },
   {
-    "verein": "SC Paderborn 07",
+    "verein": "RB Leipzig",
     "spieler": "",
     "kategorie": "ergebnis",
     "status": "Spielbericht",
-    "beschreibung": "Bundesliga: Bremen nur Remis gegen Paderborn – Drei Mal in Folge lag Werder Bremen in der Bundesliga mit 0:2 zurück, drei Mal hat Bremen nicht verloren. Gegen den SC Paderborn war sogar ein Sieg drin.",
+    "beschreibung": "FC Bayern schießt sich gegen RB Leipzig den Frust von der Seele – RB Leipzig hat darunter leiden müssen, dass der FC Bayern München zuvor zwei Enttäuschungen erlebt hatte. Luis Diaz war beim Schützenfest des Rekordmeisters der Hauptakteur.",
+    "quelle": "https://www.sportschau.de/fussball/bundesliga/bayern-schiesst-sich-gegen-leipzig-frust-von-der-seele,spielbericht-bayern-muenchen-rb-leipzig-110.html",
+    "erfasst_am": "2026-10-17T20:33:17+02:00"
+  },
+  {
+    "verein": "",
+    "spieler": "",
+    "kategorie": "verletzung",
+    "status": "zurück",
+    "beschreibung": "Bremen schafft gegen Paderborn das nächste Zwei-Tore-Comeback – Drei Mal in Folge lag Werder Bremen in der Bundesliga mit 0:2 zurück, drei Mal hat Bremen nicht verloren. Gegen den SC Paderborn war sogar ein Sieg drin.",
     "quelle": "https://www.sportschau.de/fussball/bundesliga/werder-schafft-naechste-zwei-tore-comeback,spielbericht-werder-bremen-sc-paderborn-100.html",
     "erfasst_am": "2026-10-17T18:44:44+02:00"
   },
@@ -22,7 +31,7 @@
     "spieler": "",
     "kategorie": "ergebnis",
     "status": "Spielbericht",
-    "beschreibung": "Muheim als Matchwinner: Der Hamburger SV bezwingt den VfB Stuttgart in der Fußball-Bundesliga – Der HSV und der VfB liefern sich ein ausgeglichenes Duell mit Chancen auf beiden Seiten - bis Muheim den Hammer rausholt. Der Schweizer erfindet sich gerade neu.",
+    "beschreibung": "Muheim als Hamburgs Matchwinner gegen Stuttgart – Der HSV und der VfB liefern sich ein ausgeglichenes Duell mit Chancen auf beiden Seiten - bis Muheim den Hammer rausholt. Der Schweizer erfindet sich gerade neu.",
     "quelle": "https://www.sportschau.de/fussball/bundesliga/muheims-knaller-bringt-dem-hsv-dritten-sieg,spielbericht-hamburger-sv-vfb-stuttgart-102.html",
     "erfasst_am": "2026-10-17T18:33:42+02:00"
   },
@@ -31,7 +40,7 @@
     "spieler": "",
     "kategorie": "ergebnis",
     "status": "Spielbericht",
-    "beschreibung": "Muheim als Matchwinner: Der Hamburger SV bezwingt den VfB Stuttgart in der Fußball-Bundesliga – Der HSV und der VfB liefern sich ein ausgeglichenes Duell mit Chancen auf beiden Seiten - bis Muheim den Hammer rausholt. Der Schweizer erfindet sich gerade neu.",
+    "beschreibung": "Muheim als Hamburgs Matchwinner gegen Stuttgart – Der HSV und der VfB liefern sich ein ausgeglichenes Duell mit Chancen auf beiden Seiten - bis Muheim den Hammer rausholt. Der Schweizer erfindet sich gerade neu.",
     "quelle": "https://www.sportschau.de/fussball/bundesliga/muheims-knaller-bringt-dem-hsv-dritten-sieg,spielbericht-hamburger-sv-vfb-stuttgart-102.html",
     "erfasst_am": "2026-10-17T18:33:42+02:00"
   },
@@ -67,7 +76,7 @@
     "spieler": "",
     "kategorie": "ergebnis",
     "status": "Spielbericht",
-    "beschreibung": "Bundesliga: Schalke enttäuscht bei nächstem Auswärtscoup von Mainz 05 – Schalke 04 bleibt ohne Heimtor, Mainz 05 gewinnt nur auswärts: Beim Mainzer Sieg auf Schalke setzten sich zwei Serien fort.",
+    "beschreibung": "Schalke enttäuscht bei nächstem Auswärtscoup von Mainz 05 – Schalke 04 bleibt ohne Heimtor, Mainz 05 gewinnt nur auswärts: Beim Mainzer Sieg auf Schalke setzten sich zwei Serien fort.",
     "quelle": "https://www.sportschau.de/fussball/bundesliga/schalke-enttaeuscht-gegen-mainzer-auswaerts-koenige,spielbericht-schalke-04-mainz-05-100.html",
     "erfasst_am": "2026-10-17T18:00:52+02:00"
   },
@@ -76,7 +85,7 @@
     "spieler": "",
     "kategorie": "ergebnis",
     "status": "Spielbericht",
-    "beschreibung": "Bundesliga: Schalke enttäuscht bei nächstem Auswärtscoup von Mainz 05 – Schalke 04 bleibt ohne Heimtor, Mainz 05 gewinnt nur auswärts: Beim Mainzer Sieg auf Schalke setzten sich zwei Serien fort.",
+    "beschreibung": "Schalke enttäuscht bei nächstem Auswärtscoup von Mainz 05 – Schalke 04 bleibt ohne Heimtor, Mainz 05 gewinnt nur auswärts: Beim Mainzer Sieg auf Schalke setzten sich zwei Serien fort.",
     "quelle": "https://www.sportschau.de/fussball/bundesliga/schalke-enttaeuscht-gegen-mainzer-auswaerts-koenige,spielbericht-schalke-04-mainz-05-100.html",
     "erfasst_am": "2026-10-17T18:00:52+02:00"
   },
