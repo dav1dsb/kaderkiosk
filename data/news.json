@@ -1,5 +1,14 @@
 [
   {
+    "verein": "RB Leipzig",
+    "spieler": "",
+    "kategorie": "pressekonferenz",
+    "status": "Trainer-News",
+    "beschreibung": "RB Leipzig boss condemns latest Bayern Munich humiliation: “A complete failure in all areas!” – RB Leipzig sporting director Marcel Schäfer delivered a scathing assessment following Saturday's 6-1 defeat to Bayern Munich.",
+    "quelle": "https://www.getfootballnewsgermany.com/2026/leipzig-schafer-critic/",
+    "erfasst_am": "2026-10-17T21:08:53+00:00"
+  },
+  {
     "verein": "FC Bayern München",
     "spieler": "",
     "kategorie": "ergebnis",
@@ -115,15 +124,6 @@
     "beschreibung": "Official | Freiburg extend contract of ‘clutch man’ Lukas Kübler (34) – SC Freiburg have extended the contract of veteran defender Lukas Kübler, rewarding one of the club's longest-serving players.",
     "quelle": "https://www.getfootballnewsgermany.com/2026/lukas-kubler-contract-extend/",
     "erfasst_am": "2026-10-17T10:13:41+00:00"
-  },
-  {
-    "verein": "1. FC Köln",
-    "spieler": "",
-    "kategorie": "pressekonferenz",
-    "status": "Trainer-News",
-    "beschreibung": "Cologne head coach defends back-five experiment as players voice frustration – Cologne head coach René Wagner explained the thinking behind his team's back-five experiment against Eintracht Frankfurt.",
-    "quelle": "https://www.getfootballnewsgermany.com/2026/cologne-back-five-frankfurt/",
-    "erfasst_am": "2026-10-17T08:46:44+00:00"
   },
   {
     "verein": "Eintracht Frankfurt",
