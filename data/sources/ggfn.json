@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "verein": "SC Freiburg",
+    "spieler": "",
+    "kategorie": "transfer",
+    "status": "Vertrag",
+    "beschreibung": "Official | Freiburg extend contract of ‘clutch man’ Lukas Kübler (34) – SC Freiburg have extended the contract of veteran defender Lukas Kübler, rewarding one of the club's longest-serving players.",
+    "quelle": "https://www.getfootballnewsgermany.com/2026/lukas-kubler-contract-extend/",
+    "erfasst_am": "2026-10-17T10:13:41+00:00"
+  },
+  {
+    "verein": "1. FC Köln",
+    "spieler": "",
+    "kategorie": "pressekonferenz",
+    "status": "Trainer-News",
+    "beschreibung": "Cologne head coach defends back-five experiment as players voice frustration – Cologne head coach René Wagner explained the thinking behind his team's back-five experiment against Eintracht Frankfurt.",
+    "quelle": "https://www.getfootballnewsgermany.com/2026/cologne-back-five-frankfurt/",
+    "erfasst_am": "2026-10-17T08:46:44+00:00"
+  }
+]
