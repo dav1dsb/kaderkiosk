@@ -6,7 +6,7 @@
     "status": "Spielbericht",
     "beschreibung": "Hoffenheim befeuert Borussia Mönchengladbachs Abstiegsangst – Sechster Spieltag, sechste Niederlage: Im Duell der Bundesliga-Schlusslichter hat die TSG Hoffenheim dafür gesorgt, dass Borussia Mönchengladbach weiter punktlos bleibt.",
     "quelle": "https://www.sportschau.de/fussball/bundesliga/hoffenheim-befeuert-gladbachs-abstiegsangst,spielbericht-borussia-moenchengladbach-tsg-hoffenheim-112.html",
-    "erfasst_am": "2026-10-18T20:24:26+02:00"
+    "erfasst_am": "2026-10-19T00:01:28+02:00"
   },
   {
     "verein": "TSG Hoffenheim",
@@ -15,7 +15,16 @@
     "status": "Spielbericht",
     "beschreibung": "Hoffenheim befeuert Borussia Mönchengladbachs Abstiegsangst – Sechster Spieltag, sechste Niederlage: Im Duell der Bundesliga-Schlusslichter hat die TSG Hoffenheim dafür gesorgt, dass Borussia Mönchengladbach weiter punktlos bleibt.",
     "quelle": "https://www.sportschau.de/fussball/bundesliga/hoffenheim-befeuert-gladbachs-abstiegsangst,spielbericht-borussia-moenchengladbach-tsg-hoffenheim-112.html",
-    "erfasst_am": "2026-10-18T20:24:26+02:00"
+    "erfasst_am": "2026-10-19T00:01:28+02:00"
+  },
+  {
+    "verein": "SV Werder Bremen",
+    "spieler": "",
+    "kategorie": "verletzung",
+    "status": "zurück",
+    "beschreibung": "Bundesliga: Werder Bremen kommt auch gegen Paderborn zurück – Werder Bremen und Niclas Füllkrug beweisen weiter Comeback-Qualitäten. Gegen den SC Paderborn gelingt nach einem 0:2-Rückstand noch der Ausgleich.",
+    "quelle": "https://www.sportschau.de/fussball/bundesliga/werders-comebacker-schlagen-auch-gegen-paderborn-zu,video-bundesliga-sv-werder-bremen-sc-paderborn-100.html",
+    "erfasst_am": "2026-10-19T00:00:10+02:00"
   },
   {
     "verein": "Eintracht Frankfurt",
