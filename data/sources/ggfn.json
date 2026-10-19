@@ -1,5 +1,14 @@
 [
   {
+    "verein": "SC Freiburg",
+    "spieler": "",
+    "kategorie": "pressekonferenz",
+    "status": "Trainer-News",
+    "beschreibung": "Freiburg coach Julian Schuster criticises the club’s fans following tennis ball protest – Julian Schuster addresses Freiburg fans",
+    "quelle": "https://www.getfootballnewsgermany.com/2026/freiburg-coach-julian-schuster-criticises-the-clubs-fans-following-tennis-ball-protest/",
+    "erfasst_am": "2026-10-19T10:05:48+00:00"
+  },
+  {
     "verein": "RB Leipzig",
     "spieler": "",
     "kategorie": "pressekonferenz",
@@ -7,23 +16,5 @@
     "beschreibung": "RB Leipzig boss condemns latest Bayern Munich humiliation: “A complete failure in all areas!” – RB Leipzig sporting director Marcel Schäfer delivered a scathing assessment following Saturday's 6-1 defeat to Bayern Munich.",
     "quelle": "https://www.getfootballnewsgermany.com/2026/leipzig-schafer-critic/",
     "erfasst_am": "2026-10-17T21:08:53+00:00"
-  },
-  {
-    "verein": "Borussia Dortmund",
-    "spieler": "",
-    "kategorie": "verletzung",
-    "status": "verletzt",
-    "beschreibung": "Borussia Dortmund’s Konstantinos Karetsas suffers fresh injury blow amid already difficult recovery path – Borussia Dortmund face renewed concerns over Konstantinos Karetsas after the 18-year-old suffered an apparent ankle injury just eight minutes after coming on against Union Berlin",
-    "quelle": "https://www.getfootballnewsgermany.com/2026/karetsas-new-inury-bvb/",
-    "erfasst_am": "2026-10-17T16:16:08+00:00"
-  },
-  {
-    "verein": "SC Freiburg",
-    "spieler": "",
-    "kategorie": "transfer",
-    "status": "Vertrag",
-    "beschreibung": "Official | Freiburg extend contract of ‘clutch man’ Lukas Kübler (34) – SC Freiburg have extended the contract of veteran defender Lukas Kübler, rewarding one of the club's longest-serving players.",
-    "quelle": "https://www.getfootballnewsgermany.com/2026/lukas-kubler-contract-extend/",
-    "erfasst_am": "2026-10-17T10:13:41+00:00"
   }
 ]
