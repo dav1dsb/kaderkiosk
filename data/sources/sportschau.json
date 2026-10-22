@@ -1,5 +1,14 @@
 [
   {
+    "verein": "FC Bayern München",
+    "spieler": "",
+    "kategorie": "verletzung",
+    "status": "verletzt",
+    "beschreibung": "Bayern \"vorerst\" ohne Díaz - 2026 kein Einsatz mehr? – Der FC Bayern München muss \"vorerst\" auf Luis Díaz verzichten. Der Kolumbianer zog sich beim Champions-League-Duell gegen den FC Arsenal eine Muskelverletzung zu und könnte sogar für den Rest des Jahres ausfallen.",
+    "quelle": "https://www.sportschau.de/regional/br/br-diagnose-da-fcb-vorerst-ohne-daz-2026-kein-einsatz-mehr-102.html",
+    "erfasst_am": "2026-10-22T16:35:15+02:00"
+  },
+  {
     "verein": "Borussia Mönchengladbach",
     "spieler": "",
     "kategorie": "ergebnis",
@@ -160,131 +169,5 @@
     "beschreibung": "Geistesblitz Aseko, Tor Ebnoutalib - Frankfurt bezwingt Köln – Lange mühte sich Eintracht Frankfurt gegen einen harmlosen 1. FC Köln, doch dann griff Noel Aseko ganz tief in seine Trick-Kiste und Younes Ebnoutalib schlug eiskalt zu.",
     "quelle": "https://www.sportschau.de/fussball/bundesliga/viele-flanken-und-ein-geistesblitz-frankfurt-besiegt-koeln,spielbericht-eintracht-frankfurt-koeln-102.html",
     "erfasst_am": "2026-10-16T23:16:05+02:00"
-  },
-  {
-    "verein": "Hamburger SV",
-    "spieler": "",
-    "kategorie": "verletzung",
-    "status": "zurück",
-    "beschreibung": "Bundesliga: Muheims Last-Minute-Tor krönt HSV-Comeback – Der Hamburger SV nimmt drei Punkte aus Hoffenheim mit. In einer hart umkämpften Partie fiel die Entscheidung zum 3:2 für den HSV erst in der Nachspielzeit.",
-    "quelle": "https://www.sportschau.de/fussball/bundesliga/muheims-last-minute-tor-kroent-hsv-comeback,video-bundesliga-tsg-1899-hoffenheim-hamburger-sv-100.html",
-    "erfasst_am": "2026-10-12T00:00:01+02:00"
-  },
-  {
-    "verein": "SC Freiburg",
-    "spieler": "",
-    "kategorie": "ergebnis",
-    "status": "Spielbericht",
-    "beschreibung": "Keisuke Goto köpft SC Freiburg gegen Schalke an die Spitze – Ein Joker hat im Breisgau für etwas beinahe Einmaliges gesorgt: Dank des späten Tores von Keisuke Goto gegen Schalke 04 ist der SC Freiburg nach dem fünften Spieltag Tabellenführer.",
-    "quelle": "https://www.sportschau.de/fussball/bundesliga/goto-koepft-freiburg-in-unterzahl-an-die-spitze,spielbericht-sc-freiburg-schalke-04-100.html",
-    "erfasst_am": "2026-10-11T20:26:55+02:00"
-  },
-  {
-    "verein": "FC Schalke 04",
-    "spieler": "",
-    "kategorie": "ergebnis",
-    "status": "Spielbericht",
-    "beschreibung": "Keisuke Goto köpft SC Freiburg gegen Schalke an die Spitze – Ein Joker hat im Breisgau für etwas beinahe Einmaliges gesorgt: Dank des späten Tores von Keisuke Goto gegen Schalke 04 ist der SC Freiburg nach dem fünften Spieltag Tabellenführer.",
-    "quelle": "https://www.sportschau.de/fussball/bundesliga/goto-koepft-freiburg-in-unterzahl-an-die-spitze,spielbericht-sc-freiburg-schalke-04-100.html",
-    "erfasst_am": "2026-10-11T20:26:55+02:00"
-  },
-  {
-    "verein": "TSG Hoffenheim",
-    "spieler": "",
-    "kategorie": "verletzung",
-    "status": "verletzt",
-    "beschreibung": "Muheims Traumtor gegen Hoffenheim lässt Hamburg eskalieren – Mehrere zurückgenommene Treffer, ein Platzverweis, eine Verletzung und ein spätes Traumtor zum Sieg - die Partie zwischen Hoffenheim und Hamburg hatte wirklich alles.",
-    "quelle": "https://www.sportschau.de/fussball/bundesliga/903-traumtor-laesst-hamburg-eskalieren,spielbericht-tsg-hoffenheim-hamburger-sv-102.html",
-    "erfasst_am": "2026-10-11T14:04:34+02:00"
-  },
-  {
-    "verein": "RB Leipzig",
-    "spieler": "",
-    "kategorie": "ergebnis",
-    "status": "Spielbericht",
-    "beschreibung": "Hattrick Nkunku - Leipziger Kantersieg gegen Frankfurt – RB Leipzig feiert einen Kantersieg gegen eine ganz schwache Frankfurter Eintracht. Christopher Nkunku sorgte mit einem Hattrick schon vor der Pause für klare Verhältnisse.",
-    "quelle": "https://www.sportschau.de/fussball/bundesliga/nkunkus-hattrick-duepiert-eine-ganz-schwache-eintracht,spielbericht-rb-leipzig-eintracht-frankfurt-106.html",
-    "erfasst_am": "2026-10-10T21:55:46+02:00"
-  },
-  {
-    "verein": "Eintracht Frankfurt",
-    "spieler": "",
-    "kategorie": "ergebnis",
-    "status": "Spielbericht",
-    "beschreibung": "Hattrick Nkunku - Leipziger Kantersieg gegen Frankfurt – RB Leipzig feiert einen Kantersieg gegen eine ganz schwache Frankfurter Eintracht. Christopher Nkunku sorgte mit einem Hattrick schon vor der Pause für klare Verhältnisse.",
-    "quelle": "https://www.sportschau.de/fussball/bundesliga/nkunkus-hattrick-duepiert-eine-ganz-schwache-eintracht,spielbericht-rb-leipzig-eintracht-frankfurt-106.html",
-    "erfasst_am": "2026-10-10T21:55:46+02:00"
-  },
-  {
-    "verein": "SC Paderborn 07",
-    "spieler": "",
-    "kategorie": "ergebnis",
-    "status": "Spielbericht",
-    "beschreibung": "Stuttgart reicht gegen Paderborn eine starke Halbzeit – Der VfB Stuttgart dominierte beim SC Paderborn die erste Halbzeit, musste dann aber noch um den Sieg zittern.",
-    "quelle": "https://www.sportschau.de/fussball/bundesliga/fuehrich-erloest-vfb-in-paderborn-spaet,spielbericht-sc-paderborn-vfb-stuttgart-102.html",
-    "erfasst_am": "2026-10-10T18:55:14+02:00"
-  },
-  {
-    "verein": "VfB Stuttgart",
-    "spieler": "",
-    "kategorie": "ergebnis",
-    "status": "Spielbericht",
-    "beschreibung": "Stuttgart reicht gegen Paderborn eine starke Halbzeit – Der VfB Stuttgart dominierte beim SC Paderborn die erste Halbzeit, musste dann aber noch um den Sieg zittern.",
-    "quelle": "https://www.sportschau.de/fussball/bundesliga/fuehrich-erloest-vfb-in-paderborn-spaet,spielbericht-sc-paderborn-vfb-stuttgart-102.html",
-    "erfasst_am": "2026-10-10T18:55:14+02:00"
-  },
-  {
-    "verein": "1. FC Union Berlin",
-    "spieler": "",
-    "kategorie": "ergebnis",
-    "status": "Spielbericht",
-    "beschreibung": "Union feiert erlösenden Sieg gegen Elversberg – Joker Livan Burcu bricht gegen die SV Elversberg den Bann und ermöglicht Union Berlin in der Fußball-Bundesliga den lang ersehnten ersten Saisonsieg.",
-    "quelle": "https://www.sportschau.de/fussball/bundesliga/union-feiert-gegen-elversberg-ersten-saisonsieg,spielbericht-union-berlin-sv-elversberg-100.html",
-    "erfasst_am": "2026-10-10T18:18:23+02:00"
-  },
-  {
-    "verein": "SV 07 Elversberg",
-    "spieler": "",
-    "kategorie": "ergebnis",
-    "status": "Spielbericht",
-    "beschreibung": "Union feiert erlösenden Sieg gegen Elversberg – Joker Livan Burcu bricht gegen die SV Elversberg den Bann und ermöglicht Union Berlin in der Fußball-Bundesliga den lang ersehnten ersten Saisonsieg.",
-    "quelle": "https://www.sportschau.de/fussball/bundesliga/union-feiert-gegen-elversberg-ersten-saisonsieg,spielbericht-union-berlin-sv-elversberg-100.html",
-    "erfasst_am": "2026-10-10T18:18:23+02:00"
-  },
-  {
-    "verein": "1. FSV Mainz 05",
-    "spieler": "",
-    "kategorie": "ergebnis",
-    "status": "Spielbericht",
-    "beschreibung": "Drei Tore reichen Mainz gegen Leverkusen nicht zum ersten Heimsieg – Bayer Leverkusen hat in der Fußball-Bundesliga einen Sieg beim 1. FSV Mainz 05 eingefahren. Dabei wehrten sich die Rheinhessen nach Kräften, doch auch drei Tore reichten nicht zum Punktgewinn.",
-    "quelle": "https://www.sportschau.de/fussball/bundesliga/drei-tore-reichen-mainz-nicht-zum-ersten-heimsieg,spielbericht-mainz-05-bayer-leverkusen-100.html",
-    "erfasst_am": "2026-10-10T17:54:00+02:00"
-  },
-  {
-    "verein": "Bayer 04 Leverkusen",
-    "spieler": "",
-    "kategorie": "ergebnis",
-    "status": "Spielbericht",
-    "beschreibung": "Drei Tore reichen Mainz gegen Leverkusen nicht zum ersten Heimsieg – Bayer Leverkusen hat in der Fußball-Bundesliga einen Sieg beim 1. FSV Mainz 05 eingefahren. Dabei wehrten sich die Rheinhessen nach Kräften, doch auch drei Tore reichten nicht zum Punktgewinn.",
-    "quelle": "https://www.sportschau.de/fussball/bundesliga/drei-tore-reichen-mainz-nicht-zum-ersten-heimsieg,spielbericht-mainz-05-bayer-leverkusen-100.html",
-    "erfasst_am": "2026-10-10T17:54:00+02:00"
-  },
-  {
-    "verein": "Borussia Dortmund",
-    "spieler": "",
-    "kategorie": "ergebnis",
-    "status": "Spielbericht",
-    "beschreibung": "Bremens Füllkrug schockiert den BVB in der Nachspielzeit – Borussia Dortmund führt gegen Werder Bremen bis zur 88. Minute mit 2:0 - und lässt dann seinen Ex-Angreifer aus den Augen.",
-    "quelle": "https://www.sportschau.de/fussball/bundesliga/fuellkrug-schockiert-seinen-ex-verein-in-der-nachspielzeit,spielbericht-borussia-dortmund-werder-bremen-104.html",
-    "erfasst_am": "2026-10-09T23:17:49+02:00"
-  },
-  {
-    "verein": "SV Werder Bremen",
-    "spieler": "",
-    "kategorie": "ergebnis",
-    "status": "Spielbericht",
-    "beschreibung": "Bremens Füllkrug schockiert den BVB in der Nachspielzeit – Borussia Dortmund führt gegen Werder Bremen bis zur 88. Minute mit 2:0 - und lässt dann seinen Ex-Angreifer aus den Augen.",
-    "quelle": "https://www.sportschau.de/fussball/bundesliga/fuellkrug-schockiert-seinen-ex-verein-in-der-nachspielzeit,spielbericht-borussia-dortmund-werder-bremen-104.html",
-    "erfasst_am": "2026-10-09T23:17:49+02:00"
   }
 ]
