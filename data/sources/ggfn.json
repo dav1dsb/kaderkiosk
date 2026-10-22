@@ -1,5 +1,14 @@
 [
   {
+    "verein": "Hamburger SV",
+    "spieler": "",
+    "kategorie": "verletzung",
+    "status": "verletzt",
+    "beschreibung": "Hamburg injuries clear as Merlin Polzin targets fourth consecutive Bundesliga victory – Hamburger SV head coach Merlin Polzin welcomes Patson Daka, Albert Sambi Lokonga, and Bakery Jatta back into contention ahead of Saturday's trip to Paderborn.",
+    "quelle": "https://www.getfootballnewsgermany.com/2026/hamburg-injuries-bundesliga/",
+    "erfasst_am": "2026-10-22T19:38:21+00:00"
+  },
+  {
     "verein": "FC Bayern München",
     "spieler": "",
     "kategorie": "verletzung",
@@ -25,14 +34,5 @@
     "beschreibung": "VfB Stuttgart head into crucial Bundesliga encounter without leading league goalscorer – VfB Stuttgart head coach Sebastian Hoeneß faces another injury setback ahead of Friday's Bundesliga encounter with Borussia Mönchengladbach.",
     "quelle": "https://www.getfootballnewsgermany.com/2026/stuttgart-gladbach-vagnoman/",
     "erfasst_am": "2026-10-22T12:51:38+00:00"
-  },
-  {
-    "verein": "RB Leipzig",
-    "spieler": "",
-    "kategorie": "verletzung",
-    "status": "verletzt",
-    "beschreibung": "RB Leipzig’s Christoph Baumgartner marks emotional comeback and reunion with Yan Diomande – Christoph Baumgartner marked his return from a four-month injury layoff with an assist against Real Madrid on Wednesday evening, fittingly placing his name on the scoresheet alongside a former teammate whom he's always held in high regard.",
-    "quelle": "https://www.getfootballnewsgermany.com/2026/baumgartner-diomande-reunion/",
-    "erfasst_am": "2026-10-22T08:29:53+00:00"
   }
 ]
