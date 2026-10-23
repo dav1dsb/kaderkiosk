@@ -1,5 +1,23 @@
 [
   {
+    "verein": "VfB Stuttgart",
+    "spieler": "",
+    "kategorie": "ergebnis",
+    "status": "Spielbericht",
+    "beschreibung": "Erster Sieg: Gladbachs Not-Elf überrumpelt schwache Stuttgarter – Borussia Mönchengladbach hat den alleinigen Rekord-Fehlstart in der Bundesliga abgewendet und mit einem furiosen Sieg beim VfB Stuttgart für eine dicke Überraschung gesorgt.",
+    "quelle": "https://www.sportschau.de/fussball/bundesliga/gladbachs-not-elf-ueberrumpelt-schwache-stuttgarter,spielbericht-vfb-stuttgart-borussia-moenchengladbach-108.html",
+    "erfasst_am": "2026-10-23T22:25:49+02:00"
+  },
+  {
+    "verein": "Borussia Mönchengladbach",
+    "spieler": "",
+    "kategorie": "ergebnis",
+    "status": "Spielbericht",
+    "beschreibung": "Erster Sieg: Gladbachs Not-Elf überrumpelt schwache Stuttgarter – Borussia Mönchengladbach hat den alleinigen Rekord-Fehlstart in der Bundesliga abgewendet und mit einem furiosen Sieg beim VfB Stuttgart für eine dicke Überraschung gesorgt.",
+    "quelle": "https://www.sportschau.de/fussball/bundesliga/gladbachs-not-elf-ueberrumpelt-schwache-stuttgarter,spielbericht-vfb-stuttgart-borussia-moenchengladbach-108.html",
+    "erfasst_am": "2026-10-23T22:25:49+02:00"
+  },
+  {
     "verein": "",
     "spieler": "",
     "kategorie": "pressekonferenz",
