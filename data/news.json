@@ -1,5 +1,14 @@
 [
   {
+    "verein": "TSG Hoffenheim",
+    "spieler": "",
+    "kategorie": "verletzung",
+    "status": "verletzt",
+    "beschreibung": "Christian Ilzer criticises ‘artificial’ UEFA Nations League – Hoffenheim head coach Christian Ilzer has criticised UEFA’s scheduling and the upcoming UEFA Nations League, which has resulted in an increase of injuries. “UEFA’s schedule is insane,” he said after…",
+    "quelle": "https://www.getfootballnewsgermany.com/2026/christian-ilzer-criticises-artificial-uefa-nations-league/",
+    "erfasst_am": "2026-10-23T10:23:38+00:00"
+  },
+  {
     "verein": "Hamburger SV",
     "spieler": "",
     "kategorie": "verletzung",
@@ -16,33 +25,6 @@
     "beschreibung": "Bayern \"vorerst\" ohne Díaz - 2026 kein Einsatz mehr? – Der FC Bayern München muss \"vorerst\" auf Luis Díaz verzichten. Der Kolumbianer zog sich beim Champions-League-Duell gegen den FC Arsenal eine Muskelverletzung zu und könnte sogar für den Rest des Jahres ausfallen.",
     "quelle": "https://www.sportschau.de/regional/br/br-diagnose-da-fcb-vorerst-ohne-daz-2026-kein-einsatz-mehr-102.html",
     "erfasst_am": "2026-10-22T21:22:35+02:00"
-  },
-  {
-    "verein": "FC Bayern München",
-    "spieler": "",
-    "kategorie": "verletzung",
-    "status": "fällt aus",
-    "beschreibung": "Bayern Munich’s Luis Diaz looks set to be sidelined for 4-6 weeks – Bayern Munich winger Luis Díaz faces a reported four-to-six-week absence after suffering a thigh injury against Arsenal",
-    "quelle": "https://www.getfootballnewsgermany.com/2026/luis-diaz-bayern-injury/",
-    "erfasst_am": "2026-10-22T18:25:56+00:00"
-  },
-  {
-    "verein": "FC Schalke 04",
-    "spieler": "",
-    "kategorie": "verletzung",
-    "status": "verletzt",
-    "beschreibung": "Schalke 04’s jinxed Maximilian Wöber suffers another injury setback – Austrian international Maximilian Wöber is expected to miss the remainder of 2026 after suffering another thigh injury",
-    "quelle": "https://www.getfootballnewsgermany.com/2026/maximilian-wober-schalke-out/",
-    "erfasst_am": "2026-10-22T17:38:32+00:00"
-  },
-  {
-    "verein": "VfB Stuttgart",
-    "spieler": "",
-    "kategorie": "verletzung",
-    "status": "verletzt",
-    "beschreibung": "VfB Stuttgart head into crucial Bundesliga encounter without leading league goalscorer – VfB Stuttgart head coach Sebastian Hoeneß faces another injury setback ahead of Friday's Bundesliga encounter with Borussia Mönchengladbach.",
-    "quelle": "https://www.getfootballnewsgermany.com/2026/stuttgart-gladbach-vagnoman/",
-    "erfasst_am": "2026-10-22T12:51:38+00:00"
   },
   {
     "verein": "Borussia Mönchengladbach",
