@@ -1,5 +1,14 @@
 [
   {
+    "verein": "FC Bayern München",
+    "spieler": "",
+    "kategorie": "verletzung",
+    "status": "fällt aus",
+    "beschreibung": "Kompany-Rückkehr auf der Bank erst in Wochen – Vincent Kompany befindet sich nach seinem Zusammenbruch in stabilem Zustand, muss aber weiter im Krankenhaus bleiben. Beim FC Bayern denkt niemand an eine schnelle Rückkehr: Sportvorstand Max Eberl rechnet mit einer Ausfallzeit von Wochen.",
+    "quelle": "https://www.sportschau.de/regional/br/br-eberl-kompany-rueckkehr-auf-bank-erst-in-wochen-102.html",
+    "erfasst_am": "2026-10-24T11:13:19+02:00"
+  },
+  {
     "verein": "VfB Stuttgart",
     "spieler": "",
     "kategorie": "ergebnis",
@@ -16,15 +25,6 @@
     "beschreibung": "Erster Sieg: Gladbachs Not-Elf überrumpelt schwache Stuttgarter – Borussia Mönchengladbach hat den alleinigen Rekord-Fehlstart in der Bundesliga abgewendet und mit einem furiosen Sieg beim VfB Stuttgart für eine dicke Überraschung gesorgt.",
     "quelle": "https://www.sportschau.de/fussball/bundesliga/gladbachs-not-elf-ueberrumpelt-schwache-stuttgarter,spielbericht-vfb-stuttgart-borussia-moenchengladbach-108.html",
     "erfasst_am": "2026-10-23T22:25:49+02:00"
-  },
-  {
-    "verein": "",
-    "spieler": "",
-    "kategorie": "pressekonferenz",
-    "status": "Trainer-News",
-    "beschreibung": "Bayerns Trainer Vincent Kompany mit Notarzt in Klinik gebracht – Vincent Kompany ist nach einer Trainingseinheit zusammengebrochen und wurde in ein Münchner Krankenhaus gebracht. Der Verein bestätigte entsprechende Medienberichte. Sein Zustand ist allerdings stabil.",
-    "quelle": "https://www.sportschau.de/regional/br/br-nach-zusammenbruch-fcb-coach-kompany-in-klinik-gebracht-102.html",
-    "erfasst_am": "2026-10-23T19:31:55+02:00"
   },
   {
     "verein": "Borussia Mönchengladbach",
