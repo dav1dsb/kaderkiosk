@@ -1,5 +1,23 @@
 [
   {
+    "verein": "Borussia Dortmund",
+    "spieler": "",
+    "kategorie": "ergebnis",
+    "status": "Spielbericht",
+    "beschreibung": "Maxi Beier befreit den BVB gegen Eintracht Frankfurt vom Pech – Borussia Dortmund hat in der Bundesliga seine kurze Durststrecke überwunden. Vor dem Tor von Maximilian Beier sah es gegen Eintracht Frankfurt zunächst anders aus.",
+    "quelle": "https://www.sportschau.de/fussball/bundesliga/beier-befreit-bvb-gegen-frankfurt-vom-pech,spielbericht-borussia-dortmund-eintracht-frankfurt-112.html",
+    "erfasst_am": "2026-10-24T20:59:09+02:00"
+  },
+  {
+    "verein": "Eintracht Frankfurt",
+    "spieler": "",
+    "kategorie": "ergebnis",
+    "status": "Spielbericht",
+    "beschreibung": "Maxi Beier befreit den BVB gegen Eintracht Frankfurt vom Pech – Borussia Dortmund hat in der Bundesliga seine kurze Durststrecke überwunden. Vor dem Tor von Maximilian Beier sah es gegen Eintracht Frankfurt zunächst anders aus.",
+    "quelle": "https://www.sportschau.de/fussball/bundesliga/beier-befreit-bvb-gegen-frankfurt-vom-pech,spielbericht-borussia-dortmund-eintracht-frankfurt-112.html",
+    "erfasst_am": "2026-10-24T20:59:09+02:00"
+  },
+  {
     "verein": "SC Paderborn 07",
     "spieler": "",
     "kategorie": "ergebnis",
@@ -22,7 +40,7 @@
     "spieler": "",
     "kategorie": "ergebnis",
     "status": "Spielbericht",
-    "beschreibung": "Berlin holt ersten Auswärts-Punkt gegen hadernde Augsburger – Für Unions Felix Uduokhai war das Treffen mit dem Ex-Klub ein kurzes: Nach 19 Minuten musste er vom Platz. Als dann auch noch Augsburgs Juma Bah vom Platz flog, nahm die Partie so richtig Fahrt auf.",
+    "beschreibung": "Union holt ersten Auswärts-Punkt gegen hadernde Augsburger – Für Unions Felix Uduokhai war das Treffen mit dem Ex-Klub ein kurzes: Nach 19 Minuten musste er vom Platz. Als dann auch noch Augsburgs Juma Bah vom Platz flog, nahm die Partie so richtig Fahrt auf.",
     "quelle": "https://www.sportschau.de/fussball/bundesliga/berlin-holt-ersten-auswaerts-punkt-augsburg-schwaecht-sich-selbst,spielbericht-fc-augsburg-union-berlin-106.html",
     "erfasst_am": "2026-10-24T18:46:07+02:00"
   },
@@ -31,7 +49,7 @@
     "spieler": "",
     "kategorie": "ergebnis",
     "status": "Spielbericht",
-    "beschreibung": "Berlin holt ersten Auswärts-Punkt gegen hadernde Augsburger – Für Unions Felix Uduokhai war das Treffen mit dem Ex-Klub ein kurzes: Nach 19 Minuten musste er vom Platz. Als dann auch noch Augsburgs Juma Bah vom Platz flog, nahm die Partie so richtig Fahrt auf.",
+    "beschreibung": "Union holt ersten Auswärts-Punkt gegen hadernde Augsburger – Für Unions Felix Uduokhai war das Treffen mit dem Ex-Klub ein kurzes: Nach 19 Minuten musste er vom Platz. Als dann auch noch Augsburgs Juma Bah vom Platz flog, nahm die Partie so richtig Fahrt auf.",
     "quelle": "https://www.sportschau.de/fussball/bundesliga/berlin-holt-ersten-auswaerts-punkt-augsburg-schwaecht-sich-selbst,spielbericht-fc-augsburg-union-berlin-106.html",
     "erfasst_am": "2026-10-24T18:46:07+02:00"
   },
