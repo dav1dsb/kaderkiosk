@@ -1,5 +1,23 @@
 [
   {
+    "verein": "SC Freiburg",
+    "spieler": "",
+    "kategorie": "ergebnis",
+    "status": "Spielbericht",
+    "beschreibung": "Trotz Personalsorgen: Bayern siegt in Freiburg und rückt an Tabellenspitze – Der FC Bayern hat sich nicht anmerken lassen, in welch schwieriger Personalsituation er aktuell steckt. 80 Minuten dominierte der amtierende Meister gegen den SC Freiburg. Am Ende wurde es nochmal brenzlig.",
+    "quelle": "https://www.sportschau.de/fussball/bundesliga/bayern-erobern-sich-gegen-freiburg-tabellenspitze-zurueck,spielbericht-sc-freiburg-bayern-muenchen-108.html",
+    "erfasst_am": "2026-10-25T20:06:13+01:00"
+  },
+  {
+    "verein": "FC Bayern München",
+    "spieler": "",
+    "kategorie": "ergebnis",
+    "status": "Spielbericht",
+    "beschreibung": "Trotz Personalsorgen: Bayern siegt in Freiburg und rückt an Tabellenspitze – Der FC Bayern hat sich nicht anmerken lassen, in welch schwieriger Personalsituation er aktuell steckt. 80 Minuten dominierte der amtierende Meister gegen den SC Freiburg. Am Ende wurde es nochmal brenzlig.",
+    "quelle": "https://www.sportschau.de/fussball/bundesliga/bayern-erobern-sich-gegen-freiburg-tabellenspitze-zurueck,spielbericht-sc-freiburg-bayern-muenchen-108.html",
+    "erfasst_am": "2026-10-25T20:06:13+01:00"
+  },
+  {
     "verein": "",
     "spieler": "",
     "kategorie": "verletzung",
