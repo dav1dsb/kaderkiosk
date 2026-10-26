@@ -81,6 +81,24 @@
     "erfasst_am": "2026-10-26T00:00:36+01:00"
   },
   {
+    "verein": "TSG Hoffenheim",
+    "spieler": "",
+    "kategorie": "ergebnis",
+    "status": "Spielbericht",
+    "beschreibung": "Hoffenheimer Arbeitssieg gegen Leverkusen – Die TSG 1899 Hoffenheim hat das Duell mit Bayer 04 Leverkusen in der Fußball-Bundesliga für sich entschieden. Es war ein später Arbeitssieg der Kraichgauer in einer lange ausgeglichenen Partie.",
+    "quelle": "https://www.sportschau.de/fussball/bundesliga/hoffenheim-siegt-im-endspurt-gegen-leverkusen,spielbericht-tsg-hoffenheim-bayer-leverkusen-102.html",
+    "erfasst_am": "2026-10-26T00:00:27+01:00"
+  },
+  {
+    "verein": "Bayer 04 Leverkusen",
+    "spieler": "",
+    "kategorie": "ergebnis",
+    "status": "Spielbericht",
+    "beschreibung": "Hoffenheimer Arbeitssieg gegen Leverkusen – Die TSG 1899 Hoffenheim hat das Duell mit Bayer 04 Leverkusen in der Fußball-Bundesliga für sich entschieden. Es war ein später Arbeitssieg der Kraichgauer in einer lange ausgeglichenen Partie.",
+    "quelle": "https://www.sportschau.de/fussball/bundesliga/hoffenheim-siegt-im-endspurt-gegen-leverkusen,spielbericht-tsg-hoffenheim-bayer-leverkusen-102.html",
+    "erfasst_am": "2026-10-26T00:00:27+01:00"
+  },
+  {
     "verein": "SC Freiburg",
     "spieler": "",
     "kategorie": "ergebnis",
@@ -117,15 +135,6 @@
     "erfasst_am": "2026-10-26T00:00:06+01:00"
   },
   {
-    "verein": "",
-    "spieler": "",
-    "kategorie": "verletzung",
-    "status": "fällt aus",
-    "beschreibung": "Worauf Kompany-Vertreter Danks gegen Freiburg setzt – Nach dem Ausfall von Cheftrainer Vincent Kompany führt Co-Trainer Aaron Danks den FC Bayern im Bundesliga-Spiel gegen den SC Freiburg. Die Rolle als Kompany-Vertretung kennt er schon und dafür hat er ein klares Erfolgsrezept.",
-    "quelle": "https://www.sportschau.de/regional/br/br-worauf-kompany-vertreter-danks-gegen-freiburg-setzt-102.html",
-    "erfasst_am": "2026-10-25T10:19:21+01:00"
-  },
-  {
     "verein": "FC Bayern München",
     "spieler": "",
     "kategorie": "verletzung",
@@ -133,15 +142,6 @@
     "beschreibung": "Kompany-Rückkehr auf die Bank noch Wochen entfernt – Vincent Kompany befindet sich nach seinem Zusammenbruch in stabilem Zustand, muss aber weiter im Krankenhaus bleiben. Beim FC Bayern denkt niemand an eine schnelle Rückkehr: Sportvorstand Max Eberl rechnet mit einer Ausfallzeit von Wochen.",
     "quelle": "https://www.sportschau.de/regional/br/br-eberl-kompany-rueckkehr-auf-bank-erst-in-wochen-102.html",
     "erfasst_am": "2026-10-24T16:59:18+02:00"
-  },
-  {
-    "verein": "Borussia Mönchengladbach",
-    "spieler": "",
-    "kategorie": "pressekonferenz",
-    "status": "Trainer-News",
-    "beschreibung": "Borussia Mönchengladbach boss praises two heroes of Bundesliga comeback victory – Borussia Mönchengladbach Head of Sport Rouven Schröder expressed relief after Friday's dramatic 3-2 comeback victory over VfB Stuttgart ended a six-match losing streak. The 51-year-old praised matchwinners Wael Mohya and Joe Scally.",
-    "quelle": "https://www.getfootballnewsgermany.com/2026/gladbach-scally-mohya/",
-    "erfasst_am": "2026-10-23T23:23:43+00:00"
   },
   {
     "verein": "Borussia Mönchengladbach",

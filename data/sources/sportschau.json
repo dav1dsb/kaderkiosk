@@ -81,6 +81,24 @@
     "erfasst_am": "2026-10-26T00:00:36+01:00"
   },
   {
+    "verein": "TSG Hoffenheim",
+    "spieler": "",
+    "kategorie": "ergebnis",
+    "status": "Spielbericht",
+    "beschreibung": "Hoffenheimer Arbeitssieg gegen Leverkusen – Die TSG 1899 Hoffenheim hat das Duell mit Bayer 04 Leverkusen in der Fußball-Bundesliga für sich entschieden. Es war ein später Arbeitssieg der Kraichgauer in einer lange ausgeglichenen Partie.",
+    "quelle": "https://www.sportschau.de/fussball/bundesliga/hoffenheim-siegt-im-endspurt-gegen-leverkusen,spielbericht-tsg-hoffenheim-bayer-leverkusen-102.html",
+    "erfasst_am": "2026-10-26T00:00:27+01:00"
+  },
+  {
+    "verein": "Bayer 04 Leverkusen",
+    "spieler": "",
+    "kategorie": "ergebnis",
+    "status": "Spielbericht",
+    "beschreibung": "Hoffenheimer Arbeitssieg gegen Leverkusen – Die TSG 1899 Hoffenheim hat das Duell mit Bayer 04 Leverkusen in der Fußball-Bundesliga für sich entschieden. Es war ein später Arbeitssieg der Kraichgauer in einer lange ausgeglichenen Partie.",
+    "quelle": "https://www.sportschau.de/fussball/bundesliga/hoffenheim-siegt-im-endspurt-gegen-leverkusen,spielbericht-tsg-hoffenheim-bayer-leverkusen-102.html",
+    "erfasst_am": "2026-10-26T00:00:27+01:00"
+  },
+  {
     "verein": "SC Freiburg",
     "spieler": "",
     "kategorie": "ergebnis",
@@ -115,15 +133,6 @@
     "beschreibung": "Union holt ersten Auswärts-Punkt gegen hadernde Augsburger – Für Unions Felix Uduokhai war das Treffen mit dem Ex-Klub ein kurzes: Nach 19 Minuten musste er vom Platz. Als dann auch noch Augsburgs Juma Bah vom Platz flog, nahm die Partie so richtig Fahrt auf.",
     "quelle": "https://www.sportschau.de/fussball/bundesliga/berlin-holt-ersten-auswaerts-punkt-augsburg-schwaecht-sich-selbst,spielbericht-fc-augsburg-union-berlin-106.html",
     "erfasst_am": "2026-10-26T00:00:06+01:00"
-  },
-  {
-    "verein": "",
-    "spieler": "",
-    "kategorie": "verletzung",
-    "status": "fällt aus",
-    "beschreibung": "Worauf Kompany-Vertreter Danks gegen Freiburg setzt – Nach dem Ausfall von Cheftrainer Vincent Kompany führt Co-Trainer Aaron Danks den FC Bayern im Bundesliga-Spiel gegen den SC Freiburg. Die Rolle als Kompany-Vertretung kennt er schon und dafür hat er ein klares Erfolgsrezept.",
-    "quelle": "https://www.sportschau.de/regional/br/br-worauf-kompany-vertreter-danks-gegen-freiburg-setzt-102.html",
-    "erfasst_am": "2026-10-25T10:19:21+01:00"
   },
   {
     "verein": "FC Bayern München",
