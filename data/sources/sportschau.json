@@ -1,12 +1,93 @@
 [
   {
+    "verein": "Borussia Dortmund",
+    "spieler": "",
+    "kategorie": "ergebnis",
+    "status": "Spielbericht",
+    "beschreibung": "Beier befreit den BVB gegen Eintracht Frankfurt vom Pech – Borussia Dortmund hat in der Bundesliga seine kurze Durststrecke überwunden. Vor dem Tor von Maximilian Beier sah es gegen Eintracht Frankfurt zunächst anders aus.",
+    "quelle": "https://www.sportschau.de/fussball/bundesliga/beier-befreit-bvb-gegen-frankfurt-vom-pech,spielbericht-borussia-dortmund-eintracht-frankfurt-112.html",
+    "erfasst_am": "2026-10-26T00:00:37+01:00"
+  },
+  {
+    "verein": "Eintracht Frankfurt",
+    "spieler": "",
+    "kategorie": "ergebnis",
+    "status": "Spielbericht",
+    "beschreibung": "Beier befreit den BVB gegen Eintracht Frankfurt vom Pech – Borussia Dortmund hat in der Bundesliga seine kurze Durststrecke überwunden. Vor dem Tor von Maximilian Beier sah es gegen Eintracht Frankfurt zunächst anders aus.",
+    "quelle": "https://www.sportschau.de/fussball/bundesliga/beier-befreit-bvb-gegen-frankfurt-vom-pech,spielbericht-borussia-dortmund-eintracht-frankfurt-112.html",
+    "erfasst_am": "2026-10-26T00:00:37+01:00"
+  },
+  {
+    "verein": "",
+    "spieler": "",
+    "kategorie": "ergebnis",
+    "status": "Spielbericht",
+    "beschreibung": "Leipzigs Halbzeit-Gala schickt Elversberg in die Auswärtskrise – Bei Bayern München und Real Madrid hatte es Klatschen für RB Leipzig gegeben, doch die englische Woche endete mit einem 45-minütigen Feuerwerk. Die SV Elversberg enttäuschte wieder in der Fremde.",
+    "quelle": "https://www.sportschau.de/fussball/bundesliga/leipzigs-halbzeit-gala-schickt-elversberg-in-die-auswaertskrise,spielbericht-rb-leipzig-sv-elverberg-100.html",
+    "erfasst_am": "2026-10-26T00:00:37+01:00"
+  },
+  {
+    "verein": "1. FSV Mainz 05",
+    "spieler": "",
+    "kategorie": "ergebnis",
+    "status": "Spielbericht",
+    "beschreibung": "Sieg in Mainz: Füllkrug trifft für Bremen, wie er will – Der SV Werder Bremen gewinnt beim 1. FSV Mainz 05 und überrascht weiter in der Fußball-Bundesliga. Garant für den Erfolg ist Niclas Füllkrug, der schon wieder traf, und das doppelt.",
+    "quelle": "https://www.sportschau.de/fussball/bundesliga/fuellkrug-immer-wieder-fuellkrug,spielbericht-mainz-05-werder-bremen-100.html",
+    "erfasst_am": "2026-10-26T00:00:36+01:00"
+  },
+  {
+    "verein": "SV Werder Bremen",
+    "spieler": "",
+    "kategorie": "ergebnis",
+    "status": "Spielbericht",
+    "beschreibung": "Sieg in Mainz: Füllkrug trifft für Bremen, wie er will – Der SV Werder Bremen gewinnt beim 1. FSV Mainz 05 und überrascht weiter in der Fußball-Bundesliga. Garant für den Erfolg ist Niclas Füllkrug, der schon wieder traf, und das doppelt.",
+    "quelle": "https://www.sportschau.de/fussball/bundesliga/fuellkrug-immer-wieder-fuellkrug,spielbericht-mainz-05-werder-bremen-100.html",
+    "erfasst_am": "2026-10-26T00:00:36+01:00"
+  },
+  {
+    "verein": "SC Paderborn 07",
+    "spieler": "",
+    "kategorie": "ergebnis",
+    "status": "Spielbericht",
+    "beschreibung": "Paderborns Joker trifft: Rayan Philippe schockt Ex-Klub HSV – Die Siegesserie des Hamburger SV endet beim SC Paderborn. Ausgerechnet der ehemalige Hamburger Rayan Philippe schoss das entscheidende Tor.",
+    "quelle": "https://www.sportschau.de/fussball/bundesliga/sc-paderborn-stoppt-siegesserie-des-hsv,spielbericht-sc-paderborn-hamburger-sv-100.html",
+    "erfasst_am": "2026-10-26T00:00:36+01:00"
+  },
+  {
+    "verein": "Hamburger SV",
+    "spieler": "",
+    "kategorie": "ergebnis",
+    "status": "Spielbericht",
+    "beschreibung": "Paderborns Joker trifft: Rayan Philippe schockt Ex-Klub HSV – Die Siegesserie des Hamburger SV endet beim SC Paderborn. Ausgerechnet der ehemalige Hamburger Rayan Philippe schoss das entscheidende Tor.",
+    "quelle": "https://www.sportschau.de/fussball/bundesliga/sc-paderborn-stoppt-siegesserie-des-hsv,spielbericht-sc-paderborn-hamburger-sv-100.html",
+    "erfasst_am": "2026-10-26T00:00:36+01:00"
+  },
+  {
+    "verein": "VfB Stuttgart",
+    "spieler": "",
+    "kategorie": "ergebnis",
+    "status": "Spielbericht",
+    "beschreibung": "Erster Sieg: Gladbachs Not-Elf überrumpelt schwache Stuttgarter – Borussia Mönchengladbach hat den alleinigen Rekord-Fehlstart in der Bundesliga abgewendet und mit einem furiosen Sieg beim VfB Stuttgart für eine dicke Überraschung gesorgt.",
+    "quelle": "https://www.sportschau.de/fussball/bundesliga/gladbachs-not-elf-ueberrumpelt-schwache-stuttgarter,spielbericht-vfb-stuttgart-borussia-moenchengladbach-108.html",
+    "erfasst_am": "2026-10-26T00:00:36+01:00"
+  },
+  {
+    "verein": "Borussia Mönchengladbach",
+    "spieler": "",
+    "kategorie": "ergebnis",
+    "status": "Spielbericht",
+    "beschreibung": "Erster Sieg: Gladbachs Not-Elf überrumpelt schwache Stuttgarter – Borussia Mönchengladbach hat den alleinigen Rekord-Fehlstart in der Bundesliga abgewendet und mit einem furiosen Sieg beim VfB Stuttgart für eine dicke Überraschung gesorgt.",
+    "quelle": "https://www.sportschau.de/fussball/bundesliga/gladbachs-not-elf-ueberrumpelt-schwache-stuttgarter,spielbericht-vfb-stuttgart-borussia-moenchengladbach-108.html",
+    "erfasst_am": "2026-10-26T00:00:36+01:00"
+  },
+  {
     "verein": "SC Freiburg",
     "spieler": "",
     "kategorie": "ergebnis",
     "status": "Spielbericht",
     "beschreibung": "Trotz Personalsorgen: Bayern siegt in Freiburg und rückt an Tabellenspitze – Der FC Bayern hat sich nicht anmerken lassen, in welch schwieriger Personalsituation er aktuell steckt. 80 Minuten dominierte der amtierende Meister gegen den SC Freiburg. Am Ende wurde es nochmal brenzlig.",
     "quelle": "https://www.sportschau.de/fussball/bundesliga/bayern-erobern-sich-gegen-freiburg-tabellenspitze-zurueck,spielbericht-sc-freiburg-bayern-muenchen-108.html",
-    "erfasst_am": "2026-10-25T20:06:13+01:00"
+    "erfasst_am": "2026-10-26T00:00:11+01:00"
   },
   {
     "verein": "FC Bayern München",
@@ -15,7 +96,25 @@
     "status": "Spielbericht",
     "beschreibung": "Trotz Personalsorgen: Bayern siegt in Freiburg und rückt an Tabellenspitze – Der FC Bayern hat sich nicht anmerken lassen, in welch schwieriger Personalsituation er aktuell steckt. 80 Minuten dominierte der amtierende Meister gegen den SC Freiburg. Am Ende wurde es nochmal brenzlig.",
     "quelle": "https://www.sportschau.de/fussball/bundesliga/bayern-erobern-sich-gegen-freiburg-tabellenspitze-zurueck,spielbericht-sc-freiburg-bayern-muenchen-108.html",
-    "erfasst_am": "2026-10-25T20:06:13+01:00"
+    "erfasst_am": "2026-10-26T00:00:11+01:00"
+  },
+  {
+    "verein": "FC Augsburg",
+    "spieler": "",
+    "kategorie": "ergebnis",
+    "status": "Spielbericht",
+    "beschreibung": "Union holt ersten Auswärts-Punkt gegen hadernde Augsburger – Für Unions Felix Uduokhai war das Treffen mit dem Ex-Klub ein kurzes: Nach 19 Minuten musste er vom Platz. Als dann auch noch Augsburgs Juma Bah vom Platz flog, nahm die Partie so richtig Fahrt auf.",
+    "quelle": "https://www.sportschau.de/fussball/bundesliga/berlin-holt-ersten-auswaerts-punkt-augsburg-schwaecht-sich-selbst,spielbericht-fc-augsburg-union-berlin-106.html",
+    "erfasst_am": "2026-10-26T00:00:06+01:00"
+  },
+  {
+    "verein": "1. FC Union Berlin",
+    "spieler": "",
+    "kategorie": "ergebnis",
+    "status": "Spielbericht",
+    "beschreibung": "Union holt ersten Auswärts-Punkt gegen hadernde Augsburger – Für Unions Felix Uduokhai war das Treffen mit dem Ex-Klub ein kurzes: Nach 19 Minuten musste er vom Platz. Als dann auch noch Augsburgs Juma Bah vom Platz flog, nahm die Partie so richtig Fahrt auf.",
+    "quelle": "https://www.sportschau.de/fussball/bundesliga/berlin-holt-ersten-auswaerts-punkt-augsburg-schwaecht-sich-selbst,spielbericht-fc-augsburg-union-berlin-106.html",
+    "erfasst_am": "2026-10-26T00:00:06+01:00"
   },
   {
     "verein": "",
@@ -27,87 +126,6 @@
     "erfasst_am": "2026-10-25T10:19:21+01:00"
   },
   {
-    "verein": "Borussia Dortmund",
-    "spieler": "",
-    "kategorie": "ergebnis",
-    "status": "Spielbericht",
-    "beschreibung": "Beier befreit den BVB gegen Eintracht Frankfurt vom Pech – Borussia Dortmund hat in der Bundesliga seine kurze Durststrecke überwunden. Vor dem Tor von Maximilian Beier sah es gegen Eintracht Frankfurt zunächst anders aus.",
-    "quelle": "https://www.sportschau.de/fussball/bundesliga/beier-befreit-bvb-gegen-frankfurt-vom-pech,spielbericht-borussia-dortmund-eintracht-frankfurt-112.html",
-    "erfasst_am": "2026-10-24T20:59:09+02:00"
-  },
-  {
-    "verein": "Eintracht Frankfurt",
-    "spieler": "",
-    "kategorie": "ergebnis",
-    "status": "Spielbericht",
-    "beschreibung": "Beier befreit den BVB gegen Eintracht Frankfurt vom Pech – Borussia Dortmund hat in der Bundesliga seine kurze Durststrecke überwunden. Vor dem Tor von Maximilian Beier sah es gegen Eintracht Frankfurt zunächst anders aus.",
-    "quelle": "https://www.sportschau.de/fussball/bundesliga/beier-befreit-bvb-gegen-frankfurt-vom-pech,spielbericht-borussia-dortmund-eintracht-frankfurt-112.html",
-    "erfasst_am": "2026-10-24T20:59:09+02:00"
-  },
-  {
-    "verein": "SC Paderborn 07",
-    "spieler": "",
-    "kategorie": "ergebnis",
-    "status": "Spielbericht",
-    "beschreibung": "Paderborns Joker trifft: Rayan Philippe schockt Ex-Klub HSV – Die Siegesserie des Hamburger SV endet beim SC Paderborn. Ausgerechnet der ehemalige Hamburger Rayan Philippe schoss das entscheidende Tor.",
-    "quelle": "https://www.sportschau.de/fussball/bundesliga/sc-paderborn-stoppt-siegesserie-des-hsv,spielbericht-sc-paderborn-hamburger-sv-100.html",
-    "erfasst_am": "2026-10-24T19:11:10+02:00"
-  },
-  {
-    "verein": "Hamburger SV",
-    "spieler": "",
-    "kategorie": "ergebnis",
-    "status": "Spielbericht",
-    "beschreibung": "Paderborns Joker trifft: Rayan Philippe schockt Ex-Klub HSV – Die Siegesserie des Hamburger SV endet beim SC Paderborn. Ausgerechnet der ehemalige Hamburger Rayan Philippe schoss das entscheidende Tor.",
-    "quelle": "https://www.sportschau.de/fussball/bundesliga/sc-paderborn-stoppt-siegesserie-des-hsv,spielbericht-sc-paderborn-hamburger-sv-100.html",
-    "erfasst_am": "2026-10-24T19:11:10+02:00"
-  },
-  {
-    "verein": "FC Augsburg",
-    "spieler": "",
-    "kategorie": "ergebnis",
-    "status": "Spielbericht",
-    "beschreibung": "Union holt ersten Auswärts-Punkt gegen hadernde Augsburger – Für Unions Felix Uduokhai war das Treffen mit dem Ex-Klub ein kurzes: Nach 19 Minuten musste er vom Platz. Als dann auch noch Augsburgs Juma Bah vom Platz flog, nahm die Partie so richtig Fahrt auf.",
-    "quelle": "https://www.sportschau.de/fussball/bundesliga/berlin-holt-ersten-auswaerts-punkt-augsburg-schwaecht-sich-selbst,spielbericht-fc-augsburg-union-berlin-106.html",
-    "erfasst_am": "2026-10-24T18:46:07+02:00"
-  },
-  {
-    "verein": "1. FC Union Berlin",
-    "spieler": "",
-    "kategorie": "ergebnis",
-    "status": "Spielbericht",
-    "beschreibung": "Union holt ersten Auswärts-Punkt gegen hadernde Augsburger – Für Unions Felix Uduokhai war das Treffen mit dem Ex-Klub ein kurzes: Nach 19 Minuten musste er vom Platz. Als dann auch noch Augsburgs Juma Bah vom Platz flog, nahm die Partie so richtig Fahrt auf.",
-    "quelle": "https://www.sportschau.de/fussball/bundesliga/berlin-holt-ersten-auswaerts-punkt-augsburg-schwaecht-sich-selbst,spielbericht-fc-augsburg-union-berlin-106.html",
-    "erfasst_am": "2026-10-24T18:46:07+02:00"
-  },
-  {
-    "verein": "1. FSV Mainz 05",
-    "spieler": "",
-    "kategorie": "ergebnis",
-    "status": "Spielbericht",
-    "beschreibung": "Sieg in Mainz: Füllkrug trifft für Bremen, wie er will – Der SV Werder Bremen gewinnt beim 1. FSV Mainz 05 und überrascht weiter in der Fußball-Bundesliga. Garant für den Erfolg ist Niclas Füllkrug, der schon wieder traf, und das doppelt.",
-    "quelle": "https://www.sportschau.de/fussball/bundesliga/fuellkrug-immer-wieder-fuellkrug,spielbericht-mainz-05-werder-bremen-100.html",
-    "erfasst_am": "2026-10-24T17:51:21+02:00"
-  },
-  {
-    "verein": "SV Werder Bremen",
-    "spieler": "",
-    "kategorie": "ergebnis",
-    "status": "Spielbericht",
-    "beschreibung": "Sieg in Mainz: Füllkrug trifft für Bremen, wie er will – Der SV Werder Bremen gewinnt beim 1. FSV Mainz 05 und überrascht weiter in der Fußball-Bundesliga. Garant für den Erfolg ist Niclas Füllkrug, der schon wieder traf, und das doppelt.",
-    "quelle": "https://www.sportschau.de/fussball/bundesliga/fuellkrug-immer-wieder-fuellkrug,spielbericht-mainz-05-werder-bremen-100.html",
-    "erfasst_am": "2026-10-24T17:51:21+02:00"
-  },
-  {
-    "verein": "",
-    "spieler": "",
-    "kategorie": "ergebnis",
-    "status": "Spielbericht",
-    "beschreibung": "Leipzigs Halbzeit-Gala schickt Elversberg in die Auswärtskrise – Bei Bayern München und Real Madrid hatte es Klatschen für RB Leipzig gegeben, doch die englische Woche endete mit einem 45-minütigen Feuerwerk. Die SV Elversberg enttäuschte wieder in der Fremde.",
-    "quelle": "https://www.sportschau.de/fussball/bundesliga/leipzigs-halbzeit-gala-schickt-elversberg-in-die-auswaertskrise,spielbericht-rb-leipzig-sv-elverberg-100.html",
-    "erfasst_am": "2026-10-24T17:39:52+02:00"
-  },
-  {
     "verein": "FC Bayern München",
     "spieler": "",
     "kategorie": "verletzung",
@@ -115,24 +133,6 @@
     "beschreibung": "Kompany-Rückkehr auf die Bank noch Wochen entfernt – Vincent Kompany befindet sich nach seinem Zusammenbruch in stabilem Zustand, muss aber weiter im Krankenhaus bleiben. Beim FC Bayern denkt niemand an eine schnelle Rückkehr: Sportvorstand Max Eberl rechnet mit einer Ausfallzeit von Wochen.",
     "quelle": "https://www.sportschau.de/regional/br/br-eberl-kompany-rueckkehr-auf-bank-erst-in-wochen-102.html",
     "erfasst_am": "2026-10-24T16:59:18+02:00"
-  },
-  {
-    "verein": "VfB Stuttgart",
-    "spieler": "",
-    "kategorie": "ergebnis",
-    "status": "Spielbericht",
-    "beschreibung": "Erster Sieg: Gladbachs Not-Elf überrumpelt schwache Stuttgarter – Borussia Mönchengladbach hat den alleinigen Rekord-Fehlstart in der Bundesliga abgewendet und mit einem furiosen Sieg beim VfB Stuttgart für eine dicke Überraschung gesorgt.",
-    "quelle": "https://www.sportschau.de/fussball/bundesliga/gladbachs-not-elf-ueberrumpelt-schwache-stuttgarter,spielbericht-vfb-stuttgart-borussia-moenchengladbach-108.html",
-    "erfasst_am": "2026-10-23T22:25:49+02:00"
-  },
-  {
-    "verein": "Borussia Mönchengladbach",
-    "spieler": "",
-    "kategorie": "ergebnis",
-    "status": "Spielbericht",
-    "beschreibung": "Erster Sieg: Gladbachs Not-Elf überrumpelt schwache Stuttgarter – Borussia Mönchengladbach hat den alleinigen Rekord-Fehlstart in der Bundesliga abgewendet und mit einem furiosen Sieg beim VfB Stuttgart für eine dicke Überraschung gesorgt.",
-    "quelle": "https://www.sportschau.de/fussball/bundesliga/gladbachs-not-elf-ueberrumpelt-schwache-stuttgarter,spielbericht-vfb-stuttgart-borussia-moenchengladbach-108.html",
-    "erfasst_am": "2026-10-23T22:25:49+02:00"
   },
   {
     "verein": "Borussia Mönchengladbach",
