@@ -2,6 +2,15 @@
   {
     "verein": "Borussia Dortmund",
     "spieler": "",
+    "kategorie": "verletzung",
+    "status": "zurück",
+    "beschreibung": "Joshua Kimmich steht vor Comeback gegen Dortmund – Der FC Bayern München muss seit zwei Pflichtspielen aufgrund eines Trauerfalls in der Familie auf Joshua Kimmich verzichten. Gegen Borussia Dortmund kann der deutsche Rekordmeister auf eine Rückkehr des Mittelfeldspielers hoffen.",
+    "quelle": "https://www.sportschau.de/regional/br/br-kimmich-comeback-gegen-dortmund-danks-macht-hoffnung-102.html",
+    "erfasst_am": "2026-10-27T18:24:50+01:00"
+  },
+  {
+    "verein": "Borussia Dortmund",
+    "spieler": "",
     "kategorie": "ergebnis",
     "status": "Spielbericht",
     "beschreibung": "Beier befreit den BVB gegen Eintracht Frankfurt vom Pech – Borussia Dortmund hat in der Bundesliga seine kurze Durststrecke überwunden. Vor dem Tor von Maximilian Beier sah es gegen Eintracht Frankfurt zunächst anders aus.",
@@ -133,15 +142,6 @@
     "beschreibung": "Union holt ersten Auswärts-Punkt gegen hadernde Augsburger – Für Unions Felix Uduokhai war das Treffen mit dem Ex-Klub ein kurzes: Nach 19 Minuten musste er vom Platz. Als dann auch noch Augsburgs Juma Bah vom Platz flog, nahm die Partie so richtig Fahrt auf.",
     "quelle": "https://www.sportschau.de/fussball/bundesliga/berlin-holt-ersten-auswaerts-punkt-augsburg-schwaecht-sich-selbst,spielbericht-fc-augsburg-union-berlin-106.html",
     "erfasst_am": "2026-10-26T00:00:06+01:00"
-  },
-  {
-    "verein": "FC Bayern München",
-    "spieler": "",
-    "kategorie": "verletzung",
-    "status": "fällt aus",
-    "beschreibung": "Kompany-Rückkehr auf die Bank noch Wochen entfernt – Vincent Kompany befindet sich nach seinem Zusammenbruch in stabilem Zustand, muss aber weiter im Krankenhaus bleiben. Beim FC Bayern denkt niemand an eine schnelle Rückkehr: Sportvorstand Max Eberl rechnet mit einer Ausfallzeit von Wochen.",
-    "quelle": "https://www.sportschau.de/regional/br/br-eberl-kompany-rueckkehr-auf-bank-erst-in-wochen-102.html",
-    "erfasst_am": "2026-10-24T16:59:18+02:00"
   },
   {
     "verein": "Borussia Mönchengladbach",
