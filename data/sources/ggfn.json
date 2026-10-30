@@ -1,5 +1,14 @@
 [
   {
+    "verein": "Hamburger SV",
+    "spieler": "",
+    "kategorie": "verletzung",
+    "status": "verletzt",
+    "beschreibung": "Hamburg head coach speaks on injury crisis ahead of immediate Bundesliga re-match against Eintracht Frankfurt – Despite their DFB-Pokal elimination against Eintracht Frankfurt and mounting injury concerns, Hamburg head coach Merlin Polzin remains optimistic about his team's development",
+    "quelle": "https://www.getfootballnewsgermany.com/2026/hamburg-frankfurt-pokal-bundesliga/",
+    "erfasst_am": "2026-10-30T16:40:44+00:00"
+  },
+  {
     "verein": "VfB Stuttgart",
     "spieler": "",
     "kategorie": "verletzung",
@@ -16,14 +25,5 @@
     "beschreibung": "‘We have to hold him back’ – Alexander Blessin doesn’t want to rush Gladbach’s Tim Kleindienst back – Borussia Mönchengladbach captain Tim Kleindienst suffered another muscle tear in mid-October after returning from a long injury lay-off and although eager to make a return, head coach Alexander Blessin remains…",
     "quelle": "https://www.getfootballnewsgermany.com/2026/we-have-to-hold-him-back-alexander-blessin-doesnt-want-to-rush-gladbachs-tim-kleindienst-back/",
     "erfasst_am": "2026-10-30T09:55:51+00:00"
-  },
-  {
-    "verein": "FC Bayern München",
-    "spieler": "",
-    "kategorie": "transfer",
-    "status": "Vertrag",
-    "beschreibung": "Bayern Munich CEO confirms Harry Kane contract extension is near – Bayern Munich CEO Jan-Christian Dreesen has confirmed that the major terms of Harry Kane's contract extension have been agreed, with only final legal details remaining.",
-    "quelle": "https://www.getfootballnewsgermany.com/2026/harry-kane-extension-dreesen/",
-    "erfasst_am": "2026-10-28T23:46:24+00:00"
   }
 ]
