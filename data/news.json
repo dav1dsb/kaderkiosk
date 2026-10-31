@@ -1,39 +1,93 @@
 [
   {
-    "verein": "Eintracht Frankfurt",
-    "spieler": "",
-    "kategorie": "pressekonferenz",
-    "status": "Trainerwechsel",
-    "beschreibung": "Chatzialexiou wird Krösche-Nachfolger bei der Eintracht – Eintracht Frankfurt hat die Suche nach einem Krösche-Nachfolger schnell abschließen können. Joti Chatzialexiou wechselt vom 1. FC Nürnberg an den Main und wird für die Hessen zum Schnäppchen. Offen ist allein, wann der neue Kaderplaner startet.",
-    "quelle": "https://www.sportschau.de/regional/hr/hr-chatzialexiou-wird-kroesche-nachfolger-bei-der-eintracht-100.html",
-    "erfasst_am": "2026-10-31T14:02:39+01:00"
-  },
-  {
-    "verein": "SV 07 Elversberg",
-    "spieler": "",
-    "kategorie": "ergebnis",
-    "status": "Spielbericht",
-    "beschreibung": "Traumtor Campbell - Elversberg überrumpelt Mainz – Aufsteiger SV Elversberg überrascht weiter in der Fußball-Bundesliga und nimmt den 1. FSV Mainz 05 schon in Hälfte eins auseinander. Der Höhepunkt aber kommt erst in der Nachspielzeit der Partie.",
-    "quelle": "https://www.sportschau.de/fussball/bundesliga/elversberg-ueberrumpelt-mainz,spielbericht-sv-elversberg-mainz-05-100.html",
-    "erfasst_am": "2026-10-30T22:37:30+01:00"
-  },
-  {
-    "verein": "1. FSV Mainz 05",
-    "spieler": "",
-    "kategorie": "ergebnis",
-    "status": "Spielbericht",
-    "beschreibung": "Traumtor Campbell - Elversberg überrumpelt Mainz – Aufsteiger SV Elversberg überrascht weiter in der Fußball-Bundesliga und nimmt den 1. FSV Mainz 05 schon in Hälfte eins auseinander. Der Höhepunkt aber kommt erst in der Nachspielzeit der Partie.",
-    "quelle": "https://www.sportschau.de/fussball/bundesliga/elversberg-ueberrumpelt-mainz,spielbericht-sv-elversberg-mainz-05-100.html",
-    "erfasst_am": "2026-10-30T22:37:30+01:00"
-  },
-  {
-    "verein": "Hamburger SV",
+    "verein": "FC Bayern München",
     "spieler": "",
     "kategorie": "verletzung",
     "status": "verletzt",
-    "beschreibung": "Hamburg head coach speaks on injury crisis ahead of immediate Bundesliga re-match against Eintracht Frankfurt – Despite their DFB-Pokal elimination against Eintracht Frankfurt and mounting injury concerns, Hamburg head coach Merlin Polzin remains optimistic about his team's development",
-    "quelle": "https://www.getfootballnewsgermany.com/2026/hamburg-frankfurt-pokal-bundesliga/",
-    "erfasst_am": "2026-10-30T16:40:44+00:00"
+    "beschreibung": "Ismael Saibari and Serge Gnabry sustain injuries – Bayern Munich duo Ismael Saibari and Serge Gnabry during Der Klassiker against Borussia Dortmund on Saturday night. Just 24 minutes had passed when Saibari raced through on goal before, but…",
+    "quelle": "https://www.getfootballnewsgermany.com/2026/ismael-saibari-and-serge-gnabry-sustain-injuries/",
+    "erfasst_am": "2026-10-31T18:56:32+00:00"
+  },
+  {
+    "verein": "SV Werder Bremen",
+    "spieler": "",
+    "kategorie": "ergebnis",
+    "status": "Spielbericht",
+    "beschreibung": "Bremen schlägt Hoffenheim: Füllkrug trifft wie einst Völler – Der SV Werder Bremen hat in der Fußball-Bundesliga einen Sieg gegen die TSG 1899 Hoffenheim eingefahren - den ersten seit 2014. Niclas Füllkrug stellte dabei einen Uralt-Rekord von Rudi Völler ein.",
+    "quelle": "https://www.sportschau.de/fussball/bundesliga/werder-beendet-schwarze-serie-gegen-hoffenheim,spielbericht-werder-bremen-tsg-hoffenheim-106.html",
+    "erfasst_am": "2026-10-31T18:38:42+01:00"
+  },
+  {
+    "verein": "TSG Hoffenheim",
+    "spieler": "",
+    "kategorie": "ergebnis",
+    "status": "Spielbericht",
+    "beschreibung": "Bremen schlägt Hoffenheim: Füllkrug trifft wie einst Völler – Der SV Werder Bremen hat in der Fußball-Bundesliga einen Sieg gegen die TSG 1899 Hoffenheim eingefahren - den ersten seit 2014. Niclas Füllkrug stellte dabei einen Uralt-Rekord von Rudi Völler ein.",
+    "quelle": "https://www.sportschau.de/fussball/bundesliga/werder-beendet-schwarze-serie-gegen-hoffenheim,spielbericht-werder-bremen-tsg-hoffenheim-106.html",
+    "erfasst_am": "2026-10-31T18:38:42+01:00"
+  },
+  {
+    "verein": "",
+    "spieler": "",
+    "kategorie": "aufstellung",
+    "status": "voraussichtlich",
+    "beschreibung": "FC Bayern gegen BVB: Joshua Kimmich überraschend in der Startelf – Am Samstagabend steigt in München der \"Klassiker\" zwischen dem FC Bayern und Borussia Dortmund. Harry Kane gibt sein Debüt als Weltfußballer, auch Joshua Kimmich spielt.",
+    "quelle": "https://www.sportschau.de/fussball/bundesliga/bayern-ueberrascht-gegen-bvb-mit-kimmich-in-der-startelf,spielbericht-bayern-muenchen-borussia-dortmund-112.html",
+    "erfasst_am": "2026-10-31T17:44:56+01:00"
+  },
+  {
+    "verein": "FC Schalke 04",
+    "spieler": "",
+    "kategorie": "ergebnis",
+    "status": "Spielbericht",
+    "beschreibung": "RB Leipzig ohne Mühe - Bei Schalke 04 steht die Doppel-Null – Schalke 04 präsentiert sich weiter abstiegsreif, vor allem in der Offensive. Gegen RB Leipzig gab es wieder keine Tore und erneut auch keine Punkte.",
+    "quelle": "https://www.sportschau.de/fussball/bundesliga/leipzig-siegt-klar-bei-schalke-steht-die-doppel-null,spielbericht-schalke-04-rb-leipzig-100.html",
+    "erfasst_am": "2026-10-31T17:34:14+01:00"
+  },
+  {
+    "verein": "RB Leipzig",
+    "spieler": "",
+    "kategorie": "ergebnis",
+    "status": "Spielbericht",
+    "beschreibung": "RB Leipzig ohne Mühe - Bei Schalke 04 steht die Doppel-Null – Schalke 04 präsentiert sich weiter abstiegsreif, vor allem in der Offensive. Gegen RB Leipzig gab es wieder keine Tore und erneut auch keine Punkte.",
+    "quelle": "https://www.sportschau.de/fussball/bundesliga/leipzig-siegt-klar-bei-schalke-steht-die-doppel-null,spielbericht-schalke-04-rb-leipzig-100.html",
+    "erfasst_am": "2026-10-31T17:34:14+01:00"
+  },
+  {
+    "verein": "Bayer 04 Leverkusen",
+    "spieler": "",
+    "kategorie": "ergebnis",
+    "status": "Spielbericht",
+    "beschreibung": "Stuttgart siegt, Leverkusen fühlt sich benachteiligt – Der VfB Stuttgart hat sich bei Bayer Leverkusen aus der Krise geschossen. Die Gastgeber kritisierten die Leitung des Unparteiischen.",
+    "quelle": "https://www.sportschau.de/fussball/bundesliga/stuttgarts-effizienz-sticht-leverkusen-aus,spielbericht-bayer-leverkusen-vfb-stuttgart-110.html",
+    "erfasst_am": "2026-10-31T17:26:24+01:00"
+  },
+  {
+    "verein": "VfB Stuttgart",
+    "spieler": "",
+    "kategorie": "ergebnis",
+    "status": "Spielbericht",
+    "beschreibung": "Stuttgart siegt, Leverkusen fühlt sich benachteiligt – Der VfB Stuttgart hat sich bei Bayer Leverkusen aus der Krise geschossen. Die Gastgeber kritisierten die Leitung des Unparteiischen.",
+    "quelle": "https://www.sportschau.de/fussball/bundesliga/stuttgarts-effizienz-sticht-leverkusen-aus,spielbericht-bayer-leverkusen-vfb-stuttgart-110.html",
+    "erfasst_am": "2026-10-31T17:26:24+01:00"
+  },
+  {
+    "verein": "FC Augsburg",
+    "spieler": "",
+    "kategorie": "ergebnis",
+    "status": "Spielbericht",
+    "beschreibung": "Freiburg macht das Beste aus Grusel-Kick in Augsburg – Der SC Freiburg entscheidet einen lange müden Kick beim FC Augsburg mit einem späten Siegtreffer und ist weiter härtester Verfolger der beiden Top-Teams Bayern und Dortmund.",
+    "quelle": "https://www.sportschau.de/fussball/bundesliga/freiburg-macht-optimum-aus-einem-grusel-kick,spielbericht-fc-augsburg-sc-freiburg-112.html",
+    "erfasst_am": "2026-10-31T17:25:30+01:00"
+  },
+  {
+    "verein": "SC Freiburg",
+    "spieler": "",
+    "kategorie": "ergebnis",
+    "status": "Spielbericht",
+    "beschreibung": "Freiburg macht das Beste aus Grusel-Kick in Augsburg – Der SC Freiburg entscheidet einen lange müden Kick beim FC Augsburg mit einem späten Siegtreffer und ist weiter härtester Verfolger der beiden Top-Teams Bayern und Dortmund.",
+    "quelle": "https://www.sportschau.de/fussball/bundesliga/freiburg-macht-optimum-aus-einem-grusel-kick,spielbericht-fc-augsburg-sc-freiburg-112.html",
+    "erfasst_am": "2026-10-31T17:25:30+01:00"
   },
   {
     "verein": "",
