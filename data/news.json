@@ -2,6 +2,24 @@
   {
     "verein": "FC Bayern München",
     "spieler": "",
+    "kategorie": "ergebnis",
+    "status": "Spielbericht",
+    "beschreibung": "FC Bayern und Harry Kane feiern sich gegen den BVB zu früh – Vor dem Anpfiff hatte es die Weltfußballer-Party für Harry Kane gegeben, kurz vor Schluss sah auch alles nach einem Sieg des FC Bayern aus - doch dann schlug Borussia Dortmund durch Fabio Silva zu.",
+    "quelle": "https://www.sportschau.de/fussball/bundesliga/bayern-und-kane-feiern-sich-gegen-bvb-zu-frueh,spielbericht-bayern-muenchen-borussia-dortmund-112.html",
+    "erfasst_am": "2026-10-31T21:36:43+01:00"
+  },
+  {
+    "verein": "Borussia Dortmund",
+    "spieler": "",
+    "kategorie": "ergebnis",
+    "status": "Spielbericht",
+    "beschreibung": "FC Bayern und Harry Kane feiern sich gegen den BVB zu früh – Vor dem Anpfiff hatte es die Weltfußballer-Party für Harry Kane gegeben, kurz vor Schluss sah auch alles nach einem Sieg des FC Bayern aus - doch dann schlug Borussia Dortmund durch Fabio Silva zu.",
+    "quelle": "https://www.sportschau.de/fussball/bundesliga/bayern-und-kane-feiern-sich-gegen-bvb-zu-frueh,spielbericht-bayern-muenchen-borussia-dortmund-112.html",
+    "erfasst_am": "2026-10-31T21:36:43+01:00"
+  },
+  {
+    "verein": "FC Bayern München",
+    "spieler": "",
     "kategorie": "verletzung",
     "status": "verletzt",
     "beschreibung": "Ismael Saibari and Serge Gnabry sustain injuries – Bayern Munich duo Ismael Saibari and Serge Gnabry during Der Klassiker against Borussia Dortmund on Saturday night. Just 24 minutes had passed when Saibari raced through on goal before, but…",
@@ -13,7 +31,7 @@
     "spieler": "",
     "kategorie": "ergebnis",
     "status": "Spielbericht",
-    "beschreibung": "Bremen schlägt Hoffenheim: Füllkrug trifft wie einst Völler – Der SV Werder Bremen hat in der Fußball-Bundesliga einen Sieg gegen die TSG 1899 Hoffenheim eingefahren - den ersten seit 2014. Niclas Füllkrug stellte dabei einen Uralt-Rekord von Rudi Völler ein.",
+    "beschreibung": "Bremen schlägt Hoffenheim: Füllkrug trifft wie einst Völler – Der SV Werder Bremen hat in der Fußball-Bundesliga einen Sieg gegen die TSG 1899 Hoffenheim eingefahren - den ersten seit 2014. Niclas Füllkrug brach dabei einen Uralt-Rekord von Rudi Völler.",
     "quelle": "https://www.sportschau.de/fussball/bundesliga/werder-beendet-schwarze-serie-gegen-hoffenheim,spielbericht-werder-bremen-tsg-hoffenheim-106.html",
     "erfasst_am": "2026-10-31T18:38:42+01:00"
   },
@@ -22,18 +40,9 @@
     "spieler": "",
     "kategorie": "ergebnis",
     "status": "Spielbericht",
-    "beschreibung": "Bremen schlägt Hoffenheim: Füllkrug trifft wie einst Völler – Der SV Werder Bremen hat in der Fußball-Bundesliga einen Sieg gegen die TSG 1899 Hoffenheim eingefahren - den ersten seit 2014. Niclas Füllkrug stellte dabei einen Uralt-Rekord von Rudi Völler ein.",
+    "beschreibung": "Bremen schlägt Hoffenheim: Füllkrug trifft wie einst Völler – Der SV Werder Bremen hat in der Fußball-Bundesliga einen Sieg gegen die TSG 1899 Hoffenheim eingefahren - den ersten seit 2014. Niclas Füllkrug brach dabei einen Uralt-Rekord von Rudi Völler.",
     "quelle": "https://www.sportschau.de/fussball/bundesliga/werder-beendet-schwarze-serie-gegen-hoffenheim,spielbericht-werder-bremen-tsg-hoffenheim-106.html",
     "erfasst_am": "2026-10-31T18:38:42+01:00"
-  },
-  {
-    "verein": "",
-    "spieler": "",
-    "kategorie": "aufstellung",
-    "status": "voraussichtlich",
-    "beschreibung": "FC Bayern gegen BVB: Joshua Kimmich überraschend in der Startelf – Am Samstagabend steigt in München der \"Klassiker\" zwischen dem FC Bayern und Borussia Dortmund. Harry Kane gibt sein Debüt als Weltfußballer, auch Joshua Kimmich spielt.",
-    "quelle": "https://www.sportschau.de/fussball/bundesliga/bayern-ueberrascht-gegen-bvb-mit-kimmich-in-der-startelf,spielbericht-bayern-muenchen-borussia-dortmund-112.html",
-    "erfasst_am": "2026-10-31T17:44:56+01:00"
   },
   {
     "verein": "FC Schalke 04",
@@ -58,7 +67,7 @@
     "spieler": "",
     "kategorie": "ergebnis",
     "status": "Spielbericht",
-    "beschreibung": "Stuttgart siegt, Leverkusen fühlt sich benachteiligt – Der VfB Stuttgart hat sich bei Bayer Leverkusen aus der Krise geschossen. Die Gastgeber kritisierten die Leitung des Unparteiischen.",
+    "beschreibung": "VfB Stuttgart siegt, Leverkusen fühlt sich benachteiligt – Der VfB Stuttgart hat sich bei Bayer Leverkusen aus der Krise geschossen. Die Gastgeber kritisierten die Leitung des Unparteiischen.",
     "quelle": "https://www.sportschau.de/fussball/bundesliga/stuttgarts-effizienz-sticht-leverkusen-aus,spielbericht-bayer-leverkusen-vfb-stuttgart-110.html",
     "erfasst_am": "2026-10-31T17:26:24+01:00"
   },
@@ -67,7 +76,7 @@
     "spieler": "",
     "kategorie": "ergebnis",
     "status": "Spielbericht",
-    "beschreibung": "Stuttgart siegt, Leverkusen fühlt sich benachteiligt – Der VfB Stuttgart hat sich bei Bayer Leverkusen aus der Krise geschossen. Die Gastgeber kritisierten die Leitung des Unparteiischen.",
+    "beschreibung": "VfB Stuttgart siegt, Leverkusen fühlt sich benachteiligt – Der VfB Stuttgart hat sich bei Bayer Leverkusen aus der Krise geschossen. Die Gastgeber kritisierten die Leitung des Unparteiischen.",
     "quelle": "https://www.sportschau.de/fussball/bundesliga/stuttgarts-effizienz-sticht-leverkusen-aus,spielbericht-bayer-leverkusen-vfb-stuttgart-110.html",
     "erfasst_am": "2026-10-31T17:26:24+01:00"
   },
@@ -76,7 +85,7 @@
     "spieler": "",
     "kategorie": "ergebnis",
     "status": "Spielbericht",
-    "beschreibung": "Freiburg macht das Beste aus Grusel-Kick in Augsburg – Der SC Freiburg entscheidet einen lange müden Kick beim FC Augsburg mit einem späten Siegtreffer und ist weiter härtester Verfolger der beiden Top-Teams Bayern und Dortmund.",
+    "beschreibung": "SC Freiburg macht das Beste aus Grusel-Kick beim FC Augsburg – Der SC Freiburg entscheidet einen lange müden Kick beim FC Augsburg mit seinem späten Siegtreffer und ist weiter härtester Verfolger der beiden Top-Teams Bayern und Dortmund.",
     "quelle": "https://www.sportschau.de/fussball/bundesliga/freiburg-macht-optimum-aus-einem-grusel-kick,spielbericht-fc-augsburg-sc-freiburg-112.html",
     "erfasst_am": "2026-10-31T17:25:30+01:00"
   },
@@ -85,7 +94,7 @@
     "spieler": "",
     "kategorie": "ergebnis",
     "status": "Spielbericht",
-    "beschreibung": "Freiburg macht das Beste aus Grusel-Kick in Augsburg – Der SC Freiburg entscheidet einen lange müden Kick beim FC Augsburg mit einem späten Siegtreffer und ist weiter härtester Verfolger der beiden Top-Teams Bayern und Dortmund.",
+    "beschreibung": "SC Freiburg macht das Beste aus Grusel-Kick beim FC Augsburg – Der SC Freiburg entscheidet einen lange müden Kick beim FC Augsburg mit seinem späten Siegtreffer und ist weiter härtester Verfolger der beiden Top-Teams Bayern und Dortmund.",
     "quelle": "https://www.sportschau.de/fussball/bundesliga/freiburg-macht-optimum-aus-einem-grusel-kick,spielbericht-fc-augsburg-sc-freiburg-112.html",
     "erfasst_am": "2026-10-31T17:25:30+01:00"
   },
@@ -97,15 +106,6 @@
     "beschreibung": "Bundesliga Update Podcast: Wie arbeiten Trainer in der Bundesliga? – Tiefe Einblicke gibt es nicht. Das Bundesliga Update Team spricht drüber: Wie teilen sich Bundesliga-Trainer ihre Arbeit auf?",
     "quelle": "https://www.sportschau.de/wie-kovac-und-kompany-ihre-trainerteams-organisieren,bundesliga-update-rueckblick-spieltag-sechsundzwanzig-104.html",
     "erfasst_am": "2026-10-29T19:11:00+01:00"
-  },
-  {
-    "verein": "",
-    "spieler": "",
-    "kategorie": "aufstellung",
-    "status": "voraussichtlich",
-    "beschreibung": "TV, Stream, Aufstellung: Alle Infos zu Bayern gegen Dortmund – Der FC Bayern München erwartet Borussia Dortmund am Samstag zum Bundesliga-Spitzenspiel. Alles, was man dazu wissen muss.",
-    "quelle": "https://www.sportschau.de/fussball/bundesliga/bayern-gegen-dortmund-mehr-topspiel-geht-nicht,vorschau-bundesliga-bayern-muenchen-borussia-dortmund-100.html",
-    "erfasst_am": "2026-10-29T15:59:18+01:00"
   },
   {
     "verein": "Borussia Dortmund",
