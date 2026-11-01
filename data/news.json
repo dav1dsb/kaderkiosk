@@ -1,5 +1,41 @@
 [
   {
+    "verein": "Eintracht Frankfurt",
+    "spieler": "",
+    "kategorie": "ergebnis",
+    "status": "Spielbericht",
+    "beschreibung": "Wieder 3:1 - Frankfurt legt nach, HSV verpasst Revanche – Nach dem Erfolg im DFB-Pokal hat Eintracht Frankfurt auch in der Fußball-Bundesliga einen Sieg gegen den Hamburger SV eingefahren. Das Ergebnis war eine Art Déjà-vu.",
+    "quelle": "https://www.sportschau.de/fussball/bundesliga/wieder-31-frankfurt-legt-nach-hsv-verpasst-revanche,spielbericht-eintracht-frankfurt-hamburger-sv-102.html",
+    "erfasst_am": "2026-11-01T19:37:30+01:00"
+  },
+  {
+    "verein": "Hamburger SV",
+    "spieler": "",
+    "kategorie": "ergebnis",
+    "status": "Spielbericht",
+    "beschreibung": "Wieder 3:1 - Frankfurt legt nach, HSV verpasst Revanche – Nach dem Erfolg im DFB-Pokal hat Eintracht Frankfurt auch in der Fußball-Bundesliga einen Sieg gegen den Hamburger SV eingefahren. Das Ergebnis war eine Art Déjà-vu.",
+    "quelle": "https://www.sportschau.de/fussball/bundesliga/wieder-31-frankfurt-legt-nach-hsv-verpasst-revanche,spielbericht-eintracht-frankfurt-hamburger-sv-102.html",
+    "erfasst_am": "2026-11-01T19:37:30+01:00"
+  },
+  {
+    "verein": "1. FC Union Berlin",
+    "spieler": "",
+    "kategorie": "ergebnis",
+    "status": "Spielbericht",
+    "beschreibung": "El Mala rettet 1. FC Köln bei Union Berlin - aber nicht Said – Der 1. FC Köln enttäuschte beim Wiedersehen mit Union Berlin - bei seiner Premiere sorgte Malek El Mala, Bruder von Said, trotzdem noch für einen Punktgewinn.",
+    "quelle": "https://www.sportschau.de/fussball/bundesliga/el-mala-rettet-koeln-bei-union-aber-nicht-said,spielbericht-union-berlin-koeln-102.html",
+    "erfasst_am": "2026-11-01T19:29:57+01:00"
+  },
+  {
+    "verein": "1. FC Köln",
+    "spieler": "",
+    "kategorie": "ergebnis",
+    "status": "Spielbericht",
+    "beschreibung": "El Mala rettet 1. FC Köln bei Union Berlin - aber nicht Said – Der 1. FC Köln enttäuschte beim Wiedersehen mit Union Berlin - bei seiner Premiere sorgte Malek El Mala, Bruder von Said, trotzdem noch für einen Punktgewinn.",
+    "quelle": "https://www.sportschau.de/fussball/bundesliga/el-mala-rettet-koeln-bei-union-aber-nicht-said,spielbericht-union-berlin-koeln-102.html",
+    "erfasst_am": "2026-11-01T19:29:57+01:00"
+  },
+  {
     "verein": "FC Bayern München",
     "spieler": "",
     "kategorie": "ergebnis",
