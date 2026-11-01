@@ -6,7 +6,7 @@
     "status": "Spielbericht",
     "beschreibung": "Wieder 3:1 - Frankfurt legt nach, HSV verpasst Revanche – Nach dem Erfolg im DFB-Pokal hat Eintracht Frankfurt auch in der Fußball-Bundesliga einen Sieg gegen den Hamburger SV eingefahren. Das Ergebnis war eine Art Déjà-vu.",
     "quelle": "https://www.sportschau.de/fussball/bundesliga/wieder-31-frankfurt-legt-nach-hsv-verpasst-revanche,spielbericht-eintracht-frankfurt-hamburger-sv-102.html",
-    "erfasst_am": "2026-11-01T19:37:30+01:00"
+    "erfasst_am": "2026-11-01T20:37:59+01:00"
   },
   {
     "verein": "Hamburger SV",
@@ -15,7 +15,7 @@
     "status": "Spielbericht",
     "beschreibung": "Wieder 3:1 - Frankfurt legt nach, HSV verpasst Revanche – Nach dem Erfolg im DFB-Pokal hat Eintracht Frankfurt auch in der Fußball-Bundesliga einen Sieg gegen den Hamburger SV eingefahren. Das Ergebnis war eine Art Déjà-vu.",
     "quelle": "https://www.sportschau.de/fussball/bundesliga/wieder-31-frankfurt-legt-nach-hsv-verpasst-revanche,spielbericht-eintracht-frankfurt-hamburger-sv-102.html",
-    "erfasst_am": "2026-11-01T19:37:30+01:00"
+    "erfasst_am": "2026-11-01T20:37:59+01:00"
   },
   {
     "verein": "1. FC Union Berlin",
@@ -135,13 +135,22 @@
     "erfasst_am": "2026-10-31T17:25:30+01:00"
   },
   {
-    "verein": "",
+    "verein": "SV 07 Elversberg",
     "spieler": "",
-    "kategorie": "pressekonferenz",
-    "status": "Trainer-News",
-    "beschreibung": "Bundesliga Update Podcast: Wie arbeiten Trainer in der Bundesliga? – Tiefe Einblicke gibt es nicht. Das Bundesliga Update Team spricht drüber: Wie teilen sich Bundesliga-Trainer ihre Arbeit auf?",
-    "quelle": "https://www.sportschau.de/wie-kovac-und-kompany-ihre-trainerteams-organisieren,bundesliga-update-rueckblick-spieltag-sechsundzwanzig-104.html",
-    "erfasst_am": "2026-10-29T19:11:00+01:00"
+    "kategorie": "ergebnis",
+    "status": "Spielbericht",
+    "beschreibung": "Traumtor Campbell - Elversberg überrumpelt Mainz – Aufsteiger SV Elversberg überrascht weiter in der Fußball-Bundesliga und nimmt den 1. FSV Mainz 05 schon in Hälfte eins auseinander. Der Höhepunkt aber kommt erst in der Nachspielzeit der Partie.",
+    "quelle": "https://www.sportschau.de/fussball/bundesliga/elversberg-ueberrumpelt-mainz,spielbericht-sv-elversberg-mainz-05-100.html",
+    "erfasst_am": "2026-10-30T22:37:30+01:00"
+  },
+  {
+    "verein": "1. FSV Mainz 05",
+    "spieler": "",
+    "kategorie": "ergebnis",
+    "status": "Spielbericht",
+    "beschreibung": "Traumtor Campbell - Elversberg überrumpelt Mainz – Aufsteiger SV Elversberg überrascht weiter in der Fußball-Bundesliga und nimmt den 1. FSV Mainz 05 schon in Hälfte eins auseinander. Der Höhepunkt aber kommt erst in der Nachspielzeit der Partie.",
+    "quelle": "https://www.sportschau.de/fussball/bundesliga/elversberg-ueberrumpelt-mainz,spielbericht-sv-elversberg-mainz-05-100.html",
+    "erfasst_am": "2026-10-30T22:37:30+01:00"
   },
   {
     "verein": "Borussia Dortmund",
