@@ -1,5 +1,32 @@
 [
   {
+    "verein": "TSG Hoffenheim",
+    "spieler": "",
+    "kategorie": "verletzung",
+    "status": "verletzt",
+    "beschreibung": "Hoffenheim’s Oliver Baumann addresses squad injury crisis ahead of Crystal Palace clash – TSG Hoffenheim captain Oliver Baumann has addressed the club's mounting injury crisis and disappointing start to the Bundesliga season ahead of Thursday's Europa League clash with Crystal Palace.",
+    "quelle": "https://www.getfootballnewsgermany.com/2026/hoffenheim-palace-injuries/",
+    "erfasst_am": "2026-11-05T10:24:04+00:00"
+  },
+  {
+    "verein": "Borussia Dortmund",
+    "spieler": "",
+    "kategorie": "transfer",
+    "status": "Gerücht",
+    "beschreibung": "Niko Kovac sets 17-point-target after latest Borussia Dortmund Champions League win – Borussia Dortmund moved onto nine points after four Champions League league-phase matches with a 2-1 victory over Real Betis, as Niko Kovac outlined the points total he believes will be required to secure a top-eight finish.",
+    "quelle": "https://www.getfootballnewsgermany.com/2026/dortmunf-champions-league-top-8/",
+    "erfasst_am": "2026-11-05T09:52:59+00:00"
+  },
+  {
+    "verein": "SV 07 Elversberg",
+    "spieler": "",
+    "kategorie": "transfer",
+    "status": "Gerücht",
+    "beschreibung": "Villarreal among clubs interested in Elversberg striker David Mokwa (22), Hoffenheim still possess buyback clause – SV Elversberg's David Mokwa is attracting interest from Villarreal and former club Hoffenheim, who retain a potentially lucrative buyback clause.",
+    "quelle": "https://www.getfootballnewsgermany.com/2026/david-mokwa-villarreal-tsg/",
+    "erfasst_am": "2026-11-05T09:31:55+00:00"
+  },
+  {
     "verein": "Borussia Dortmund",
     "spieler": "",
     "kategorie": "transfer",
@@ -7,14 +34,5 @@
     "beschreibung": "Contract talks between Waldemar Anton and Borussia Dortmund stall – Borussia Dortmund wish to extend Waldemar Anton’s contract beyond 2028, but talks between both parties have stalled, according to Sport Bild. Anton received an initial contract extension offer, but this…",
     "quelle": "https://www.getfootballnewsgermany.com/2026/contract-talks-anton-borussia-dortmund-stall/",
     "erfasst_am": "2026-11-04T12:54:50+00:00"
-  },
-  {
-    "verein": "FC Schalke 04",
-    "spieler": "",
-    "kategorie": "pressekonferenz",
-    "status": "Trainer-News",
-    "beschreibung": "Schalke back head coach Miron Muslić – Schalke have won just one of their eight games since returning to the Bundesliga following a three-year absence. And, although yet to score a goal at home this season, club…",
-    "quelle": "https://www.getfootballnewsgermany.com/2026/schalke-back-miron-muslic/",
-    "erfasst_am": "2026-11-04T12:43:17+00:00"
   }
 ]
