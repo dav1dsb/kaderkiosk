@@ -1,5 +1,23 @@
 [
   {
+    "verein": "1. FSV Mainz 05",
+    "spieler": "",
+    "kategorie": "transfer",
+    "status": "Vertrag",
+    "beschreibung": "Official | Paul Nebel signs contract extension amid Mainz 05 form crisis – Mainz 05 have extended Paul Nebel's contract.",
+    "quelle": "https://www.getfootballnewsgermany.com/2026/paul-nebel-extension-mainz-crisis/",
+    "erfasst_am": "2026-11-06T18:08:25+00:00"
+  },
+  {
+    "verein": "1. FC Köln",
+    "spieler": "",
+    "kategorie": "aufstellung",
+    "status": "voraussichtlich",
+    "beschreibung": "Ready for Moore? Mikey Moore poised to return to Cologne starting XI – Cologne head coach René Wagner has hinted at a return to the starting XI for Tottenham Hotspur loanee Mikey Moore ahead of Sunday's Rhineland derby against Bayer Leverkusen, expressing confidence that the young Englishman can overcome his recent struggles and rediscover his attacking form.",
+    "quelle": "https://www.getfootballnewsgermany.com/2026/mikey-moore-cologne-xi-return/",
+    "erfasst_am": "2026-11-06T16:49:14+00:00"
+  },
+  {
     "verein": "Borussia Dortmund",
     "spieler": "",
     "kategorie": "verletzung",
