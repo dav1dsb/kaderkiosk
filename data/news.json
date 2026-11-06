@@ -1,5 +1,23 @@
 [
   {
+    "verein": "Hamburger SV",
+    "spieler": "",
+    "kategorie": "ergebnis",
+    "status": "Spielbericht",
+    "beschreibung": "HSV schießt Gladbach zurück in die Krise – Der Hamburger SV hat das ereignisreiche Kellerduell gegen Borussia Mönchengladbach für sich entschieden - auch dank eines spektakulären Treffers von Miro Muheim.",
+    "quelle": "https://www.sportschau.de/fussball/bundesliga/hsv-schickt-gladbach-zurueck-in-die-krise,spielbericht-hamburger-sv-borussia-moenchengladbach-102.html",
+    "erfasst_am": "2026-11-06T23:24:16+01:00"
+  },
+  {
+    "verein": "Borussia Mönchengladbach",
+    "spieler": "",
+    "kategorie": "ergebnis",
+    "status": "Spielbericht",
+    "beschreibung": "HSV schießt Gladbach zurück in die Krise – Der Hamburger SV hat das ereignisreiche Kellerduell gegen Borussia Mönchengladbach für sich entschieden - auch dank eines spektakulären Treffers von Miro Muheim.",
+    "quelle": "https://www.sportschau.de/fussball/bundesliga/hsv-schickt-gladbach-zurueck-in-die-krise,spielbericht-hamburger-sv-borussia-moenchengladbach-102.html",
+    "erfasst_am": "2026-11-06T23:24:16+01:00"
+  },
+  {
     "verein": "1. FSV Mainz 05",
     "spieler": "",
     "kategorie": "transfer",
