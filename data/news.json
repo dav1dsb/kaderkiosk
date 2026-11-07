@@ -1,5 +1,68 @@
 [
   {
+    "verein": "",
+    "spieler": "",
+    "kategorie": "verletzung",
+    "status": "verletzt",
+    "beschreibung": "FC Bayern schlägt Mainz  - Neuer verletzt sich im Rekordspiel – Die Bayern marschieren weiter: Trotz eines unglücklichen Rekordspiels von Bayern-Torhüter Manuel Neuer haben die Münchner in Mainz die Tabellenführung behauptet.",
+    "quelle": "https://www.sportschau.de/fussball/bundesliga/kimmich-und-karl-fuehren-bayern-zu-arbeitssieg-in-mainz,spielbericht-mainz-05-bayern-muenchen-100.html",
+    "erfasst_am": "2026-11-07T18:11:07+01:00"
+  },
+  {
+    "verein": "SC Paderborn 07",
+    "spieler": "",
+    "kategorie": "ergebnis",
+    "status": "Spielbericht",
+    "beschreibung": "Medizinischer Notfall überschattet Remis zwischen Paderborn und Frankfurt – Eintracht Frankfurt hat dank eines Tores in der Nachspielzeit einen Punkt beim SC Paderborn gerettet. Überschattet wurde die Partie von einem medizinischen Notfall.",
+    "quelle": "https://www.sportschau.de/fussball/bundesliga/medizinischer-notfall-ueberschattet-remis-zwischen-paderborn-und-frankfurt,spielbericht-sc-paderborn-eintracht-frankfurt-100.html",
+    "erfasst_am": "2026-11-07T18:05:07+01:00"
+  },
+  {
+    "verein": "Eintracht Frankfurt",
+    "spieler": "",
+    "kategorie": "ergebnis",
+    "status": "Spielbericht",
+    "beschreibung": "Medizinischer Notfall überschattet Remis zwischen Paderborn und Frankfurt – Eintracht Frankfurt hat dank eines Tores in der Nachspielzeit einen Punkt beim SC Paderborn gerettet. Überschattet wurde die Partie von einem medizinischen Notfall.",
+    "quelle": "https://www.sportschau.de/fussball/bundesliga/medizinischer-notfall-ueberschattet-remis-zwischen-paderborn-und-frankfurt,spielbericht-sc-paderborn-eintracht-frankfurt-100.html",
+    "erfasst_am": "2026-11-07T18:05:07+01:00"
+  },
+  {
+    "verein": "Borussia Dortmund",
+    "spieler": "",
+    "kategorie": "ergebnis",
+    "status": "Spielbericht",
+    "beschreibung": "Doppelpack Nmecha - Dortmund schlägt Elversberg – Borussia Dortmund bleibt in der Bundesliga ungeschlagen. Der Sieg gegen Aufsteiger Elversberg war aber ein hartes Stück Arbeit. Matchwinner war Felix Nmecha.",
+    "quelle": "https://www.sportschau.de/fussball/bundesliga/doppelpack-nmecha-dortmund-schlaegt-elversberg,spielbericht-borussia-dortmund-sv-elversberg-100.html",
+    "erfasst_am": "2026-11-07T17:41:57+01:00"
+  },
+  {
+    "verein": "SV 07 Elversberg",
+    "spieler": "",
+    "kategorie": "ergebnis",
+    "status": "Spielbericht",
+    "beschreibung": "Doppelpack Nmecha - Dortmund schlägt Elversberg – Borussia Dortmund bleibt in der Bundesliga ungeschlagen. Der Sieg gegen Aufsteiger Elversberg war aber ein hartes Stück Arbeit. Matchwinner war Felix Nmecha.",
+    "quelle": "https://www.sportschau.de/fussball/bundesliga/doppelpack-nmecha-dortmund-schlaegt-elversberg,spielbericht-borussia-dortmund-sv-elversberg-100.html",
+    "erfasst_am": "2026-11-07T17:41:57+01:00"
+  },
+  {
+    "verein": "RB Leipzig",
+    "spieler": "",
+    "kategorie": "ergebnis",
+    "status": "Spielbericht",
+    "beschreibung": "Überragender Gruda - Leipzig nimmt Augsburg auseinander – RB Leipzig spielt sich angeführt von einem überragenden Brajan Gruda gegen den FC Augsburg in einen kleinen Rausch. Die Augsburger geben erneut eine Führung aus der Hand und müssen sich erst einmal nach unten orientieren.",
+    "quelle": "https://www.sportschau.de/fussball/bundesliga/leipzig-nimmt-augsburg-auseinander,spielbericht-rb-leipzig-fc-augsburg-104.html",
+    "erfasst_am": "2026-11-07T17:29:22+01:00"
+  },
+  {
+    "verein": "FC Augsburg",
+    "spieler": "",
+    "kategorie": "ergebnis",
+    "status": "Spielbericht",
+    "beschreibung": "Überragender Gruda - Leipzig nimmt Augsburg auseinander – RB Leipzig spielt sich angeführt von einem überragenden Brajan Gruda gegen den FC Augsburg in einen kleinen Rausch. Die Augsburger geben erneut eine Führung aus der Hand und müssen sich erst einmal nach unten orientieren.",
+    "quelle": "https://www.sportschau.de/fussball/bundesliga/leipzig-nimmt-augsburg-auseinander,spielbericht-rb-leipzig-fc-augsburg-104.html",
+    "erfasst_am": "2026-11-07T17:29:22+01:00"
+  },
+  {
     "verein": "Hamburger SV",
     "spieler": "",
     "kategorie": "ergebnis",
