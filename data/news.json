@@ -4,7 +4,7 @@
     "spieler": "",
     "kategorie": "ergebnis",
     "status": "Spielbericht",
-    "beschreibung": "HSV schießt Gladbach zurück in die Krise – Der Hamburger SV hat das ereignisreiche Kellerduell gegen Borussia Mönchengladbach für sich entschieden - auch dank eines spektakulären Treffers von Miro Muheim.",
+    "beschreibung": "Hamburger SV schießt Gladbach zurück in die Krise – Der Hamburger SV hat das ereignisreiche Kellerduell gegen Borussia Mönchengladbach für sich entschieden - auch dank eines spektakulären Treffers von Miro Muheim.",
     "quelle": "https://www.sportschau.de/fussball/bundesliga/hsv-schickt-gladbach-zurueck-in-die-krise,spielbericht-hamburger-sv-borussia-moenchengladbach-102.html",
     "erfasst_am": "2026-11-06T23:24:16+01:00"
   },
@@ -13,7 +13,7 @@
     "spieler": "",
     "kategorie": "ergebnis",
     "status": "Spielbericht",
-    "beschreibung": "HSV schießt Gladbach zurück in die Krise – Der Hamburger SV hat das ereignisreiche Kellerduell gegen Borussia Mönchengladbach für sich entschieden - auch dank eines spektakulären Treffers von Miro Muheim.",
+    "beschreibung": "Hamburger SV schießt Gladbach zurück in die Krise – Der Hamburger SV hat das ereignisreiche Kellerduell gegen Borussia Mönchengladbach für sich entschieden - auch dank eines spektakulären Treffers von Miro Muheim.",
     "quelle": "https://www.sportschau.de/fussball/bundesliga/hsv-schickt-gladbach-zurueck-in-die-krise,spielbericht-hamburger-sv-borussia-moenchengladbach-102.html",
     "erfasst_am": "2026-11-06T23:24:16+01:00"
   },
@@ -43,24 +43,6 @@
     "beschreibung": "Serhou Guirassy to miss Borussia Dortmund’s next game due to injury: The diagnosis – Serhou Guirassy will miss Borussia Dortmund’s next game due to injury, Niko Kovac has confirmed during his press conference. Borussia Dortmund are due to play Bundesliga newcomers and this season’s…",
     "quelle": "https://www.getfootballnewsgermany.com/2026/serhou-guirassy-to-miss-borussia-dortmunds-next-game-due-to-injury-the-diagnosis/",
     "erfasst_am": "2026-11-06T12:44:09+00:00"
-  },
-  {
-    "verein": "Borussia Mönchengladbach",
-    "spieler": "",
-    "kategorie": "verletzung",
-    "status": "verletzt",
-    "beschreibung": "Batz ersetzt Nicolas im Gladbach-Tor - für länger? – In Gladbach halten die schlechten Nachrichten an. Auch Torwart Moritz Nicolas ist verletzt. Daniel Batz ersetzt ihn. Für länger?",
-    "quelle": "https://www.sportschau.de/regional/wdr/wdr-batz-ersetzt-nicolas-im-gladbach-tor-fuer-laenger-100.html",
-    "erfasst_am": "2026-11-04T18:43:00+01:00"
-  },
-  {
-    "verein": "SV Werder Bremen",
-    "spieler": "",
-    "kategorie": "verletzung",
-    "status": "fällt aus",
-    "beschreibung": "Werders Leistungsträger Mitchell Weiser erneut verletzt – Schlechte Nachricht für Werder: Mitchell Weiser kämpfte sich nach einem Kreuzbandriss nach 14 Monaten auf den Platz zurück. Der Bremer verletzte sich am Oberschenkel.",
-    "quelle": "https://www.sportschau.de/regional/rb/rb-werder-leistungstraeger-weiser-faellt-schon-wieder-mit-verletzung-aus-100.html",
-    "erfasst_am": "2026-11-03T16:58:00+01:00"
   },
   {
     "verein": "Eintracht Frankfurt",
