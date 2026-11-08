@@ -1,5 +1,32 @@
 [
   {
+    "verein": "RB Leipzig",
+    "spieler": "",
+    "kategorie": "verletzung",
+    "status": "fällt aus",
+    "beschreibung": "Official | Waldemar Anton withdraws from Germany squad, Ridle Baku earns late call-up – Jürgen Klopp has recalled RB Leipzig's Ridle Baku to the Germany squad following Waldemar Anton's withdrawal through injury.",
+    "quelle": "https://www.getfootballnewsgermany.com/2026/germany-anton-baku-gruda-raum/",
+    "erfasst_am": "2026-11-08T15:51:16+00:00"
+  },
+  {
+    "verein": "FC Bayern München",
+    "spieler": "",
+    "kategorie": "verletzung",
+    "status": "fällt aus",
+    "beschreibung": "Manuel Neuer expected to be sidelined for six weeks – At the age of 40 years and 225 days, Neuer became the oldest player ever to represent Bayern Munich in a Bundesliga match, surpassing the club’s previous record. \\",
+    "quelle": "https://www.getfootballnewsgermany.com/2026/manuel-neuer-injury-2026/",
+    "erfasst_am": "2026-11-08T14:54:38+00:00"
+  },
+  {
+    "verein": "FC Bayern München",
+    "spieler": "",
+    "kategorie": "verletzung",
+    "status": "zurück",
+    "beschreibung": "Hoeneß kündigt Kompany-Comeback \"in zwei, drei Wochen\" an – Nach seiner Hirnhautreizung könnte Vincent Kompany schon bald wieder beim FC Bayern an der Seitenlinie stehen. Uli Hoeneß rechnet mit einer Rückkehr des Cheftrainers nach der Länderspielpause.",
+    "quelle": "https://www.sportschau.de/regional/br/br-hoeness-kompany-comeback-in-zwei-drei-wochen-102.html",
+    "erfasst_am": "2026-11-08T13:07:41+01:00"
+  },
+  {
     "verein": "VfB Stuttgart",
     "spieler": "",
     "kategorie": "ergebnis",
@@ -97,23 +124,5 @@
     "beschreibung": "Hamburger SV schießt Gladbach zurück in die Krise – Der Hamburger SV hat das ereignisreiche Kellerduell gegen Borussia Mönchengladbach für sich entschieden - auch dank eines spektakulären Treffers von Miro Muheim.",
     "quelle": "https://www.sportschau.de/fussball/bundesliga/hsv-schickt-gladbach-zurueck-in-die-krise,spielbericht-hamburger-sv-borussia-moenchengladbach-102.html",
     "erfasst_am": "2026-11-06T23:24:16+01:00"
-  },
-  {
-    "verein": "1. FSV Mainz 05",
-    "spieler": "",
-    "kategorie": "transfer",
-    "status": "Vertrag",
-    "beschreibung": "Official | Paul Nebel signs contract extension amid Mainz 05 form crisis – Mainz 05 have extended Paul Nebel's contract.",
-    "quelle": "https://www.getfootballnewsgermany.com/2026/paul-nebel-extension-mainz-crisis/",
-    "erfasst_am": "2026-11-06T18:08:25+00:00"
-  },
-  {
-    "verein": "1. FC Köln",
-    "spieler": "",
-    "kategorie": "aufstellung",
-    "status": "voraussichtlich",
-    "beschreibung": "Ready for Moore? Mikey Moore poised to return to Cologne starting XI – Cologne head coach René Wagner has hinted at a return to the starting XI for Tottenham Hotspur loanee Mikey Moore ahead of Sunday's Rhineland derby against Bayer Leverkusen, expressing confidence that the young Englishman can overcome his recent struggles and rediscover his attacking form.",
-    "quelle": "https://www.getfootballnewsgermany.com/2026/mikey-moore-cologne-xi-return/",
-    "erfasst_am": "2026-11-06T16:49:14+00:00"
   }
 ]
