@@ -1,5 +1,41 @@
 [
   {
+    "verein": "TSG Hoffenheim",
+    "spieler": "",
+    "kategorie": "ergebnis",
+    "status": "Spielbericht",
+    "beschreibung": "Ein Tor, aber keine Punkte für den FC Schalke 04 – Mal wieder ein Tor, aber kein Punkt: Der FC Schalke 04 hängt nach einer Niederlage bei der TSG Hoffenheim im Tabellenkeller der Fußball-Bundesliga fest und beklagt weitere Verletzte.",
+    "quelle": "https://www.sportschau.de/fussball/bundesliga/ein-tor-aber-keine-punkte-fuer-fc-schalke-04,spielbericht-tsg-hoffenheim-schalke-04-100.html",
+    "erfasst_am": "2026-11-08T22:26:08+01:00"
+  },
+  {
+    "verein": "FC Schalke 04",
+    "spieler": "",
+    "kategorie": "ergebnis",
+    "status": "Spielbericht",
+    "beschreibung": "Ein Tor, aber keine Punkte für den FC Schalke 04 – Mal wieder ein Tor, aber kein Punkt: Der FC Schalke 04 hängt nach einer Niederlage bei der TSG Hoffenheim im Tabellenkeller der Fußball-Bundesliga fest und beklagt weitere Verletzte.",
+    "quelle": "https://www.sportschau.de/fussball/bundesliga/ein-tor-aber-keine-punkte-fuer-fc-schalke-04,spielbericht-tsg-hoffenheim-schalke-04-100.html",
+    "erfasst_am": "2026-11-08T22:26:08+01:00"
+  },
+  {
+    "verein": "SC Freiburg",
+    "spieler": "",
+    "kategorie": "ergebnis",
+    "status": "Spielbericht",
+    "beschreibung": "Null Torgefahr: Union bewirbt sich gegen Freiburg für den Abstiegskampf – Der SC Freiburg feierte einen ungefährdeten Heimsieg gegen erschreckend schwache Berliner. Allein Schlussmann Rönnow war es zu verdanken, dass die Niederlage nicht höher ausfiel.",
+    "quelle": "https://www.sportschau.de/fussball/bundesliga/null-torgefahr-union-bewirbt-sich-fuer-abstiegskampf,spielbericht-sc-freiburg-union-berlin-106.html",
+    "erfasst_am": "2026-11-08T19:36:46+01:00"
+  },
+  {
+    "verein": "1. FC Union Berlin",
+    "spieler": "",
+    "kategorie": "ergebnis",
+    "status": "Spielbericht",
+    "beschreibung": "Null Torgefahr: Union bewirbt sich gegen Freiburg für den Abstiegskampf – Der SC Freiburg feierte einen ungefährdeten Heimsieg gegen erschreckend schwache Berliner. Allein Schlussmann Rönnow war es zu verdanken, dass die Niederlage nicht höher ausfiel.",
+    "quelle": "https://www.sportschau.de/fussball/bundesliga/null-torgefahr-union-bewirbt-sich-fuer-abstiegskampf,spielbericht-sc-freiburg-union-berlin-106.html",
+    "erfasst_am": "2026-11-08T19:36:46+01:00"
+  },
+  {
     "verein": "FC Bayern München",
     "spieler": "",
     "kategorie": "verletzung",
