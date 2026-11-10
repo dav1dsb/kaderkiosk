@@ -1,20 +1,29 @@
 [
   {
-    "verein": "RB Leipzig",
+    "verein": "Borussia Dortmund",
     "spieler": "",
     "kategorie": "verletzung",
-    "status": "fällt aus",
-    "beschreibung": "Official | Waldemar Anton withdraws from Germany squad, Ridle Baku earns late call-up – Jürgen Klopp has recalled RB Leipzig's Ridle Baku to the Germany squad following Waldemar Anton's withdrawal through injury.",
-    "quelle": "https://www.getfootballnewsgermany.com/2026/germany-anton-baku-gruda-raum/",
-    "erfasst_am": "2026-11-08T15:51:16+00:00"
+    "status": "verletzt",
+    "beschreibung": "Borussia Dortmund receive encouraging news on Giannis Konstantelias’ injury recovery – Giannis Konstantelias is reportedly ahead of schedule in his rehabilitation from an ACL injury, with Borussia Dortmund hopeful that the Greek international could return as early as February or March 2027.",
+    "quelle": "https://www.getfootballnewsgermany.com/2026/borussia-dortmund-receive-encouragingiannis-konstantelias-injury-recovery/",
+    "erfasst_am": "2026-11-10T17:21:41+00:00"
   },
   {
-    "verein": "FC Bayern München",
+    "verein": "FC Augsburg",
     "spieler": "",
-    "kategorie": "verletzung",
-    "status": "fällt aus",
-    "beschreibung": "Manuel Neuer expected to be sidelined for six weeks – At the age of 40 years and 225 days, Neuer became the oldest player ever to represent Bayern Munich in a Bundesliga match, surpassing the club’s previous record. \\",
-    "quelle": "https://www.getfootballnewsgermany.com/2026/manuel-neuer-injury-2026/",
-    "erfasst_am": "2026-11-08T14:54:38+00:00"
+    "kategorie": "pressekonferenz",
+    "status": "Trainerwechsel",
+    "beschreibung": "Augsburg identify Jan Reichert as potential successor to Finn Dahmen – With Finn Dahmen's contract set to expire next summer, FC Augsburg are reportedly monitoring 1. FC Nürnberg captain Jan Reichert as a possible replacement should their first-choice goalkeeper depart.",
+    "quelle": "https://www.getfootballnewsgermany.com/2026/augsburg-jan-reichert-finn-dahmen/",
+    "erfasst_am": "2026-11-10T17:09:34+00:00"
+  },
+  {
+    "verein": "Borussia Dortmund",
+    "spieler": "",
+    "kategorie": "transfer",
+    "status": "Gerücht",
+    "beschreibung": "Reports suggest Borussia Dortmund will move to halt Felix Nmecha’s controversial goal celebration – Borussia Dortmund president Hans-Joachim Watzke has reportedly backed calls for Felix Nmecha to abandon his controversial crown celebration. The club is also reviewing its relationship with the evangelical network \"Ballers in God\" amid mounting criticism from supporters.",
+    "quelle": "https://www.getfootballnewsgermany.com/2026/felix-nmecha-celebration-bvb-halt/",
+    "erfasst_am": "2026-11-10T15:11:55+00:00"
   }
 ]
