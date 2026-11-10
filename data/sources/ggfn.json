@@ -1,5 +1,23 @@
 [
   {
+    "verein": "",
+    "spieler": "",
+    "kategorie": "verletzung",
+    "status": "verletzt",
+    "beschreibung": "Germany U21 squad update | Three players earn late call-ups following injury withdrawals – Germany U21 head coach Antonio Di Salvo has been forced into three late squad changes ahead of the upcoming November 2026 internationals against Belgium and Croatia.",
+    "quelle": "https://www.getfootballnewsgermany.com/2026/germany-u21-11-26-update/",
+    "erfasst_am": "2026-11-10T21:32:03+00:00"
+  },
+  {
+    "verein": "SV Werder Bremen",
+    "spieler": "",
+    "kategorie": "verletzung",
+    "status": "verletzt",
+    "beschreibung": "Niclas Füllkrug credits Werder Bremen medical staff for helping him rediscover form – peaking at Germany's Tuesday press conference, Niclas Füllkrug reflected on his injury-plagued spells abroad and explained how familiar surroundings, improved fitness, and the support of his Werder Bremen teammates have helped him rediscover his best form.",
+    "quelle": "https://www.getfootballnewsgermany.com/2026/fullkrug-werder-bremen-staff/",
+    "erfasst_am": "2026-11-10T20:51:54+00:00"
+  },
+  {
     "verein": "Borussia Dortmund",
     "spieler": "",
     "kategorie": "verletzung",
@@ -16,14 +34,5 @@
     "beschreibung": "Augsburg identify Jan Reichert as potential successor to Finn Dahmen – With Finn Dahmen's contract set to expire next summer, FC Augsburg are reportedly monitoring 1. FC Nürnberg captain Jan Reichert as a possible replacement should their first-choice goalkeeper depart.",
     "quelle": "https://www.getfootballnewsgermany.com/2026/augsburg-jan-reichert-finn-dahmen/",
     "erfasst_am": "2026-11-10T17:09:34+00:00"
-  },
-  {
-    "verein": "Borussia Dortmund",
-    "spieler": "",
-    "kategorie": "transfer",
-    "status": "Gerücht",
-    "beschreibung": "Reports suggest Borussia Dortmund will move to halt Felix Nmecha’s controversial goal celebration – Borussia Dortmund president Hans-Joachim Watzke has reportedly backed calls for Felix Nmecha to abandon his controversial crown celebration. The club is also reviewing its relationship with the evangelical network \"Ballers in God\" amid mounting criticism from supporters.",
-    "quelle": "https://www.getfootballnewsgermany.com/2026/felix-nmecha-celebration-bvb-halt/",
-    "erfasst_am": "2026-11-10T15:11:55+00:00"
   }
 ]
