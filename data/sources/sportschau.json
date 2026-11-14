@@ -1,12 +1,21 @@
 [
   {
+    "verein": "Hamburger SV",
+    "spieler": "",
+    "kategorie": "verletzung",
+    "status": "verletzt",
+    "beschreibung": "Schon wieder verletzt: HSV muss \"vorerst\" auf Poulsen verzichten – Der Däne erlitt im Training eine Faszienverletzung in der Wade und steht Trainer Merlin Polzin im Nordderby in Bremen nicht zur Verfügung.",
+    "quelle": "https://www.sportschau.de/regional/ndr/schon-wieder-hsv-muss-vorerst-auf-poulsen-verzichten,hsv-2386.html",
+    "erfasst_am": "2026-11-14T12:48:13+01:00"
+  },
+  {
     "verein": "FC Bayern München",
     "spieler": "",
     "kategorie": "verletzung",
     "status": "fraglich",
     "beschreibung": "Startelf-Comeback geht schief: Sorgen um Bayerns Davies – Das Verletzungspech bleibt Alphonso Davies treu: Der Profi des FC Bayern München musste bei seinem Startelf-Comeback für Kanada gegen Guatemala angeschlagen vom Platz. Eine Diagnose stand noch aus.",
     "quelle": "https://www.sportschau.de/regional/br/br-laenderspiel-comeback-geht-schief-sorgen-um-bayerns-davies-102.html",
-    "erfasst_am": "2026-11-14T11:48:55+01:00"
+    "erfasst_am": "2026-11-14T12:24:58+01:00"
   },
   {
     "verein": "Borussia Mönchengladbach",
