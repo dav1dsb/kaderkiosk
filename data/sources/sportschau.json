@@ -1,39 +1,21 @@
 [
   {
-    "verein": "Hamburger SV",
-    "spieler": "",
-    "kategorie": "sperre",
-    "status": "gesperrt",
-    "beschreibung": "Rückkehr von Mario Vuskovic beim HSV: \"Vier Jahre davon geträumt\" – Der Verteidiger der Hamburger bestritt am Sonntag gegen Hajduk Split das erste Spiel nach seiner Sperre. Unter Tränen bedankte er sich für die jahrelange Unterstützung.",
-    "quelle": "https://www.sportschau.de/regional/ndr/Bundesliga-Hamburg-HSV-Mario-Vuskovic-Hajduk-Split,hsv-2382.html",
-    "erfasst_am": "2026-11-16T16:46:09+01:00"
-  },
-  {
-    "verein": "Hamburger SV",
+    "verein": "VfB Stuttgart",
     "spieler": "",
     "kategorie": "verletzung",
-    "status": "verletzt",
-    "beschreibung": "Schon wieder verletzt: HSV muss \"vorerst\" auf Poulsen verzichten – Der Däne erlitt im Training eine Faszienverletzung in der Wade und steht Trainer Merlin Polzin im Nordderby in Bremen nicht zur Verfügung.",
-    "quelle": "https://www.sportschau.de/regional/ndr/schon-wieder-hsv-muss-vorerst-auf-poulsen-verzichten,hsv-2386.html",
-    "erfasst_am": "2026-11-14T12:48:13+01:00"
+    "status": "fraglich",
+    "beschreibung": "Der VfB Stuttgart und die schwierige Belastungssteuerung – Der VfB Stuttgart wirkte vor der Länderspielpause platt. Eine Rotation wie in der abgelaufenen Saison war bislang nicht möglich. Die Schwaben dürfen aber optimistisch sein.",
+    "quelle": "https://www.sportschau.de/regional/swr/swr-frueh-am-limit-der-vfb-stuttgart-und-die-schwierige-belastungssteuerung-100.html",
+    "erfasst_am": "2026-11-17T12:03:04+01:00"
   },
   {
     "verein": "FC Bayern München",
     "spieler": "",
     "kategorie": "verletzung",
-    "status": "fraglich",
-    "beschreibung": "Startelf-Comeback geht schief: Sorgen um Bayerns Davies – Das Verletzungspech bleibt Alphonso Davies treu: Der Profi des FC Bayern München musste bei seinem Startelf-Comeback für Kanada gegen Guatemala angeschlagen vom Platz. Eine Diagnose stand noch aus.",
-    "quelle": "https://www.sportschau.de/regional/br/br-laenderspiel-comeback-geht-schief-sorgen-um-bayerns-davies-102.html",
-    "erfasst_am": "2026-11-14T12:24:58+01:00"
-  },
-  {
-    "verein": "Borussia Mönchengladbach",
-    "spieler": "",
-    "kategorie": "verletzung",
     "status": "verletzt",
-    "beschreibung": "Gladbachs Muskeln spielen nicht mehr mit – Borussia Mönchengladbach kämpft nicht nur gegen den Abstieg, sondern auch gegen eine auffällige Häufung von Muskelverletzungen.",
-    "quelle": "https://www.sportschau.de/regional/wdr/wdr-gladbachs-muskeln-spielen-nicht-mehr-mit-100.html",
-    "erfasst_am": "2026-11-11T10:00:04+01:00"
+    "beschreibung": "Bayern-Verteidiger Davies frustriert von Verletzung – FC-Bayern-Spieler Alphonso Davies verletzt sich beim Länderspiel mit Kanada wohl etwas schwerer. Der Linksverteidiger spricht von seinem Frust über die Verletzung. Bei den Münchnern verschärft sich die Verletzungsmisere nun weiter.",
+    "quelle": "https://www.sportschau.de/regional/br/br-in-der-umkleide-ausgetickt-davies-frustriert-von-verletzung-102.html",
+    "erfasst_am": "2026-11-16T15:48:07+01:00"
   },
   {
     "verein": "",
@@ -187,14 +169,5 @@
     "beschreibung": "Bundesliga Update: Wann läuft Manuel Neuers Zeit im Bayern-Trikot ab? – Manuel Neuer ist bei Bayerns 2:1-Erfolg verletzt ausgewechselt worden. Mal wieder. Das befeuert die Debatte rund um den Weltmeister. Stehen wir vor einer Wachablösung im Tor der Bayern?",
     "quelle": "https://www.sportschau.de/wann-laeuft-manuel-neuers-zeit-im-bayern-trikot-ab,bundesliga-update-wael-mohya-102.html",
     "erfasst_am": "2026-11-08T23:47:50+01:00"
-  },
-  {
-    "verein": "FC Bayern München",
-    "spieler": "",
-    "kategorie": "verletzung",
-    "status": "zurück",
-    "beschreibung": "Hoeneß kündigt Kompany-Comeback \"in zwei, drei Wochen\" an – Nach seiner Hirnhautreizung könnte Vincent Kompany schon bald wieder beim FC Bayern an der Seitenlinie stehen. Uli Hoeneß rechnet mit einer Rückkehr des Cheftrainers nach der Länderspielpause.",
-    "quelle": "https://www.sportschau.de/regional/br/br-hoeness-kompany-comeback-in-zwei-drei-wochen-102.html",
-    "erfasst_am": "2026-11-08T13:07:41+01:00"
   }
 ]
