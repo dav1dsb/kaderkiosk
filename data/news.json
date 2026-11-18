@@ -1,5 +1,14 @@
 [
   {
+    "verein": "FC Bayern München",
+    "spieler": "",
+    "kategorie": "verletzung",
+    "status": "fällt aus",
+    "beschreibung": "Loris Karius open to Bayern Munich move – Schalke goalkeeper Loris Karius has not ruled out a move to Bayern Munich, according to Sport Bild, who report that the 33-year-old could imagine himself becoming the No.2 to Jonas…",
+    "quelle": "https://www.getfootballnewsgermany.com/2026/loris-karius-open-to-bayern-munich-move/",
+    "erfasst_am": "2026-11-18T07:08:28+00:00"
+  },
+  {
     "verein": "VfB Stuttgart",
     "spieler": "",
     "kategorie": "verletzung",
@@ -7,24 +16,6 @@
     "beschreibung": "Der VfB Stuttgart und die schwierige Belastungssteuerung – Der VfB Stuttgart wirkte vor der Länderspielpause platt. Eine Rotation wie in der abgelaufenen Saison war bislang nicht möglich. Die Schwaben dürfen aber optimistisch sein.",
     "quelle": "https://www.sportschau.de/regional/swr/swr-frueh-am-limit-der-vfb-stuttgart-und-die-schwierige-belastungssteuerung-100.html",
     "erfasst_am": "2026-11-17T12:03:04+01:00"
-  },
-  {
-    "verein": "FC Bayern München",
-    "spieler": "",
-    "kategorie": "verletzung",
-    "status": "verletzt",
-    "beschreibung": "Bayern-Verteidiger Davies frustriert von Verletzung – FC-Bayern-Spieler Alphonso Davies verletzt sich beim Länderspiel mit Kanada wohl etwas schwerer. Der Linksverteidiger spricht von seinem Frust über die Verletzung. Bei den Münchnern verschärft sich die Verletzungsmisere nun weiter.",
-    "quelle": "https://www.sportschau.de/regional/br/br-in-der-umkleide-ausgetickt-davies-frustriert-von-verletzung-102.html",
-    "erfasst_am": "2026-11-16T15:48:07+01:00"
-  },
-  {
-    "verein": "FC Bayern München",
-    "spieler": "",
-    "kategorie": "verletzung",
-    "status": "fällt aus",
-    "beschreibung": "Bayern Munich’s Alphonso Davies sidelined with hamstring injury – Bayern Munich have announced that Alphonso Davies suffered a hamstring injury during the international break. The 26-year-old lasted just six minutes of Canada’s 3-2 win in Guatemala on Saturday. “Following…",
-    "quelle": "https://www.getfootballnewsgermany.com/2026/bayern-munich-alphonso-davies-sidelined-with-hamstring-injury/",
-    "erfasst_am": "2026-11-16T12:57:11+00:00"
   },
   {
     "verein": "",
