@@ -3,10 +3,28 @@
     "verein": "FC Bayern München",
     "spieler": "",
     "kategorie": "verletzung",
-    "status": "fällt aus",
-    "beschreibung": "Loris Karius open to Bayern Munich move – Schalke goalkeeper Loris Karius has not ruled out a move to Bayern Munich, according to Sport Bild, who report that the 33-year-old could imagine himself becoming the No.2 to Jonas…",
-    "quelle": "https://www.getfootballnewsgermany.com/2026/loris-karius-open-to-bayern-munich-move/",
-    "erfasst_am": "2026-11-18T07:08:28+00:00"
+    "status": "zurück",
+    "beschreibung": "\"Wird am Freitag spielen\": Dreesen kündigt Musiala-Rückkehr an – Jan-Christian Dreesen, Vorstandsvorsitzender des FC Bayern München, stellt ein Comeback von Jamal Musiala bereits am Freitag in Aussicht und spricht über die Aussagen von Uli Hoeneß zum Dribbelkünstler.",
+    "quelle": "https://www.sportschau.de/regional/br/br-wird-am-freitag-spielen-bayern-boss-mit-musiala-update-102.html",
+    "erfasst_am": "2026-11-18T23:18:28+01:00"
+  },
+  {
+    "verein": "",
+    "spieler": "",
+    "kategorie": "pressekonferenz",
+    "status": "Trainer-News",
+    "beschreibung": "Bayern-Trainer Kompany gegen Köln wieder dabei – Trainer Vincent Kompany kehrt beim FC Bayern München nach seiner Hirnhautreizung an den Spielfeldrand zurück. Dies bestätigte Vorstandschef Jan-Christian Dreesen bei einer Veranstaltung der \"Abendzeitung München\".",
+    "quelle": "https://www.sportschau.de/regional/br/br-fcb-nach-der-pause-kompany-vor-rueckkehr-auf-die-bank-102.html",
+    "erfasst_am": "2026-11-18T20:03:30+01:00"
+  },
+  {
+    "verein": "",
+    "spieler": "",
+    "kategorie": "transfer",
+    "status": "Gerücht",
+    "beschreibung": "FEATURE | Ranking the top 5 Bundesliga summer transfers so far – Almost €800m was spent among Bundesliga clubs on signings in the summer, per Transfermarkt, but while Bayern Munich and Borussia Dortmund have splashed big on Ismael Saibari and Konstantinos Karetsas,…",
+    "quelle": "https://www.getfootballnewsgermany.com/2026/ranking-the-top-5-bundesliga-summer-transfers-so-far-nkunku-fullkrug/",
+    "erfasst_am": "2026-11-18T17:27:01+00:00"
   },
   {
     "verein": "VfB Stuttgart",
