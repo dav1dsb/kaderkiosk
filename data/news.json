@@ -1,12 +1,12 @@
 [
   {
-    "verein": "FC Bayern München",
+    "verein": "",
     "spieler": "",
-    "kategorie": "verletzung",
-    "status": "zurück",
-    "beschreibung": "\"Wird am Freitag spielen\": Dreesen kündigt Musiala-Rückkehr an – Jan-Christian Dreesen, Vorstandsvorsitzender des FC Bayern München, stellt ein Comeback von Jamal Musiala bereits am Freitag in Aussicht und spricht über die Aussagen von Uli Hoeneß zum Dribbelkünstler.",
-    "quelle": "https://www.sportschau.de/regional/br/br-wird-am-freitag-spielen-bayern-boss-mit-musiala-update-102.html",
-    "erfasst_am": "2026-11-18T23:18:28+01:00"
+    "kategorie": "pressekonferenz",
+    "status": "Trainer-News",
+    "beschreibung": "Trainer Wagner spürt keinen Druck vom FC – Kölns Trainer fordert Mut und gibt seinen Spielern maximale Freiheit. Doch der FC muss langsam liefern – auch in München.",
+    "quelle": "https://www.sportschau.de/regional/wdr/wdr-trainer-wagner-spuert-keinen-druck-vom-fc-100.html",
+    "erfasst_am": "2026-11-19T11:05:00+01:00"
   },
   {
     "verein": "",
@@ -25,15 +25,6 @@
     "beschreibung": "FEATURE | Ranking the top 5 Bundesliga summer transfers so far – Almost €800m was spent among Bundesliga clubs on signings in the summer, per Transfermarkt, but while Bayern Munich and Borussia Dortmund have splashed big on Ismael Saibari and Konstantinos Karetsas,…",
     "quelle": "https://www.getfootballnewsgermany.com/2026/ranking-the-top-5-bundesliga-summer-transfers-so-far-nkunku-fullkrug/",
     "erfasst_am": "2026-11-18T17:27:01+00:00"
-  },
-  {
-    "verein": "VfB Stuttgart",
-    "spieler": "",
-    "kategorie": "verletzung",
-    "status": "fraglich",
-    "beschreibung": "Der VfB Stuttgart und die schwierige Belastungssteuerung – Der VfB Stuttgart wirkte vor der Länderspielpause platt. Eine Rotation wie in der abgelaufenen Saison war bislang nicht möglich. Die Schwaben dürfen aber optimistisch sein.",
-    "quelle": "https://www.sportschau.de/regional/swr/swr-frueh-am-limit-der-vfb-stuttgart-und-die-schwierige-belastungssteuerung-100.html",
-    "erfasst_am": "2026-11-17T12:03:04+01:00"
   },
   {
     "verein": "",
