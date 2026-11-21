@@ -1,5 +1,41 @@
 [
   {
+    "verein": "FC Bayern München",
+    "spieler": "",
+    "kategorie": "verletzung",
+    "status": "fällt aus",
+    "beschreibung": "Harry Kane’s surgery likely to force Bayern Munich’s hand on January 2027 transfer market – Harry Kane's lengthy injury absence may force Bayern Munich to seek reinforcements in January.",
+    "quelle": "https://www.getfootballnewsgermany.com/2026/harry-kane-surgery-bayern-transfers/",
+    "erfasst_am": "2026-11-21T13:16:50+00:00"
+  },
+  {
+    "verein": "FC Bayern München",
+    "spieler": "",
+    "kategorie": "verletzung",
+    "status": "fällt aus",
+    "beschreibung": "Schock für FC Bayern: Harry Kane erleidet Syndesmoseriss – Der FC Bayern München muss monatelang auf Starstürmer Harry Kane verzichten. Der Engländer zog sich einen Riss des Syndesmosebandes zu und ist schon operiert worden.",
+    "quelle": "https://www.sportschau.de/fussball/bundesliga/fc-bayern-muenchen-mehrere-monate-ohne-harry-kane,kane-verletzung-100.html",
+    "erfasst_am": "2026-11-21T12:22:23+01:00"
+  },
+  {
+    "verein": "SV Werder Bremen",
+    "spieler": "",
+    "kategorie": "pressekonferenz",
+    "status": "Trainer-News",
+    "beschreibung": "Werder-Trainer Thioune verlängert seinen Vertrag vorzeitig – Der Vertrag des 52-Jährigen wäre eigentlich im nächsten Sommer ausgelaufen. Jetzt bestätigte der Bremer Verein die Verlängerung, äußerte sich aber nicht zur Laufzeit.",
+    "quelle": "https://www.sportschau.de/regional/rb/rb-werder-trainer-thioune-verlaengert-seinen-vertrag-vorzeitig-102.html",
+    "erfasst_am": "2026-11-21T11:16:41+01:00"
+  },
+  {
+    "verein": "",
+    "spieler": "",
+    "kategorie": "verletzung",
+    "status": "verletzt",
+    "beschreibung": "Auch Rummenigge zweifelt an Musiala-Rückkehr auf Topniveau – Karl-Heinz Rummenigge hat in der Diskussion um Jamal Musiala noch einmal nachgelegt. Das Aufsichtsratsmitglied der Münchner hegt Zweifel, ob der verletzungsgeplagte Musiala wieder sein altes Niveau erreichen könne. Sportvorstand Eberl widerspricht.",
+    "quelle": "https://www.sportschau.de/regional/br/br-auch-rummenigge-zweifelt-an-musiala-rueckkehr-auf-topniveau-102.html",
+    "erfasst_am": "2026-11-21T09:57:11+01:00"
+  },
+  {
     "verein": "1. FC Köln",
     "spieler": "",
     "kategorie": "verletzung",
@@ -16,176 +52,5 @@
     "beschreibung": "Double injury blow for Bayern Munich – Injuries are mounting up at Bayern Munich after Harry Kane and Michael Olise were both forced off with injuries against Cologne in Friday night’s Bundesliga clash. Kane was replaced by…",
     "quelle": "https://www.getfootballnewsgermany.com/2026/double-injury-blow-for-bayern-munich/",
     "erfasst_am": "2026-11-20T20:41:12+00:00"
-  },
-  {
-    "verein": "",
-    "spieler": "",
-    "kategorie": "verletzung",
-    "status": "zurück",
-    "beschreibung": "Blessin wechselt im Abstiegskampf den Torwart – Moritz Nicolas ist wieder fit, doch Daniel Batz bleibt nach WDR-Informationen im Tor. Blessin wechselt damit seine Nummer eins.",
-    "quelle": "https://www.sportschau.de/regional/wdr/wdr-blessin-wechselt-im-abstiegskampf-den-torwart-100.html",
-    "erfasst_am": "2026-11-20T10:57:01+01:00"
-  },
-  {
-    "verein": "",
-    "spieler": "",
-    "kategorie": "transfer",
-    "status": "Gerücht",
-    "beschreibung": "FEATURE | Ranking the top 5 Bundesliga summer transfers so far – Almost €800m was spent among Bundesliga clubs on signings in the summer, per Transfermarkt, but while Bayern Munich and Borussia Dortmund have splashed big on Ismael Saibari and Konstantinos Karetsas,…",
-    "quelle": "https://www.getfootballnewsgermany.com/2026/ranking-the-top-5-bundesliga-summer-transfers-so-far-nkunku-fullkrug/",
-    "erfasst_am": "2026-11-18T17:27:01+00:00"
-  },
-  {
-    "verein": "",
-    "spieler": "",
-    "kategorie": "verletzung",
-    "status": "verletzt",
-    "beschreibung": "Bayern schlägt Mainz  - Neuer verletzt sich im Rekordspiel – Der FC Bayern marschiert weiter: Trotz eines unglücklichen Rekordspiels von Bayern-Torhüter Manuel Neuer haben die Münchner in Mainz die Tabellenführung behauptet.",
-    "quelle": "https://www.sportschau.de/fussball/bundesliga/kimmich-und-karl-fuehren-bayern-zu-arbeitssieg-in-mainz,spielbericht-mainz-05-bayern-muenchen-100.html",
-    "erfasst_am": "2026-11-09T00:00:28+01:00"
-  },
-  {
-    "verein": "Hamburger SV",
-    "spieler": "",
-    "kategorie": "ergebnis",
-    "status": "Spielbericht",
-    "beschreibung": "Hamburger SV schießt Gladbach zurück in die Krise – Der Hamburger SV hat das ereignisreiche Kellerduell gegen Borussia Mönchengladbach für sich entschieden - auch dank eines spektakulären Treffers von Miro Muheim.",
-    "quelle": "https://www.sportschau.de/fussball/bundesliga/hsv-schickt-gladbach-zurueck-in-die-krise,spielbericht-hamburger-sv-borussia-moenchengladbach-102.html",
-    "erfasst_am": "2026-11-09T00:00:18+01:00"
-  },
-  {
-    "verein": "Borussia Mönchengladbach",
-    "spieler": "",
-    "kategorie": "ergebnis",
-    "status": "Spielbericht",
-    "beschreibung": "Hamburger SV schießt Gladbach zurück in die Krise – Der Hamburger SV hat das ereignisreiche Kellerduell gegen Borussia Mönchengladbach für sich entschieden - auch dank eines spektakulären Treffers von Miro Muheim.",
-    "quelle": "https://www.sportschau.de/fussball/bundesliga/hsv-schickt-gladbach-zurueck-in-die-krise,spielbericht-hamburger-sv-borussia-moenchengladbach-102.html",
-    "erfasst_am": "2026-11-09T00:00:18+01:00"
-  },
-  {
-    "verein": "VfB Stuttgart",
-    "spieler": "",
-    "kategorie": "ergebnis",
-    "status": "Spielbericht",
-    "beschreibung": "Stuttgart bezwingt starke Bremer - Füllkrugs Serie endet – Kein Füllkrug-Tor, keine Bremer Punkte: In Stuttgart haben die Werderaner erneut eine gute Leistung gezeigt, diesmal aber eine knappe Niederlage hinnehmen müssen.",
-    "quelle": "https://www.sportschau.de/fussball/bundesliga/mittelstaedt-tor-reicht-stuttgart-gegen-starke-bremer,spielbericht-vfb-stuttgart-werder-bremen-106.html",
-    "erfasst_am": "2026-11-09T00:00:17+01:00"
-  },
-  {
-    "verein": "SV Werder Bremen",
-    "spieler": "",
-    "kategorie": "ergebnis",
-    "status": "Spielbericht",
-    "beschreibung": "Stuttgart bezwingt starke Bremer - Füllkrugs Serie endet – Kein Füllkrug-Tor, keine Bremer Punkte: In Stuttgart haben die Werderaner erneut eine gute Leistung gezeigt, diesmal aber eine knappe Niederlage hinnehmen müssen.",
-    "quelle": "https://www.sportschau.de/fussball/bundesliga/mittelstaedt-tor-reicht-stuttgart-gegen-starke-bremer,spielbericht-vfb-stuttgart-werder-bremen-106.html",
-    "erfasst_am": "2026-11-09T00:00:17+01:00"
-  },
-  {
-    "verein": "",
-    "spieler": "",
-    "kategorie": "sperre",
-    "status": "Platzverweis",
-    "beschreibung": "Traumtore und Platzverweis beim Hamburger Heimsieg – Der Hamburger SV hat einen verdienten Sieg gegen Borussia Mönchengladbach eingefahren. In einer umkämpften Partie brachte Miro Muheim die \"Rothosen\" sehenswert in Führung.",
-    "quelle": "https://www.sportschau.de/fussball/bundesliga/traumtore-und-platzverweis-beim-hamburger-heimsieg,video-bundesliga-hamburger-sv-borussia-moenchengladbach-zusammenfassung-104.html",
-    "erfasst_am": "2026-11-09T00:00:14+01:00"
-  },
-  {
-    "verein": "Borussia Dortmund",
-    "spieler": "",
-    "kategorie": "ergebnis",
-    "status": "Spielbericht",
-    "beschreibung": "Doppelpack Nmecha - Borussia Dortmund schlägt Elversberg – Borussia Dortmund bleibt in der Fußball-Bundesliga ungeschlagen. Der Sieg gegen Aufsteiger SV Elversberg war aber ein hartes Stück Arbeit. Matchwinner war Felix Nmecha.",
-    "quelle": "https://www.sportschau.de/fussball/bundesliga/doppelpack-nmecha-dortmund-schlaegt-elversberg,spielbericht-borussia-dortmund-sv-elversberg-100.html",
-    "erfasst_am": "2026-11-09T00:00:14+01:00"
-  },
-  {
-    "verein": "SV 07 Elversberg",
-    "spieler": "",
-    "kategorie": "ergebnis",
-    "status": "Spielbericht",
-    "beschreibung": "Doppelpack Nmecha - Borussia Dortmund schlägt Elversberg – Borussia Dortmund bleibt in der Fußball-Bundesliga ungeschlagen. Der Sieg gegen Aufsteiger SV Elversberg war aber ein hartes Stück Arbeit. Matchwinner war Felix Nmecha.",
-    "quelle": "https://www.sportschau.de/fussball/bundesliga/doppelpack-nmecha-dortmund-schlaegt-elversberg,spielbericht-borussia-dortmund-sv-elversberg-100.html",
-    "erfasst_am": "2026-11-09T00:00:14+01:00"
-  },
-  {
-    "verein": "SC Paderborn 07",
-    "spieler": "",
-    "kategorie": "ergebnis",
-    "status": "Spielbericht",
-    "beschreibung": "Burkardt rettet Frankfurt in letzter Minute Punkt in Paderborn – Eintracht Frankfurt hat dank eines Tores in der Nachspielzeit einen Punkt beim SC Paderborn gerettet. Überschattet wurde die Partie von einem medizinischen Notfall.",
-    "quelle": "https://www.sportschau.de/fussball/bundesliga/medizinischer-notfall-ueberschattet-remis-zwischen-paderborn-und-frankfurt,spielbericht-sc-paderborn-eintracht-frankfurt-100.html",
-    "erfasst_am": "2026-11-09T00:00:14+01:00"
-  },
-  {
-    "verein": "Eintracht Frankfurt",
-    "spieler": "",
-    "kategorie": "ergebnis",
-    "status": "Spielbericht",
-    "beschreibung": "Burkardt rettet Frankfurt in letzter Minute Punkt in Paderborn – Eintracht Frankfurt hat dank eines Tores in der Nachspielzeit einen Punkt beim SC Paderborn gerettet. Überschattet wurde die Partie von einem medizinischen Notfall.",
-    "quelle": "https://www.sportschau.de/fussball/bundesliga/medizinischer-notfall-ueberschattet-remis-zwischen-paderborn-und-frankfurt,spielbericht-sc-paderborn-eintracht-frankfurt-100.html",
-    "erfasst_am": "2026-11-09T00:00:14+01:00"
-  },
-  {
-    "verein": "RB Leipzig",
-    "spieler": "",
-    "kategorie": "ergebnis",
-    "status": "Spielbericht",
-    "beschreibung": "Überragender Gruda - Leipzig nimmt Augsburg auseinander – RB Leipzig spielt sich, angeführt von einem überragenden Brajan Gruda, gegen den FC Augsburg in einen kleinen Rausch. Die Augsburger geben erneut eine Führung aus der Hand und müssen sich erst einmal nach unten orientieren.",
-    "quelle": "https://www.sportschau.de/fussball/bundesliga/leipzig-nimmt-augsburg-auseinander,spielbericht-rb-leipzig-fc-augsburg-104.html",
-    "erfasst_am": "2026-11-09T00:00:09+01:00"
-  },
-  {
-    "verein": "FC Augsburg",
-    "spieler": "",
-    "kategorie": "ergebnis",
-    "status": "Spielbericht",
-    "beschreibung": "Überragender Gruda - Leipzig nimmt Augsburg auseinander – RB Leipzig spielt sich, angeführt von einem überragenden Brajan Gruda, gegen den FC Augsburg in einen kleinen Rausch. Die Augsburger geben erneut eine Führung aus der Hand und müssen sich erst einmal nach unten orientieren.",
-    "quelle": "https://www.sportschau.de/fussball/bundesliga/leipzig-nimmt-augsburg-auseinander,spielbericht-rb-leipzig-fc-augsburg-104.html",
-    "erfasst_am": "2026-11-09T00:00:09+01:00"
-  },
-  {
-    "verein": "TSG Hoffenheim",
-    "spieler": "",
-    "kategorie": "ergebnis",
-    "status": "Spielbericht",
-    "beschreibung": "Ein Tor, aber keine Punkte für Schalke 04 gegen Hoffenheim – Mal wieder ein Tor, aber kein Punkt: Der FC Schalke 04 hängt nach einer Niederlage bei der TSG Hoffenheim im Tabellenkeller der Fußball-Bundesliga fest und beklagt weitere Verletzte.",
-    "quelle": "https://www.sportschau.de/fussball/bundesliga/ein-tor-aber-keine-punkte-fuer-fc-schalke-04,spielbericht-tsg-hoffenheim-schalke-04-100.html",
-    "erfasst_am": "2026-11-09T00:00:00+01:00"
-  },
-  {
-    "verein": "FC Schalke 04",
-    "spieler": "",
-    "kategorie": "ergebnis",
-    "status": "Spielbericht",
-    "beschreibung": "Ein Tor, aber keine Punkte für Schalke 04 gegen Hoffenheim – Mal wieder ein Tor, aber kein Punkt: Der FC Schalke 04 hängt nach einer Niederlage bei der TSG Hoffenheim im Tabellenkeller der Fußball-Bundesliga fest und beklagt weitere Verletzte.",
-    "quelle": "https://www.sportschau.de/fussball/bundesliga/ein-tor-aber-keine-punkte-fuer-fc-schalke-04,spielbericht-tsg-hoffenheim-schalke-04-100.html",
-    "erfasst_am": "2026-11-09T00:00:00+01:00"
-  },
-  {
-    "verein": "SC Freiburg",
-    "spieler": "",
-    "kategorie": "ergebnis",
-    "status": "Spielbericht",
-    "beschreibung": "Null Torgefahr: Union bewirbt sich gegen Freiburg für den Abstiegskampf – Der SC Freiburg feierte einen ungefährdeten Heimsieg gegen erschreckend schwache Berliner. Allein Schlussmann Rönnow war es zu verdanken, dass die Niederlage nicht höher ausfiel.",
-    "quelle": "https://www.sportschau.de/fussball/bundesliga/null-torgefahr-union-bewirbt-sich-fuer-abstiegskampf,spielbericht-sc-freiburg-union-berlin-106.html",
-    "erfasst_am": "2026-11-09T00:00:00+01:00"
-  },
-  {
-    "verein": "1. FC Union Berlin",
-    "spieler": "",
-    "kategorie": "ergebnis",
-    "status": "Spielbericht",
-    "beschreibung": "Null Torgefahr: Union bewirbt sich gegen Freiburg für den Abstiegskampf – Der SC Freiburg feierte einen ungefährdeten Heimsieg gegen erschreckend schwache Berliner. Allein Schlussmann Rönnow war es zu verdanken, dass die Niederlage nicht höher ausfiel.",
-    "quelle": "https://www.sportschau.de/fussball/bundesliga/null-torgefahr-union-bewirbt-sich-fuer-abstiegskampf,spielbericht-sc-freiburg-union-berlin-106.html",
-    "erfasst_am": "2026-11-09T00:00:00+01:00"
-  },
-  {
-    "verein": "FC Bayern München",
-    "spieler": "",
-    "kategorie": "verletzung",
-    "status": "verletzt",
-    "beschreibung": "Bundesliga Update: Wann läuft Manuel Neuers Zeit im Bayern-Trikot ab? – Manuel Neuer ist bei Bayerns 2:1-Erfolg verletzt ausgewechselt worden. Mal wieder. Das befeuert die Debatte rund um den Weltmeister. Stehen wir vor einer Wachablösung im Tor der Bayern?",
-    "quelle": "https://www.sportschau.de/wann-laeuft-manuel-neuers-zeit-im-bayern-trikot-ab,bundesliga-update-wael-mohya-102.html",
-    "erfasst_am": "2026-11-08T23:47:50+01:00"
   }
 ]
