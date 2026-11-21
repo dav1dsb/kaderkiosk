@@ -1,5 +1,77 @@
 [
   {
+    "verein": "FC Schalke 04",
+    "spieler": "",
+    "kategorie": "ergebnis",
+    "status": "Spielbericht",
+    "beschreibung": "Wie verhext: Schalke trifft auch gegen Stuttgart zuhause das Tor nicht – Schalke 04 bleibt zuhause torlos und hat so nach einem eigentlich starken Auftritt gegen den Champions-League-Teilnehmer VfB Stuttgart einen Bundesliga-Negativrekord eingestellt.",
+    "quelle": "https://www.sportschau.de/fussball/bundesliga/schalke-zementiert-die-null-im-eigenen-stadion,spielbericht-schalke-04-vfb-stuttgart-100.html",
+    "erfasst_am": "2026-11-21T21:16:39+01:00"
+  },
+  {
+    "verein": "VfB Stuttgart",
+    "spieler": "",
+    "kategorie": "ergebnis",
+    "status": "Spielbericht",
+    "beschreibung": "Wie verhext: Schalke trifft auch gegen Stuttgart zuhause das Tor nicht – Schalke 04 bleibt zuhause torlos und hat so nach einem eigentlich starken Auftritt gegen den Champions-League-Teilnehmer VfB Stuttgart einen Bundesliga-Negativrekord eingestellt.",
+    "quelle": "https://www.sportschau.de/fussball/bundesliga/schalke-zementiert-die-null-im-eigenen-stadion,spielbericht-schalke-04-vfb-stuttgart-100.html",
+    "erfasst_am": "2026-11-21T21:16:39+01:00"
+  },
+  {
+    "verein": "Eintracht Frankfurt",
+    "spieler": "",
+    "kategorie": "ergebnis",
+    "status": "Spielbericht",
+    "beschreibung": "Atubolu rettet Frankfurt gegen Hoffenheim den Jubiläumssieg – Eine hochklassige erste Halbzeit reichte Eintracht Frankfurt zu einem besonderen Sieg gegen die TSG Hoffenheim. Überragend war SGE-Torwart Noah Atubolu.",
+    "quelle": "https://www.sportschau.de/fussball/bundesliga/famoser-atubolu-rettet-eintracht-jubilaeumssieg,spielbericht-eintracht-frankfurt-tsg-hoffenheim-106.html",
+    "erfasst_am": "2026-11-21T20:27:27+01:00"
+  },
+  {
+    "verein": "TSG Hoffenheim",
+    "spieler": "",
+    "kategorie": "ergebnis",
+    "status": "Spielbericht",
+    "beschreibung": "Atubolu rettet Frankfurt gegen Hoffenheim den Jubiläumssieg – Eine hochklassige erste Halbzeit reichte Eintracht Frankfurt zu einem besonderen Sieg gegen die TSG Hoffenheim. Überragend war SGE-Torwart Noah Atubolu.",
+    "quelle": "https://www.sportschau.de/fussball/bundesliga/famoser-atubolu-rettet-eintracht-jubilaeumssieg,spielbericht-eintracht-frankfurt-tsg-hoffenheim-106.html",
+    "erfasst_am": "2026-11-21T20:27:27+01:00"
+  },
+  {
+    "verein": "1. FC Union Berlin",
+    "spieler": "",
+    "kategorie": "ergebnis",
+    "status": "Spielbericht",
+    "beschreibung": "Leipzigs Offensive rollt auch bei Union Berlin – RB Leipzig macht bei Union Berlin genauso weiter wie vor der Länderspielpause und fährt den nächsten hohen Sieg ein.",
+    "quelle": "https://www.sportschau.de/fussball/bundesliga/leipzigs-offensive-rollt-auch-bei-union-berlin,spielbericht-union-berlin-rb-leipzig-104.html",
+    "erfasst_am": "2026-11-21T17:29:09+01:00"
+  },
+  {
+    "verein": "RB Leipzig",
+    "spieler": "",
+    "kategorie": "ergebnis",
+    "status": "Spielbericht",
+    "beschreibung": "Leipzigs Offensive rollt auch bei Union Berlin – RB Leipzig macht bei Union Berlin genauso weiter wie vor der Länderspielpause und fährt den nächsten hohen Sieg ein.",
+    "quelle": "https://www.sportschau.de/fussball/bundesliga/leipzigs-offensive-rollt-auch-bei-union-berlin,spielbericht-union-berlin-rb-leipzig-104.html",
+    "erfasst_am": "2026-11-21T17:29:09+01:00"
+  },
+  {
+    "verein": "SV 07 Elversberg",
+    "spieler": "",
+    "kategorie": "ergebnis",
+    "status": "Spielbericht",
+    "beschreibung": "Freiburg siegt in Elversberg und bleibt oben dran – Der SC Freiburg hat in der Fußball-Bundesliga einen Sieg bei der SV Elversberg eingefahren und ist als Tabellendritter weiter oben mit dabei.",
+    "quelle": "https://www.sportschau.de/fussball/bundesliga/freiburg-siegt-in-elversberg-und-bleibt-oben-dran,spielbericht-sv-elversberg-sc-freiburg-100.html",
+    "erfasst_am": "2026-11-21T17:21:24+01:00"
+  },
+  {
+    "verein": "SC Freiburg",
+    "spieler": "",
+    "kategorie": "ergebnis",
+    "status": "Spielbericht",
+    "beschreibung": "Freiburg siegt in Elversberg und bleibt oben dran – Der SC Freiburg hat in der Fußball-Bundesliga einen Sieg bei der SV Elversberg eingefahren und ist als Tabellendritter weiter oben mit dabei.",
+    "quelle": "https://www.sportschau.de/fussball/bundesliga/freiburg-siegt-in-elversberg-und-bleibt-oben-dran,spielbericht-sv-elversberg-sc-freiburg-100.html",
+    "erfasst_am": "2026-11-21T17:21:24+01:00"
+  },
+  {
     "verein": "FC Bayern München",
     "spieler": "",
     "kategorie": "verletzung",
@@ -16,24 +88,6 @@
     "beschreibung": "Schock für FC Bayern: Harry Kane erleidet Syndesmoseriss – Der FC Bayern München muss monatelang auf Starstürmer Harry Kane verzichten. Der Engländer zog sich einen Riss des Syndesmosebandes zu und ist schon operiert worden.",
     "quelle": "https://www.sportschau.de/fussball/bundesliga/fc-bayern-muenchen-mehrere-monate-ohne-harry-kane,kane-verletzung-100.html",
     "erfasst_am": "2026-11-21T12:22:23+01:00"
-  },
-  {
-    "verein": "SV Werder Bremen",
-    "spieler": "",
-    "kategorie": "pressekonferenz",
-    "status": "Trainer-News",
-    "beschreibung": "Werder-Trainer Thioune verlängert seinen Vertrag vorzeitig – Der Vertrag des 52-Jährigen wäre eigentlich im nächsten Sommer ausgelaufen. Jetzt bestätigte der Bremer Verein die Verlängerung, äußerte sich aber nicht zur Laufzeit.",
-    "quelle": "https://www.sportschau.de/regional/rb/rb-werder-trainer-thioune-verlaengert-seinen-vertrag-vorzeitig-102.html",
-    "erfasst_am": "2026-11-21T11:16:41+01:00"
-  },
-  {
-    "verein": "",
-    "spieler": "",
-    "kategorie": "verletzung",
-    "status": "verletzt",
-    "beschreibung": "Auch Rummenigge zweifelt an Musiala-Rückkehr auf Topniveau – Karl-Heinz Rummenigge hat in der Diskussion um Jamal Musiala noch einmal nachgelegt. Das Aufsichtsratsmitglied der Münchner hegt Zweifel, ob der verletzungsgeplagte Musiala wieder sein altes Niveau erreichen könne. Sportvorstand Eberl widerspricht.",
-    "quelle": "https://www.sportschau.de/regional/br/br-auch-rummenigge-zweifelt-an-musiala-rueckkehr-auf-topniveau-102.html",
-    "erfasst_am": "2026-11-21T09:57:11+01:00"
   },
   {
     "verein": "1. FC Köln",
