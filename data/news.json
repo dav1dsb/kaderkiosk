@@ -1,12 +1,39 @@
 [
   {
+    "verein": "SV Werder Bremen",
+    "spieler": "",
+    "kategorie": "ergebnis",
+    "status": "Spielbericht",
+    "beschreibung": "Werder Bremen hämmert den HSV im Nordderby weg – Werder Bremen bleibt die Bundesliga-Überraschung. Mit einem deutlichen Erfolg im Derby gegen den Hamburger SV halten die Grün-Weißen den Anschluss an die Spitzengruppe.",
+    "quelle": "https://www.sportschau.de/fussball/bundesliga/bremen-haemmert-hsv-im-nordderby-weg,spielbericht-werder-bremen-hamburger-sv-104.html",
+    "erfasst_am": "2026-11-22T21:07:14+01:00"
+  },
+  {
+    "verein": "Hamburger SV",
+    "spieler": "",
+    "kategorie": "ergebnis",
+    "status": "Spielbericht",
+    "beschreibung": "Werder Bremen hämmert den HSV im Nordderby weg – Werder Bremen bleibt die Bundesliga-Überraschung. Mit einem deutlichen Erfolg im Derby gegen den Hamburger SV halten die Grün-Weißen den Anschluss an die Spitzengruppe.",
+    "quelle": "https://www.sportschau.de/fussball/bundesliga/bremen-haemmert-hsv-im-nordderby-weg,spielbericht-werder-bremen-hamburger-sv-104.html",
+    "erfasst_am": "2026-11-22T21:07:14+01:00"
+  },
+  {
     "verein": "FC Augsburg",
     "spieler": "",
     "kategorie": "sperre",
     "status": "Platzverweis",
-    "beschreibung": "FC Augsburgs Befreiungsschlag verschärft Krise von Mainz 05 – Der FC Augsburg hat in der Bundesliga trotz einer Roten Karte erstmals seit dem zweiten Spieltag wieder gewonnen und damit die Krise des 1. FSV Mainz 05 weiter verschärft.",
+    "beschreibung": "Augsburg’s Manuel Baum questions rulebook’s double standard after seeing red in Bundesliga win – Augsburg head coach Manuel Baum acknowledged that referee Martin Petersen was correct to send him off against Mainz, but questioned why coaches face a straight red card for an offence that would ordinarily earn a player a booking.",
+    "quelle": "https://www.getfootballnewsgermany.com/2026/manuel-baum-red-card-mainz/",
+    "erfasst_am": "2026-11-22T19:58:29+00:00"
+  },
+  {
+    "verein": "FC Augsburg",
+    "spieler": "",
+    "kategorie": "sperre",
+    "status": "Platzverweis",
+    "beschreibung": "FC Augsburgs Befreiungsschlag verschärft Krise von Mainz 05 – Der FC Augsburg hat in der Bundesliga trotz einer Roten Karte erstmals seit dem 2. Spieltag wieder gewonnen und damit die Krise des 1. FSV Mainz 05 weiter verschärft.",
     "quelle": "https://www.sportschau.de/fussball/bundesliga/augsburger-befreiungsschlag-verschaerft-mainzer-krise,spielbericht-fc-augsburg-mainz-05-100.html",
-    "erfasst_am": "2026-11-22T17:28:28+01:00"
+    "erfasst_am": "2026-11-22T18:38:34+01:00"
   },
   {
     "verein": "FC Bayern München",
