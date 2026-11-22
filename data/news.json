@@ -1,5 +1,23 @@
 [
   {
+    "verein": "FC Augsburg",
+    "spieler": "",
+    "kategorie": "sperre",
+    "status": "Platzverweis",
+    "beschreibung": "FC Augsburgs Befreiungsschlag verschärft Krise von Mainz 05 – Der FC Augsburg hat in der Bundesliga trotz einer Roten Karte erstmals seit dem zweiten Spieltag wieder gewonnen und damit die Krise des 1. FSV Mainz 05 weiter verschärft.",
+    "quelle": "https://www.sportschau.de/fussball/bundesliga/augsburger-befreiungsschlag-verschaerft-mainzer-krise,spielbericht-fc-augsburg-mainz-05-100.html",
+    "erfasst_am": "2026-11-22T17:28:28+01:00"
+  },
+  {
+    "verein": "FC Bayern München",
+    "spieler": "",
+    "kategorie": "verletzung",
+    "status": "fällt aus",
+    "beschreibung": "Bayern Munich’s Michael Olise set to miss Lille game – Bayern Munich face Lille in the UEFA Champions League on Wednesday night, but they will likely be without Michael Olise after the Frenchman suffered an injury in Friday’s 1-1 draw…",
+    "quelle": "https://www.getfootballnewsgermany.com/2026/bayern-munichs-michael-olise-set-to-miss-lille-game/",
+    "erfasst_am": "2026-11-22T11:32:26+00:00"
+  },
+  {
     "verein": "FC Schalke 04",
     "spieler": "",
     "kategorie": "ergebnis",
@@ -70,15 +88,6 @@
     "beschreibung": "Freiburg siegt in Elversberg und bleibt oben dran – Der SC Freiburg hat in der Fußball-Bundesliga einen Sieg bei der SV Elversberg eingefahren und ist als Tabellendritter weiter oben mit dabei.",
     "quelle": "https://www.sportschau.de/fussball/bundesliga/freiburg-siegt-in-elversberg-und-bleibt-oben-dran,spielbericht-sv-elversberg-sc-freiburg-100.html",
     "erfasst_am": "2026-11-21T17:21:24+01:00"
-  },
-  {
-    "verein": "FC Bayern München",
-    "spieler": "",
-    "kategorie": "verletzung",
-    "status": "fällt aus",
-    "beschreibung": "Harry Kane’s surgery likely to force Bayern Munich’s hand on January 2027 transfer market – Harry Kane's lengthy injury absence may force Bayern Munich to seek reinforcements in January.",
-    "quelle": "https://www.getfootballnewsgermany.com/2026/harry-kane-surgery-bayern-transfers/",
-    "erfasst_am": "2026-11-21T13:16:50+00:00"
   },
   {
     "verein": "FC Bayern München",
