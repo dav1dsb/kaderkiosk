@@ -1,93 +1,12 @@
 [
   {
-    "verein": "SV Werder Bremen",
-    "spieler": "",
-    "kategorie": "ergebnis",
-    "status": "Spielbericht",
-    "beschreibung": "Werder Bremen hämmert den HSV im Nordderby weg – Werder Bremen bleibt die Bundesliga-Überraschung. Mit einem deutlichen Erfolg im Derby gegen den Hamburger SV halten die Grün-Weißen den Anschluss an die Spitzengruppe.",
-    "quelle": "https://www.sportschau.de/fussball/bundesliga/bremen-haemmert-hsv-im-nordderby-weg,spielbericht-werder-bremen-hamburger-sv-104.html",
-    "erfasst_am": "2026-11-22T21:07:14+01:00"
-  },
-  {
-    "verein": "Hamburger SV",
-    "spieler": "",
-    "kategorie": "ergebnis",
-    "status": "Spielbericht",
-    "beschreibung": "Werder Bremen hämmert den HSV im Nordderby weg – Werder Bremen bleibt die Bundesliga-Überraschung. Mit einem deutlichen Erfolg im Derby gegen den Hamburger SV halten die Grün-Weißen den Anschluss an die Spitzengruppe.",
-    "quelle": "https://www.sportschau.de/fussball/bundesliga/bremen-haemmert-hsv-im-nordderby-weg,spielbericht-werder-bremen-hamburger-sv-104.html",
-    "erfasst_am": "2026-11-22T21:07:14+01:00"
-  },
-  {
-    "verein": "FC Augsburg",
-    "spieler": "",
-    "kategorie": "sperre",
-    "status": "Platzverweis",
-    "beschreibung": "FC Augsburgs Befreiungsschlag verschärft Krise von Mainz 05 – Der FC Augsburg hat in der Bundesliga trotz einer Roten Karte erstmals seit dem 2. Spieltag wieder gewonnen und damit die Krise des 1. FSV Mainz 05 weiter verschärft.",
-    "quelle": "https://www.sportschau.de/fussball/bundesliga/augsburger-befreiungsschlag-verschaerft-mainzer-krise,spielbericht-fc-augsburg-mainz-05-100.html",
-    "erfasst_am": "2026-11-22T18:38:34+01:00"
-  },
-  {
-    "verein": "FC Schalke 04",
-    "spieler": "",
-    "kategorie": "ergebnis",
-    "status": "Spielbericht",
-    "beschreibung": "Wie verhext: Schalke trifft auch gegen Stuttgart zu Hause das Tor nicht – Schalke 04 bleibt zu Hause torlos und hat so nach einem eigentlich starken Auftritt gegen den Champions-League-Teilnehmer VfB Stuttgart einen Bundesliga-Negativrekord eingestellt.",
-    "quelle": "https://www.sportschau.de/fussball/bundesliga/wie-verhext-schalke-trifft-zu-hause-tor-nicht,spielbericht-schalke-04-vfb-stuttgart-100.html",
-    "erfasst_am": "2026-11-21T21:16:39+01:00"
-  },
-  {
-    "verein": "VfB Stuttgart",
-    "spieler": "",
-    "kategorie": "ergebnis",
-    "status": "Spielbericht",
-    "beschreibung": "Wie verhext: Schalke trifft auch gegen Stuttgart zu Hause das Tor nicht – Schalke 04 bleibt zu Hause torlos und hat so nach einem eigentlich starken Auftritt gegen den Champions-League-Teilnehmer VfB Stuttgart einen Bundesliga-Negativrekord eingestellt.",
-    "quelle": "https://www.sportschau.de/fussball/bundesliga/wie-verhext-schalke-trifft-zu-hause-tor-nicht,spielbericht-schalke-04-vfb-stuttgart-100.html",
-    "erfasst_am": "2026-11-21T21:16:39+01:00"
-  },
-  {
-    "verein": "Eintracht Frankfurt",
-    "spieler": "",
-    "kategorie": "ergebnis",
-    "status": "Spielbericht",
-    "beschreibung": "Atubolu rettet Frankfurt gegen Hoffenheim den Jubiläumssieg – Eine hochklassige erste Halbzeit reichte Eintracht Frankfurt zu einem besonderen Sieg gegen die TSG Hoffenheim. Überragend war SGE-Torwart Noah Atubolu.",
-    "quelle": "https://www.sportschau.de/fussball/bundesliga/famoser-atubolu-rettet-eintracht-jubilaeumssieg,spielbericht-eintracht-frankfurt-tsg-hoffenheim-106.html",
-    "erfasst_am": "2026-11-21T20:27:27+01:00"
-  },
-  {
-    "verein": "TSG Hoffenheim",
-    "spieler": "",
-    "kategorie": "ergebnis",
-    "status": "Spielbericht",
-    "beschreibung": "Atubolu rettet Frankfurt gegen Hoffenheim den Jubiläumssieg – Eine hochklassige erste Halbzeit reichte Eintracht Frankfurt zu einem besonderen Sieg gegen die TSG Hoffenheim. Überragend war SGE-Torwart Noah Atubolu.",
-    "quelle": "https://www.sportschau.de/fussball/bundesliga/famoser-atubolu-rettet-eintracht-jubilaeumssieg,spielbericht-eintracht-frankfurt-tsg-hoffenheim-106.html",
-    "erfasst_am": "2026-11-21T20:27:27+01:00"
-  },
-  {
-    "verein": "1. FC Union Berlin",
-    "spieler": "",
-    "kategorie": "ergebnis",
-    "status": "Spielbericht",
-    "beschreibung": "Leipzigs Offensive rollt auch bei Union Berlin – RB Leipzig macht bei Union Berlin genauso weiter wie vor der Länderspielpause und fährt den nächsten hohen Sieg ein.",
-    "quelle": "https://www.sportschau.de/fussball/bundesliga/leipzigs-offensive-rollt-auch-bei-union-berlin,spielbericht-union-berlin-rb-leipzig-104.html",
-    "erfasst_am": "2026-11-21T17:29:09+01:00"
-  },
-  {
-    "verein": "RB Leipzig",
-    "spieler": "",
-    "kategorie": "ergebnis",
-    "status": "Spielbericht",
-    "beschreibung": "Leipzigs Offensive rollt auch bei Union Berlin – RB Leipzig macht bei Union Berlin genauso weiter wie vor der Länderspielpause und fährt den nächsten hohen Sieg ein.",
-    "quelle": "https://www.sportschau.de/fussball/bundesliga/leipzigs-offensive-rollt-auch-bei-union-berlin,spielbericht-union-berlin-rb-leipzig-104.html",
-    "erfasst_am": "2026-11-21T17:29:09+01:00"
-  },
-  {
     "verein": "SV 07 Elversberg",
     "spieler": "",
     "kategorie": "ergebnis",
     "status": "Spielbericht",
     "beschreibung": "Freiburg siegt in Elversberg und bleibt oben dran – Der SC Freiburg hat in der Fußball-Bundesliga einen Sieg bei der SV Elversberg eingefahren und ist als Tabellendritter weiter oben mit dabei.",
     "quelle": "https://www.sportschau.de/fussball/bundesliga/freiburg-siegt-in-elversberg-und-bleibt-oben-dran,spielbericht-sv-elversberg-sc-freiburg-100.html",
-    "erfasst_am": "2026-11-21T17:21:24+01:00"
+    "erfasst_am": "2026-11-23T00:00:15+01:00"
   },
   {
     "verein": "SC Freiburg",
@@ -96,16 +15,70 @@
     "status": "Spielbericht",
     "beschreibung": "Freiburg siegt in Elversberg und bleibt oben dran – Der SC Freiburg hat in der Fußball-Bundesliga einen Sieg bei der SV Elversberg eingefahren und ist als Tabellendritter weiter oben mit dabei.",
     "quelle": "https://www.sportschau.de/fussball/bundesliga/freiburg-siegt-in-elversberg-und-bleibt-oben-dran,spielbericht-sv-elversberg-sc-freiburg-100.html",
-    "erfasst_am": "2026-11-21T17:21:24+01:00"
+    "erfasst_am": "2026-11-23T00:00:15+01:00"
   },
   {
-    "verein": "FC Bayern München",
+    "verein": "1. FC Union Berlin",
     "spieler": "",
-    "kategorie": "verletzung",
-    "status": "fällt aus",
-    "beschreibung": "Schock für FC Bayern: Harry Kane erleidet Syndesmoseriss – Der FC Bayern München muss monatelang auf Starstürmer Harry Kane verzichten. Der Engländer zog sich einen Riss des Syndesmosebandes zu und ist schon operiert worden.",
-    "quelle": "https://www.sportschau.de/fussball/bundesliga/fc-bayern-muenchen-mehrere-monate-ohne-harry-kane,kane-verletzung-100.html",
-    "erfasst_am": "2026-11-21T12:22:23+01:00"
+    "kategorie": "ergebnis",
+    "status": "Spielbericht",
+    "beschreibung": "Leipzigs Offensive rollt auch bei Union Berlin – RB Leipzig macht bei Union Berlin genauso weiter wie vor der Länderspielpause und fährt den nächsten hohen Sieg ein.",
+    "quelle": "https://www.sportschau.de/fussball/bundesliga/leipzigs-offensive-rollt-auch-bei-union-berlin,spielbericht-union-berlin-rb-leipzig-104.html",
+    "erfasst_am": "2026-11-23T00:00:13+01:00"
+  },
+  {
+    "verein": "RB Leipzig",
+    "spieler": "",
+    "kategorie": "ergebnis",
+    "status": "Spielbericht",
+    "beschreibung": "Leipzigs Offensive rollt auch bei Union Berlin – RB Leipzig macht bei Union Berlin genauso weiter wie vor der Länderspielpause und fährt den nächsten hohen Sieg ein.",
+    "quelle": "https://www.sportschau.de/fussball/bundesliga/leipzigs-offensive-rollt-auch-bei-union-berlin,spielbericht-union-berlin-rb-leipzig-104.html",
+    "erfasst_am": "2026-11-23T00:00:13+01:00"
+  },
+  {
+    "verein": "Eintracht Frankfurt",
+    "spieler": "",
+    "kategorie": "ergebnis",
+    "status": "Spielbericht",
+    "beschreibung": "Atubolu rettet Frankfurt gegen Hoffenheim den Jubiläumssieg – Eine hochklassige erste Halbzeit reichte Eintracht Frankfurt zu einem besonderen Sieg gegen die TSG Hoffenheim. Überragend war SGE-Torwart Noah Atubolu.",
+    "quelle": "https://www.sportschau.de/fussball/bundesliga/famoser-atubolu-rettet-eintracht-jubilaeumssieg,spielbericht-eintracht-frankfurt-tsg-hoffenheim-106.html",
+    "erfasst_am": "2026-11-23T00:00:12+01:00"
+  },
+  {
+    "verein": "TSG Hoffenheim",
+    "spieler": "",
+    "kategorie": "ergebnis",
+    "status": "Spielbericht",
+    "beschreibung": "Atubolu rettet Frankfurt gegen Hoffenheim den Jubiläumssieg – Eine hochklassige erste Halbzeit reichte Eintracht Frankfurt zu einem besonderen Sieg gegen die TSG Hoffenheim. Überragend war SGE-Torwart Noah Atubolu.",
+    "quelle": "https://www.sportschau.de/fussball/bundesliga/famoser-atubolu-rettet-eintracht-jubilaeumssieg,spielbericht-eintracht-frankfurt-tsg-hoffenheim-106.html",
+    "erfasst_am": "2026-11-23T00:00:12+01:00"
+  },
+  {
+    "verein": "FC Schalke 04",
+    "spieler": "",
+    "kategorie": "ergebnis",
+    "status": "Spielbericht",
+    "beschreibung": "Wie verhext: Schalke trifft auch gegen Stuttgart zu Hause das Tor nicht – Schalke 04 bleibt zu Hause torlos und hat so nach einem eigentlich starken Auftritt gegen den Champions-League-Teilnehmer VfB Stuttgart einen Bundesliga-Negativrekord eingestellt.",
+    "quelle": "https://www.sportschau.de/fussball/bundesliga/wie-verhext-schalke-trifft-zu-hause-tor-nicht,spielbericht-schalke-04-vfb-stuttgart-100.html",
+    "erfasst_am": "2026-11-23T00:00:11+01:00"
+  },
+  {
+    "verein": "VfB Stuttgart",
+    "spieler": "",
+    "kategorie": "ergebnis",
+    "status": "Spielbericht",
+    "beschreibung": "Wie verhext: Schalke trifft auch gegen Stuttgart zu Hause das Tor nicht – Schalke 04 bleibt zu Hause torlos und hat so nach einem eigentlich starken Auftritt gegen den Champions-League-Teilnehmer VfB Stuttgart einen Bundesliga-Negativrekord eingestellt.",
+    "quelle": "https://www.sportschau.de/fussball/bundesliga/wie-verhext-schalke-trifft-zu-hause-tor-nicht,spielbericht-schalke-04-vfb-stuttgart-100.html",
+    "erfasst_am": "2026-11-23T00:00:11+01:00"
+  },
+  {
+    "verein": "FC Augsburg",
+    "spieler": "",
+    "kategorie": "sperre",
+    "status": "Platzverweis",
+    "beschreibung": "FC Augsburgs Befreiungsschlag verschärft Krise von Mainz 05 – Der FC Augsburg hat in der Bundesliga trotz einer Roten Karte erstmals seit dem 2. Spieltag wieder gewonnen und damit die Krise des 1. FSV Mainz 05 weiter verschärft.",
+    "quelle": "https://www.sportschau.de/fussball/bundesliga/augsburger-befreiungsschlag-verschaerft-mainzer-krise,spielbericht-fc-augsburg-mainz-05-100.html",
+    "erfasst_am": "2026-11-23T00:00:09+01:00"
   },
   {
     "verein": "1. FC Köln",
@@ -114,6 +87,33 @@
     "status": "verletzt",
     "beschreibung": "Bei Remis gegen Köln: Bayerns Kane und Olise verletzt ausgewechselt – Dicke Überraschung am Freitagabend: Mit einer couragierten Leistung hat der 1. FC Köln beim FC Bayern ein Remis erkämpft. Bayerns Starspieler Kane und Olise mussten früh verletzt raus. Den Ballon d'Or-Gewinner traf es schwer.",
     "quelle": "https://www.sportschau.de/fussball/bundesliga/koeln-ueberrascht-in-muenchen-kane-und-olise-verletzt-ausgewechselt,spielbericht-bayern-muenchen-koeln-102.html",
-    "erfasst_am": "2026-11-20T23:08:33+01:00"
+    "erfasst_am": "2026-11-23T00:00:07+01:00"
+  },
+  {
+    "verein": "SV Werder Bremen",
+    "spieler": "",
+    "kategorie": "ergebnis",
+    "status": "Spielbericht",
+    "beschreibung": "Werder Bremen hämmert den HSV im Nordderby weg – Werder Bremen bleibt die Bundesliga-Überraschung. Mit einem deutlichen Erfolg im Derby gegen den Hamburger SV halten die Grün-Weißen den Anschluss an die Spitzengruppe.",
+    "quelle": "https://www.sportschau.de/fussball/bundesliga/bremen-haemmert-hsv-im-nordderby-weg,spielbericht-werder-bremen-hamburger-sv-104.html",
+    "erfasst_am": "2026-11-23T00:00:04+01:00"
+  },
+  {
+    "verein": "Hamburger SV",
+    "spieler": "",
+    "kategorie": "ergebnis",
+    "status": "Spielbericht",
+    "beschreibung": "Werder Bremen hämmert den HSV im Nordderby weg – Werder Bremen bleibt die Bundesliga-Überraschung. Mit einem deutlichen Erfolg im Derby gegen den Hamburger SV halten die Grün-Weißen den Anschluss an die Spitzengruppe.",
+    "quelle": "https://www.sportschau.de/fussball/bundesliga/bremen-haemmert-hsv-im-nordderby-weg,spielbericht-werder-bremen-hamburger-sv-104.html",
+    "erfasst_am": "2026-11-23T00:00:04+01:00"
+  },
+  {
+    "verein": "Borussia Dortmund",
+    "spieler": "",
+    "kategorie": "verletzung",
+    "status": "fällt aus",
+    "beschreibung": "Das Meisterrennen der Bundesliga: Spanned wie lange nicht? – Harry Kane fällt monatelang aus, Borussia Dortmund hat die Tabellenführung übernommen. Dahinter lauern Leipzig und Freiburg. Steht uns die spannendste Bundesliga-Saison seit langem bevor?",
+    "quelle": "https://www.sportschau.de/kane-verletzt-wirbel-um-musiala-ist-dortmunds-chance,bundesliga-update-spieltag-10-100.html",
+    "erfasst_am": "2026-11-22T23:09:02+01:00"
   }
 ]
