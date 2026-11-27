@@ -1,11 +1,20 @@
 [
   {
+    "verein": "TSG Hoffenheim",
+    "spieler": "",
+    "kategorie": "sperre",
+    "status": "gesperrt",
+    "beschreibung": "Hoffenheim lodge appeal against Ozan Kabak’s four-match Bundesliga ban – Hoffenheim have appealed defender Ozan Kabak's four-match suspension.",
+    "quelle": "https://www.getfootballnewsgermany.com/2026/hoffenheim-kabak-ban-appeal/",
+    "erfasst_am": "2026-11-27T19:28:41+00:00"
+  },
+  {
     "verein": "FC Bayern München",
     "spieler": "",
     "kategorie": "verletzung",
-    "status": "verletzt",
-    "beschreibung": "Michael Olise to miss Bayern Munich’s Bundesliga game vs. Hamburg – Bayern Munich head coach Vincent Kompany has confirmed that they will be without Michael Olise for their Bundesliga game against Hamburg on Saturday. The Frenchman was injured in last weekend’s…",
-    "quelle": "https://www.getfootballnewsgermany.com/2026/michael-olise-to-miss-bayern-munichs-bundesliga-game-vs-hamburg/",
-    "erfasst_am": "2026-11-27T10:07:19+00:00"
+    "status": "fällt aus",
+    "beschreibung": "Jamal Musiala sidelined through the end of 2026 after aggravating muscle injury – Jamal Musiala faces another spell on the sidelines after reportedly aggravating his previous muscle injury",
+    "quelle": "https://www.getfootballnewsgermany.com/2026/jamal-musiala-injury-setback-nov-26/",
+    "erfasst_am": "2026-11-27T14:28:37+00:00"
   }
 ]

@@ -1,12 +1,48 @@
 [
   {
-    "verein": "FC Bayern München",
+    "verein": "SV Werder Bremen",
+    "spieler": "",
+    "kategorie": "ergebnis",
+    "status": "Spielbericht",
+    "beschreibung": "Natürlich Füllkrug - Gladbach verspielt Sieg in Bremen – Werder Bremen und Borussia Mönchengladbach liefern sich ein rasantes und hoch emotionales Bundesligaspiel, in dem die Fohlen eine Zwei-Tore-Führung verspielen.",
+    "quelle": "https://www.sportschau.de/fussball/bundesliga/gladbach-und-bremen-mit-spektakulaerem-remis,spielbericht-werder-bremen-borussia-moenchengladbach-114.html",
+    "erfasst_am": "2026-11-27T23:37:07+01:00"
+  },
+  {
+    "verein": "Borussia Mönchengladbach",
+    "spieler": "",
+    "kategorie": "ergebnis",
+    "status": "Spielbericht",
+    "beschreibung": "Natürlich Füllkrug - Gladbach verspielt Sieg in Bremen – Werder Bremen und Borussia Mönchengladbach liefern sich ein rasantes und hoch emotionales Bundesligaspiel, in dem die Fohlen eine Zwei-Tore-Führung verspielen.",
+    "quelle": "https://www.sportschau.de/fussball/bundesliga/gladbach-und-bremen-mit-spektakulaerem-remis,spielbericht-werder-bremen-borussia-moenchengladbach-114.html",
+    "erfasst_am": "2026-11-27T23:37:07+01:00"
+  },
+  {
+    "verein": "TSG Hoffenheim",
+    "spieler": "",
+    "kategorie": "sperre",
+    "status": "gesperrt",
+    "beschreibung": "Hoffenheim lodge appeal against Ozan Kabak’s four-match Bundesliga ban – Hoffenheim have appealed defender Ozan Kabak's four-match suspension.",
+    "quelle": "https://www.getfootballnewsgermany.com/2026/hoffenheim-kabak-ban-appeal/",
+    "erfasst_am": "2026-11-27T19:28:41+00:00"
+  },
+  {
+    "verein": "",
     "spieler": "",
     "kategorie": "verletzung",
     "status": "verletzt",
-    "beschreibung": "Michael Olise to miss Bayern Munich’s Bundesliga game vs. Hamburg – Bayern Munich head coach Vincent Kompany has confirmed that they will be without Michael Olise for their Bundesliga game against Hamburg on Saturday. The Frenchman was injured in last weekend’s…",
-    "quelle": "https://www.getfootballnewsgermany.com/2026/michael-olise-to-miss-bayern-munichs-bundesliga-game-vs-hamburg/",
-    "erfasst_am": "2026-11-27T10:07:19+00:00"
+    "beschreibung": "Nächster Rückschlag: Bayerns Musiala erneut verletzt – Jamal Musiala hat einen weiteren Rückschlag kassiert. Der deutsche Nationalspieler hat sich einen Muskelfaserriss zugezogen und wird dem FC Bayern München somit im Auswärtsspiel beim Hamburger SV am Samstag fehlen.",
+    "quelle": "https://www.sportschau.de/regional/br/br-naechster-rueckschlag-fuer-die-bayern-musiala-faellt-verletzt-aus-102.html",
+    "erfasst_am": "2026-11-27T16:10:44+01:00"
+  },
+  {
+    "verein": "FC Bayern München",
+    "spieler": "",
+    "kategorie": "verletzung",
+    "status": "fällt aus",
+    "beschreibung": "Jamal Musiala sidelined through the end of 2026 after aggravating muscle injury – Jamal Musiala faces another spell on the sidelines after reportedly aggravating his previous muscle injury",
+    "quelle": "https://www.getfootballnewsgermany.com/2026/jamal-musiala-injury-setback-nov-26/",
+    "erfasst_am": "2026-11-27T14:28:37+00:00"
   },
   {
     "verein": "SV 07 Elversberg",

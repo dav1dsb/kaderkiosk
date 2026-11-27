@@ -1,5 +1,32 @@
 [
   {
+    "verein": "SV Werder Bremen",
+    "spieler": "",
+    "kategorie": "ergebnis",
+    "status": "Spielbericht",
+    "beschreibung": "Natürlich Füllkrug - Gladbach verspielt Sieg in Bremen – Werder Bremen und Borussia Mönchengladbach liefern sich ein rasantes und hoch emotionales Bundesligaspiel, in dem die Fohlen eine Zwei-Tore-Führung verspielen.",
+    "quelle": "https://www.sportschau.de/fussball/bundesliga/gladbach-und-bremen-mit-spektakulaerem-remis,spielbericht-werder-bremen-borussia-moenchengladbach-114.html",
+    "erfasst_am": "2026-11-27T23:37:07+01:00"
+  },
+  {
+    "verein": "Borussia Mönchengladbach",
+    "spieler": "",
+    "kategorie": "ergebnis",
+    "status": "Spielbericht",
+    "beschreibung": "Natürlich Füllkrug - Gladbach verspielt Sieg in Bremen – Werder Bremen und Borussia Mönchengladbach liefern sich ein rasantes und hoch emotionales Bundesligaspiel, in dem die Fohlen eine Zwei-Tore-Führung verspielen.",
+    "quelle": "https://www.sportschau.de/fussball/bundesliga/gladbach-und-bremen-mit-spektakulaerem-remis,spielbericht-werder-bremen-borussia-moenchengladbach-114.html",
+    "erfasst_am": "2026-11-27T23:37:07+01:00"
+  },
+  {
+    "verein": "",
+    "spieler": "",
+    "kategorie": "verletzung",
+    "status": "verletzt",
+    "beschreibung": "Nächster Rückschlag: Bayerns Musiala erneut verletzt – Jamal Musiala hat einen weiteren Rückschlag kassiert. Der deutsche Nationalspieler hat sich einen Muskelfaserriss zugezogen und wird dem FC Bayern München somit im Auswärtsspiel beim Hamburger SV am Samstag fehlen.",
+    "quelle": "https://www.sportschau.de/regional/br/br-naechster-rueckschlag-fuer-die-bayern-musiala-faellt-verletzt-aus-102.html",
+    "erfasst_am": "2026-11-27T16:10:44+01:00"
+  },
+  {
     "verein": "SV 07 Elversberg",
     "spieler": "",
     "kategorie": "ergebnis",
